@@ -1,0 +1,5 @@
+NEW_VERSION=2.0.0
+mkdir versions/$NEW_VERSION
+cp -r "$(mhcflurry-downloads path analysis_predictor_info)" versions/$NEW_VERSION/analysis_predictor_info
+rm current
+ln -s versions/$NEW_VERSION current

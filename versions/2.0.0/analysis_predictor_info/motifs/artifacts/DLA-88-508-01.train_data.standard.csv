@@ -1,0 +1,97 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+DLA-88*508:01,AFFGPEGFHEK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,False
+DLA-88*508:01,AISDGVYGK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,AISDGVYGK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,ATKESDGFHRF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,AVGVIKAVDKK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,FAIGSQTTKK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,FFFDLNEKQGRK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,FFKPHWDEK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,FMVHIGNFSRK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,FMVHIGNFSRK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,FPHNPEGKTRD,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,FQPQNGQFI,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,FQPQNGQFI,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,GFLGGGGGGGK,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,False,True
+DLA-88*508:01,GLFGGGGGK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,GMFGGGGGG,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,GMFGGGGGGGK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,GMFGGGGGK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,GMGGGGGGK,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,False
+DLA-88*508:01,GNDGGGGGE,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,GNDGGGGGGGE,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,GRLIPQVRVID,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,HVIETLIGK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,HVISWEDLRK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,IMGPNYTPGKK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,ISNGIGKYFK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,ISNGIGKYFK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,KAIEKGFDRY,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,KAIEKGFDRY,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,KAIKEMGFTNM,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,False,False,False
+DLA-88*508:01,KFIEIAARK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,KFKEVGEAF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,KGFSGELYK,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,KIKYPENFF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,KLFSGELTK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,KLFSGELTK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,KLFSGELYG,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,KLFSGELYK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,True
+DLA-88*508:01,KLGPNDQYK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,KLGSGELYK,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,KLKDWQEGGY,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,KLKGVGESF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,False,True
+DLA-88*508:01,KMIPPGIHF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,KMKEIAEAY,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,KMNPLWNTM,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,KMNPQSAFF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,KTFNQGKIFK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,False,False
+DLA-88*508:01,KTKEFTGIDNL,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,False,False
+DLA-88*508:01,KTNKFTYGF,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,LMKEILDKK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,LQFPHNPEGK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,False,False
+DLA-88*508:01,LTGTSKSYVR,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,LTGTSKSYVRSL,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,LVVPAGAVSNR,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,LVVPAGAVSNR,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,NMIKYIKEK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,False,True
+DLA-88*508:01,PAFKPDLTGTS,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,True
+DLA-88*508:01,PAFKPDLTGTSK,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,False
+DLA-88*508:01,PKFEVLDKPQS,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,QVIDVLTPLFK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,QVIDVLTPLFK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,RFFDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,RFFDKVIEK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,RFGDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,RFIDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,RFLDKDGFIDG,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,True
+DLA-88*508:01,RFLDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,True
+DLA-88*508:01,RFLDKDGFIDK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,False,True
+DLA-88*508:01,RFLDKDGFIDR,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,RGLDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,RIIDDPDVSIK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,False,True
+DLA-88*508:01,RIIDDPDVSIK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,False,True
+DLA-88*508:01,RLLDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,True
+DLA-88*508:01,RMLDKDGFIDK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,RVIDPGLGDRK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,False,True,True,True
+DLA-88*508:01,RVIDPGLGDRK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,RVNLFTDFDKY,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,RVVDFDETWNK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,False,False,True
+DLA-88*508:01,RVWYATPSQDIK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,SFMGPKGSPSR,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,SLHGPPFHAK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,False,True,True
+DLA-88*508:01,SLHGPPFHAK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,SMAEFLKVKGEK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,False,False
+DLA-88*508:01,SMPDFDLHLK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,False,True
+DLA-88*508:01,SMPDVDLHLK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,False,True
+DLA-88*508:01,SSPVYNDRELL,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,SSPVYNDRELLN,5000.0,>,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,False,True
+DLA-88*508:01,TFFPFSDGDKK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True
+DLA-88*508:01,VANQQPPTINK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,False
+DLA-88*508:01,VANQQPPTINK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,False
+DLA-88*508:01,VAVGVIKAVDK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,True,True
+DLA-88*508:01,VAVGVIKAVDKK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,False,True,True,True
+DLA-88*508:01,YATPSQDIK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,YLVEKPKYK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,False,False,True
+DLA-88*508:01,YMVILENSVQNK,500.0,<,qualitative,affinity,Hess - cellular MHC/direct/fluorescence,DLA-88*50801,True,True,True,True
+DLA-88*508:01,YMVILENSVQNK,100.0,<,qualitative,mass_spec,Hess - cellular MHC/mass spectrometry,DLA-88*50801,True,True,True,True

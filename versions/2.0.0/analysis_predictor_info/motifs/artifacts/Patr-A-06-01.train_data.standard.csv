@@ -1,0 +1,5 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+Patr-A*06:01,APRTKVYLL,5000.0,>,qualitative,affinity,Rehermann - cellular MHC/direct/fluorescence,Patr-A*06:01,True,True,True,True
+Patr-A*06:01,FLPSKYFPSV,5000.0,>,qualitative,affinity,Rehermann - cellular MHC/direct/fluorescence,Patr-A*06:01,True,True,True,False
+Patr-A*06:01,KVFPKALINK,5000.0,>,qualitative,affinity,Rehermann - cellular MHC/direct/fluorescence,Patr-A*06:01,False,True,True,True
+Patr-A*06:01,YTAVKPLVY,500.0,<,qualitative,affinity,Rehermann - cellular MHC/direct/fluorescence,Patr-A*06:01,True,False,False,True

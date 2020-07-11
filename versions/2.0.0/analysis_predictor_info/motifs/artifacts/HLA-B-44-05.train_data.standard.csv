@@ -1,0 +1,19 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*44:05,AENLLDFVRF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,False,True
+HLA-B*44:05,EANLLDFVRF,5000.0,>,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EEAENTLQSF,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-B*44:05,True,False,True,False
+HLA-B*44:05,EEALLDFVRF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EEFGAAFSF,500.0,<,qualitative,affinity,Hadrup - purified MHC/competitive/fluorescence,HLA-B*44:05,False,False,True,True
+HLA-B*44:05,EEFGRAFSF,100.0,<,qualitative,mass_spec,Purcell - secreted MHC/mass spectrometry,HLA-B*44:05,False,True,True,False
+HLA-B*44:05,EEFGRAFSF,500.0,<,qualitative,affinity,Purcell - purified MHC,HLA-B*44:05,False,True,True,False
+HLA-B*44:05,EENALDFVRF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,False,True,False
+HLA-B*44:05,EENLADFVRF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EENLLAFVRF,5000.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EENLLDAVRF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EENLLDFARF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EENLLDFVAF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,False,True,True,True
+HLA-B*44:05,EENLLDFVRA,5000.0,>,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,False
+HLA-B*44:05,EENLLDFVRF,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*44:05,True,True,True,True
+HLA-B*44:05,EFFWDANDI,5000.0,<,qualitative,affinity,Hadrup - purified MHC/competitive/fluorescence,HLA-B*44:05,True,True,False,True
+HLA-B*44:05,NESEEVRQF,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-B*44:05,False,True,False,True
+HLA-B*44:05,SEDGKIHVW,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-B*44:05,True,False,False,True

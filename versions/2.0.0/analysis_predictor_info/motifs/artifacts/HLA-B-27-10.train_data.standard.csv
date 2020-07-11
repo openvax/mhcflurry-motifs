@@ -1,0 +1,14 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*27:10,ARLFGIRAK,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,True,True,True
+HLA-B*27:10,GRIDKPILK,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,True,True,True
+HLA-B*27:10,GRIGVITNR,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,False,True,True
+HLA-B*27:10,GRLTKHTKF,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,True,False,False
+HLA-B*27:10,GRVAPRSGL,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,True,True,True
+HLA-B*27:10,KTGGPIYKR,5000.0,>,qualitative,affinity,Castro - cellular MHC/direct/fluorescence,HLA-B*27:10,True,True,False,True
+HLA-B*27:10,RRFFPYYV,13000.0,=,quantitative,affinity,Castro - cellular MHC/direct/fluorescence,HLA-B*27:10,True,False,False,False
+HLA-B*27:10,RRFFPYYVY,30000.0,=,quantitative,affinity,Castro - cellular MHC/direct/fluorescence,HLA-B*27:10,True,True,True,True
+HLA-B*27:10,RRFGDKLNF,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,False,True,True
+HLA-B*27:10,RRHWGGNVL,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,True,True,True,False
+HLA-B*27:10,RRISGVDRYY,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,False,True,True,True
+HLA-B*27:10,RRYLENGKETL,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,False,True,True,True
+HLA-B*27:10,RRYQKSTEL,100.0,<,qualitative,mass_spec,zquez - cellular MHC/mass spectrometry,HLA-B*27:10,False,True,True,True

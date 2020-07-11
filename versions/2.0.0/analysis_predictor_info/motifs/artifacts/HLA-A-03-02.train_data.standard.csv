@@ -1,0 +1,44 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-A*03:02,AIIEGADASSLQK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,AMLDTVVFK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,ATGFKQSSK,300.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,False
+HLA-A*03:02,AVQEFGLARFK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,False,True,False,True
+HLA-A*03:02,CIDFYSRIR,273.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,DIEITCVYC,462.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,DLFVVYRDS,1000.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,False,True,True
+HLA-A*03:02,EIATTGQLY,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,FKDLFVVYR,330.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,False,True,False
+HLA-A*03:02,GFKQSSKALQR,810.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,False,True
+HLA-A*03:02,GKQSSKALQR,545.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,False,False,True
+HLA-A*03:02,GLMGFIVYK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,GLYNLLIRC,313.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,HLNEKRRFH,667.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,False,True
+HLA-A*03:02,HSATGFKQSSK,400.0,=,quantitative,affinity,kim2014,HLA-A*03:02,False,True,True,True
+HLA-A*03:02,HTMLCMCCK,73.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,False,True,True
+HLA-A*03:02,IEITCVYCK,200.0,=,quantitative,affinity,kim2014,HLA-A*03:02,False,False,False,True
+HLA-A*03:02,KLRHLNEKR,188.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,False,False
+HLA-A*03:02,KMQYATGPLLK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,KQSSKALQR,43.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,False
+HLA-A*03:02,KVSGDIFSR,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,False,True,True,True
+HLA-A*03:02,LFVVYRDSI,441.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,False,False
+HLA-A*03:02,LIRCLRCQK,526.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,LIRPALAAPR,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,False,True,False,False
+HLA-A*03:02,LLIRCLRCQ,508.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,False
+HLA-A*03:02,LQDIEITCV,625.0,=,quantitative,affinity,kim2014,HLA-A*03:02,False,False,True,False
+HLA-A*03:02,LTINKEEALQR,30000.0,>,qualitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,QSSKALQR,30000.0,>,qualitative,affinity,kim2014,HLA-A*03:02,False,True,True,True
+HLA-A*03:02,QVHPDTGISSK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,RQERLQRRR,484.0,=,quantitative,affinity,kim2014,HLA-A*03:02,False,True,True,True
+HLA-A*03:02,RVQEAVESMVK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,False,False,True,False
+HLA-A*03:02,RVQPGLKQWVK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,False
+HLA-A*03:02,SATGFKQSSK,5450.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,SLDLDSIIAEVK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,False,True,True
+HLA-A*03:02,SLVSKGTLVQTK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,False,True
+HLA-A*03:02,SVYGDTLEK,32.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,TGFKQSSK,30000.0,>,qualitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,TINKEEALQR,30000.0,>,qualitative,affinity,kim2014,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,TVAAGTMTGMLYK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,False,True,True
+HLA-A*03:02,VLKQVHPDTGISSK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,False,True
+HLA-A*03:02,VLQAADILLYK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,True,True,True,True
+HLA-A*03:02,VSMLNVYLK,100.0,<,qualitative,mass_spec,Eiz-Vesper - secreted MHC/mass spectrometry,HLA-A*03:02,False,False,True,True
+HLA-A*03:02,YNLLIRCLR,833.0,=,quantitative,affinity,kim2014,HLA-A*03:02,True,True,True,True

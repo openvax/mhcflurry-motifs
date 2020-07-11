@@ -1,0 +1,22 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*14:03,DDTVRYTSL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,False
+HLA-B*14:03,DGQVRVAEL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,False,False,False
+HLA-B*14:03,DHDVRQSEF,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,False,True,True,False
+HLA-B*14:03,DQDYRVTCF,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,False,True,True,True
+HLA-B*14:03,DQTIRIHGL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,DRMVGQVL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,False,True
+HLA-B*14:03,DVDQRSTTF,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,False,False,True
+HLA-B*14:03,EPDLRVTSV,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,False,True
+HLA-B*14:03,ERDAAKQRL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,False,False,True,True
+HLA-B*14:03,FQQGHEEL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,GRVGFFPRSY,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,HEAERNIAL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,HRDQRDVSL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,False
+HLA-B*14:03,IRAAPPPLF,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,IRDEQYTAL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,False,False
+HLA-B*14:03,LRDRPLLL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,False,True,True
+HLA-B*14:03,LRLLIHQSL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,False,True,True
+HLA-B*14:03,NPQERTLTL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,NRAAPGAEF,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,True,True,True,True
+HLA-B*14:03,QRLPRPSSL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,False,True,True,True
+HLA-B*14:03,SPNPVSPVPL,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*14:03,False,True,True,True

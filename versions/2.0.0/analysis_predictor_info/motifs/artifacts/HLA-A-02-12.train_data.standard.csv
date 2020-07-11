@@ -1,0 +1,1184 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-A*02:12,AAAQGQAPL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,False
+HLA-A*02:12,AADSFATSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AALEGLSGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AARHKHQVM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AEDLADHHV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AEGVVAFLI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,AEIESATLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AELIDSFTW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AEMVAKYDL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AENCYNLEI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AESICSYWL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,AETESATLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AFHQLVQVI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,AFMATNKAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AFYWHFIFR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AGGWVLWKV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AIDPRRIVA,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AIIRILQQL,11.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AILAGEHKC,3729.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,AIYDTMQYV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AKATGRYNL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AKIALAVYK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALAGNHWHV,9.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALDISFTGA,146.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALEEGRKYV,42.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,ALEKGIKDV,1907.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALELGRKTL,338.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALFPIIWAL,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,ALGGSCHTT,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALKEAIEMV,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,ALLENIHRV,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALLKHRFEI,127.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALMDYGFRV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,ALMEVTHVL,1.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,ALPGPDGVV,304.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALSGFYYVQ,2197.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,ALTPPFHPY,3811.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,ALVEMGHHV,17.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,ALVSEVTEV,5.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ALYEENALK,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AMDTHLYFE,284.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AMEGGTTKA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AMFIGHATA,42.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,AMHYIRHRA,17.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,AMITYITRK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AMQDPNPEV,6.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,AMWDWSKSV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AMYDPQTYY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AMYYRRTER,11000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,APAKKAAAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,APDGFYPFK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,APFARLLNL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,APVESMALF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,AQKLATKPV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,AQLPRWVAT,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AQMVWIHGV,71.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ARLSSPIVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,ARVAASLAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ATAAATEAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,ATAWRTGGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ATCGLVGLV,697.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ATEDPSSGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ATGDYVAFV,13.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ATIMPHNLY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,ATKDSFQSF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,False
+HLA-A*02:12,ATPHSVWVF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AVDADDSHF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,AVDWYQQRI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AVEDFLAFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,AVGIGLRLV,203.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,AVGVVCTGL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AVPQVLGGL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AVRQFRASV,2573.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AYDHGNVIL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AYKKQFSQY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,AYSSWMYSY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CASSSDWFY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CEALLADGL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,CERYGFPAS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,CFMYSDFHF,243.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CLGGLLTMV,1.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,CPRIFSHSF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CPTLKKGFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CTDPPLLSV,529.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CTWPEASRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,CYMHVSDYY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,DAAAPLPPV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DAAVVFPPV,392.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,DAVEDFLAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DDALFIYGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEEAINLFH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEFLKVPEW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEFVADIPS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,DEGFHAATV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEISLLLAS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DELWRGLLA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,DEMVCKWLL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEQEFFYSQ,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DETFVHSGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEVVYTHGA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEWECTRDD,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DEYGPVFVE,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DFISMYFPW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DGAEGINPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,DGFGVHLAF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DHIPIINTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,DHLKEKSSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,DIAEHGAYY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DIVGGLFTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DIVKGLSGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DIVRVFNEY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DLADQLIHL,476.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DLAQDPMLI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DLEKYNLAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,DLSLGNQEL,5000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DLYDMIHNV,90.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,DMYFCHFYK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DPNFHQAVM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DPPEPLVRI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DRLASTVIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DSFAKQPQW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DSMGQGDAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DSPATLSAY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DTLKVGNTY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DTRGIFSAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,DTTTDISKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DTVNRTHQY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DTWHGFKNM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DWMDRIEEF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DWMERIEDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,DYDDVVHEV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,EAEKQLQQY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EASTWLDIF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,EAYCALLCK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,EDFEIFYNL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,EFFGWAEGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EFVSANLAM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EGAGIDDPV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EGFDPRALI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,EIAQHGAWY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,EIINNGISY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EIIPKIKAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EIKDRILSY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EILWDVIPF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EINPFYQDV,1931.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EKDSNHNVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EKLKKKSAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELAPIRVNA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELDEIGEDV,1497.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,ELGGGFGTL,2651.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELHNGFTGY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELIKELPGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELKRQLADL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELLDHLLLF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELNKGWFGA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELQENITAH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELRGLLKDV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELRQLAQSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ELYENKPDV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,ELYPTVNTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EMADYIFFV,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EMSLADYLY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EPFLVQFWI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,EPGPSGLLI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EPLWGSLAV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EQDGITYYL,59.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ERAFQNWSV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ERYPGGVSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,ESAERLKAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ESENISEPY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ESEVDDPAM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ESLLHQASW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,ETACLGKAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETALPQDSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETAWPFFYA,124.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETDLNQWMV,292.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,ETESATLFT,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETFNTPAMY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETIEDYLGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETIEILRNY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETIFTVLAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETIGLVRAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,ETKKTMLAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETLDVFGPI,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,ETMKPAAMV,2622.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,ETRSFTTHF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETTEANAGQ,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,ETTQALQLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETVNFVPNY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ETWVETWAF,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVAEKDAMY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVAESVMFM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,EVATRFNTM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVFEIIRSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVIEQWHSL,2228.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVIPMFSAL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,EVIRATYPS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVLKAMSLY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVNAHIHTM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVPAQYLTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVREFLGSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVRKAIEFV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVVDMLSTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EVVGSYIRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,EWAENCYNL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,EYAPFARLL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,EYSGGLHGV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FAAPHRGVA,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FAEGVVAFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FAIVPPLQI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FATTPVCEY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FDLFGITLY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FEADPLSPQ,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FEFILRYGD,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FELLHFISS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,FFSPFFFSL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FGAAVSLLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FHAPPPSVC,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,FHHRIRCKL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,FHIVNQESL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FHKKRVEPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FHRKKTDAL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FIIDNFGSV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,FIILSTGKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FIKDRATAV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FIKNPACTV,585.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FIRDCSVAL,71.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,FIYGYLEPV,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,FKYDSTKPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,FLADYGWRL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FLDDASNSA,2.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLEESHPGI,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLGKIWPS,0.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLGKIWSS,0.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLGQADFSL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLHGGDFGV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLIDLAFLI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLIGVYQQY,574.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLILCSVLL,7.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLILPQAKK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLKPEETFV,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,FLLDYEGTL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FLLMDALKL,14.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLMGFNRDV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLPGQYMNI,0.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLPIFFIFA,2490.7,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,FLPPQIPVI,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLQGAKWYL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,FLQQRKPPL,909.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FLRDNLYHV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FLWSSIIFK,4257.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FLWWNAAPA,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FLYDISISL,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FLYDRIAST,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,FMDPGIFPR,84.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMFDYIPPV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMFNDLLKL,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMHSAAPIT,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMIDWILDA,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,FMRSISDDA,622.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMVAWGKEA,17.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMVYVPLPA,17.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FMYEDALKS,186.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPASHMATY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPDGKPFTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPIPTEVVA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPLWNTEKI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPNLQVDPT,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPRCRYVHK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPRDPVSTF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPSNMMVVT,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FPTQADAIG,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FQAGWEDPT,148.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,FQEALKKSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FQLAAPSGF,107.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FQWHEAMFL,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FQWPALHEE,582.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FQWSDDPFI,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FQYYGIDWV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FRDEAGAIL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FREVWKQLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,FRLMRTNFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FRRFTQAIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FRYEFTAPF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FSDLCNFLI,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FSFFMNENF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FSLPSSSSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,FTARIIIFS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FTFDLTALK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,FTFERSKIK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,FTGEYLLRL,1041.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FTGWRDPGL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FTLDADLGI,37.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FTLINWRSV,919.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FTNKLINGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FTWYGIAAL,1.3,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,FVAEGDALV,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FVIGGMTGV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FVKDWMDRI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FVKDWMERI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,FVRELLTEV,1.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,FWAWSVLRV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GALSRRYPH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GEIGIRNWL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GEYAPFARL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GFAIPIILK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GFKLRSAVM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GFPFFIMPK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GGHGGSTFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GHFPLQHAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GHLAASVTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GHMMVIFRL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GIADFIIFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GIVSSMHYK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GIYCTVPFI,63.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GIYGAVIPL,8.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GIYHDICEI,362.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GLAGGAATA,16.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLEAYIQGI,5.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLFWGGIWY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GLGQHIYET,75.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,GLGQYIYET,39.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GLHAAAPHL,43.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLIQYPTAW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLKELGDWV,120.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLLASAPGI,4.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GLLDVTDNV,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLLEAGNSL,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLPESTPSL,120.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLQADAPHL,12.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GLSFLNPEK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,GLYEAIEEC,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLYEWISEQ,383.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLYLYRFHV,5.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLYNRHRGR,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GLYPAQIKA,126.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GLYPQLSAI,6.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GMAEDLQSL,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,GMDPRMCSL,27.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GMFDWESMK,744.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GMFIIFIPI,2033.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GMFNMLSTV,49.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,GMHDGTVGK,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GMIPFFDFA,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GMLECGFPT,16.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,GMNPYHLAA,296.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GMPNWCVSI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GMRDVSFEL,1.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GMSLLEYGV,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GMWCVLASR,930.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GPSPSHKSV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,GQFNRYAAM,1438.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GQMYNMNTL,1.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GRFQEALKK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GRIPVSDIF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,GRRATAILR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GRYNLISPK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GRYNLVPPK,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GSFRKICGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GSGDDTWLI,1272.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,GSKYRGLPK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GTEYRLTLY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GTIIVHPNK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GTVPTDNPF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GVDGGWQAL,1404.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,GVDGLGVSV,1305.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,GVNDTEAHA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,GVPELGAFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GVPPKVVSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GVRQFSGWM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,GVYGGLCLA,122.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,HAEIESATL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HAEQGLIQY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,HAETESATL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HAVWYVASF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HCIDKTPGL,260.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HFIYHKREK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HHSDDALFI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HHYSQAAVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HIDPMWKVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HIMPNSFRV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,HKELAITAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,HKIPDPQGM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HLGGFVHAC,26.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HLKEKSSLR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HLKRTILAL,137.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,HLLCQAFSV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HLPELIWRS,800.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HLPGFGTAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HLSGWELAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,HMIDKLFYV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,HMNKLPLAK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,HPKLRPILL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HPLARTAKV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HPYVFCALL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HQDDGQPRL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HQIWLALRY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HQKKNEISF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HSDAVEDFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HSGFIYFGK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HSNLNDTTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HSYLWDHQM,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,HTAAPWGSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,HTAWDSHWV,685.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HTQAIEGAW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HTSALSLGY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,HTVGLGQGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HVIYFTAFT,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HVTGRWNWW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HVTQHWPQL,7051.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HVVNYNGLL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,HWMDATFNI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IALPVAWLF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,IANTTDHFF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IEAKINVAD,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IEDDEIIWV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,IESNPLFPV,922.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IFIRTIYYH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,IFLKPDETF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IGDKPTCLV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IGKMNKHYK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IGYRLGMGK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IHAEFQASL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IHDFVDKTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IISDLSIFI,69.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IISLKYTRK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IIYVGCGER,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,ILDDNLYKV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ILHRLAPWI,103.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ILIDTSAWV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,ILMARYMSK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,ILMDTICGT,0.3,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ILNGGLGNA,86.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ILNRKAIDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,ILNSDDEQA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ILTRLALFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,ILYMLSWGK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ILYNEYNFV,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,IMYDHLPGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,IPRACQKSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,IPRNRDNLL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IQFDWYPTS,623.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IQIQATETA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IQKGMFVVK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IQNALEKAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IRFKDDSSF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IRKPKHLYV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IRKVEWPDL,3248.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IRSAEVVSR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ISKANWMTY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ISLWGSLLK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ISNNHIISK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ISSGETRSF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ITAVNRYFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ITDEINQIK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ITMYVAFEQ,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ITRKEAEQF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,ITWPRTRHW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IVFMWAIHH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IYDFYYLDY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,IYQARFMKY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KACDLAMCY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KAIIDTAQF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,False
+HLA-A*02:12,KARNIISPV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KAYKIISLK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,KCNPNLHYW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KDGTLFYCY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KEAVNHFHL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KEGKLQCRI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KELKETLLH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KFFMVHSLK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KFKPRFAGV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KFKRKLMYV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KFLDWMIFI,399.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KFRRFTQAI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KGFFRVFKK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KGMKIQHFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KHDFIDNPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,KIDVVGIEW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KIFEYGFTF,81.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KIFKVTGEF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KINRSKTPY,7870.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KIVPLPPMY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KKNHWFILK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,KKSAFYQSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLADMSIYC,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLADYLLLQ,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,KLGKAGYVV,23.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KLIDVSKCI,10.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KLIQIEKVL,4911.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KLKKKSAFY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLKSVGKAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KLLARFLFE,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLLKSWVSK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLLPVHYYM,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLMPGSIYV,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KLPRWIFFA,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KLQDLTLRC,55.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLQWLFAAL,3.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLSDSKITV,5.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLTEEIIKL,91.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLTSYSAGL,7.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLWIWIGSQ,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,KLYDSVYLT,19.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLYEGDLRV,5.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,KLYERNTAF,88.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KLYFWIPWS,90.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,KLYLRPWWH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KMDIGVPLL,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KMDVTPLDY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KMFNSVGGA,19.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KMFTYLMES,28.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,KMGKAGYVT,1214.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KMKDPKMYH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KMNNDVFFM,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,KMVGTVQRV,4.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KMYEYVFKG,132.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KMYWITRSK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,KNNFWFWEY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KPGPAKFSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KPKALSEAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KPKHLYVSM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KPKVASEAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KPPRGVLLY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KPTFKHASV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQFYIFNTH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQIGGTLFE,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQIVIINPM,64.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQLDIQYLK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQLESVMYL,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KQLEWKWGI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,KQLEYSWVL,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQLPPLAAW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQMEDGHTL,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQMSQPYAV,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQNMRIRSK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KQPNRPLFI,17000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KQWIVAGAI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KRKLMYVSA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KRLQILGYL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KRWGFRSGV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KSAFYQSYL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KSFSAGMFH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KSKPRIHGY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KSLDNYQEW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KSRQGDTKV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KSVGVERTM,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTFEWGVFY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTHSFTLGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTNDFAPAW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,KTRMEDYYL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTSLSNLLA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTTARHLGH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTTKSWLQK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KTVRYWHRF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVDDTFYYV,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVGFIMLFH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVGYFQHGA,170.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVIVYCHYY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,KVQEWYLSY,1626.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVRDRNFQL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVSVGSYFC,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KVSWRWMVY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,KVYWAGIEF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,KYAEAFQMV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,LAIVTTPLV,143.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LANETTQAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LANPTADDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LARFPCNVI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LAVFPAMFW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LAYEHDVPI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LAYLAGWII,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LEACYKRSV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LEARVNLSV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LEEDIQHFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LEFNSSLAI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LEGLADAIW,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,LELAEITAE,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LELIGNAES,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LEMNDAPTA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LESLTDREL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LFPELECFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,LICYQIEYI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LITEQFLCY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LKEKSSLRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,LLADGLAKA,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLAMTFWPA,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLDDGWAGE,6000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,LLDEGKQSL,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,LLDEPTNNL,5.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,LLDPLYFEV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,LLFDSNEPI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLFRMILNY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLGQNTPAI,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,LLKDLMPFV,0.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,LLKLWIDKV,10.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,LLLGGTSEI,5.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,LLLRPFWPA,36.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,LLSKNTFYL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLTEVETYV,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLWAFAHRQ,461.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LLYDGSFAV,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,LMAEDLANV,0.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LMDENTYAM,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LMLHQQYNQ,186.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LMMSSPPPI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,False,False,True
+HLA-A*02:12,LMQCWQLLA,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LMQDCAIKA,4.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,LMQWWSDYV,0.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LMRTNFLIK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,LMTAISQGI,1.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,False
+HLA-A*02:12,LMTHTWHAK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LNWFEIWIV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPEAYQWHI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPLESCFGV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPNRRHHLI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPPVVPPLI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,LPQYFTFDL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,LPRERFRKT,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPSSSSYSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPVEYLQVP,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPVFATIGL,393.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPWFLDTTI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LPYPVLLKI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LQDDFDFNY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LQKIPLQWF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LQPSDTLLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LQYNTFLQY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LRKERLAKL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LRNIYETEF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LRWASGVSE,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,False
+HLA-A*02:12,LRYGNVLDV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LSDAARLFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LSDAIFDDL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LSDDSGLMV,1583.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LSDLCNFLV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,LSHCWPWFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LSIIFGRSY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LTDEQKNAV,855.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,LTDRELLLL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LTDSSTLLV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LVDENQSWY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LVGNTLTTC,4550.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,LVKSAWLSL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LVRDITESL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LVTARQKLK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LVTGAGSGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,LYVAGVPEL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MACHRVLTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MARPADASM,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MAVTAAPYI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MEDCPNEGV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MEFNSLLAI,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MEKTHNLMA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,MELSLRAIQ,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MFAVGTWMM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MFKNFPFFK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,MFWKLPPWL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MGMEQTMSV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MHCDFAFWV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MHDPHSIPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MHGHGKHIL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MHYGYNRAN,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MHYKLDEVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MIDSDEWVY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MKYVWPPIM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MLAESCDSV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,MLAKYDHLV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,MLDPRFVKQ,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MLGEETIKV,11.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MLHHYGIHY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MLLGELLTF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,MLTNASGHA,437.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MMAWRMMRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MMFDAMGAL,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,MMQVWIQPL,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MMWEINGPK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MMWIPGWFG,185.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,MPDTLFEGV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,MPFDPSELV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MPIAAAIGT,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,MPMSMPIPM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MPWLDNIVE,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MQDGRFDGI,369.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,False
+HLA-A*02:12,MQDVFTFYV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MQFPGSVGF,865.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,MQGKDFNHL,1210.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MQLPGGWLL,3.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,MQQAYQCIV,17.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,MRDGGSATV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MRDLRQHEV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MRHNSREPY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MRIGSMATL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,MRNTIMASK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MSADNAGAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MSDWGHITV,56.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,MSQMPPHPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MSRKLHRYI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MTFPLHFRS,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MTQNISNDK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,MTRGLLGSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,MTVDEVEDY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,MVAKYDLLV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MVFQHFHLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MVFQNYALY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,MVINGEQGT,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,MYPFIFFIV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NALEKALRW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NETTQALQL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NFFHASLAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NGNFNFERV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NHDGIQAGV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NISLPLYTV,20.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,NLAAQTHLY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NLADQLIHL,7.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NLFDWMHFL,6.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NLFEIEWEE,297.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NLGQHIYET,323.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,NLKDEQFPV,1.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NLMVNEQAA,18.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,NLNFDQAAL,82.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,NLPSKPVWL,3197.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NLTEEMAAL,7.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,NLVPMVATV,1.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NMDKAVKLY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NMNNDSYYF,76.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NMVADLWHA,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,NNIEFNFTY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NPANKEESI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,NPLEIYQEI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NQNDNEETV,40.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NRDVSFQDL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NSESGNSRY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NSTHNTPVY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NTAINFFLY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NTDEIPELI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,NTFKFGVIY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NTIEELSGY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NTRDHVNLV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NVGRILGYV,110.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,NVWATHACV,24.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,False
+HLA-A*02:12,NYNGLLSSI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,PAASAIFDV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PEDDGTDWF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PELGAFFAI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PILPKLFIL,2001.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,PLFPGITRV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PLTNQRYRV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PQVLGGLSF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PSEVELEEY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PSYQLPLPM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,PVTPVIPRV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QAFEAGIDF,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QAHMGIAGL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QCFSVVLRY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QFLSFASLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QHAWPLPPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QIQAGNFHW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QLAGYILTV,4.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QLEVRSTEV,430.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QLFPELECF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,QLQCHQIAI,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QLSLKMLSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QLSLRMLSL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QMDGAILVV,16.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,QMISPVMSV,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,QPAGGKAEF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QTDDGVRFT,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QTDNDIWFW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QTEPKTSVV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QVIEYLKPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QVIFKCVPK,68.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QVNDVLHSV,91.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,QYSPHSFMA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RAFGRDWRY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,RAFWGQVQK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RAMDVYCHR,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RASHFRKLF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RAWDPQPAM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RAWGRRLMI,13000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RAYAAMHLW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RDRFKRTSF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RFLEDYFGV,44.3,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,RFNAIWFNH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,RGRKPIFRK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RGYVWTNGY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,RIARFHRPY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RIEQLYPFA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RILAYGPCL,244.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RIYDPLWFQ,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,RIYKRSLKL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RIYSHIAPY,475.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RKLTNPANK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RKMPHLFSK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RLASTVIYR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RLDKPLWLH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RLGWRTLDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RLKHIFLIF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,RLSDPRFSQ,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RLYEWQHVS,7.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,False,False,True
+HLA-A*02:12,RNMSRIFPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RNNDPTLPY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,RPGPVKFSL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RPNRQLGSM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RQDEVGTPF,3918.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RQKLKDAEK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RQLQREGLV,15394.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RQNAAIEAL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RQRHYFDSA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RRAAVSTLE,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RRAYSGKQY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RRELSKEKL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,RRFTQAIYD,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RRRPVTRPL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RSFPEWDYI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,RSLVCLAPK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RSSPRETMK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RSVWIPGRW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,RTADIGACM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTDNGGWAH,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTFDRFFEE,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTFGQPLFF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,RTFSILNRK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,RTLGVFRYK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTLHPFGCK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTMGWTEYQ,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTRGGVAAA,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTTLWCDVR,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,RTWFYRTEF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RTYSLLNRK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVACRDVEV,32.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVCAEMVAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,RVGIYFGMK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,RVHFHRFMY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVIDPYWFH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVITAPPYY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,RVLHEDRFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVLTARKTV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,RVPTVFHKK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVRPKKEVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVVEPIKQI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,RVVRPWGSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVYAELAAL,36.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,RVYINVVVK,697.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,RWASGVSEI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,RYEFTAPFI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,False
+HLA-A*02:12,RYMSKTYNF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SAEVVTLWY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SAWESFWRI,12.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,SAYYLDIGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SCINGQCPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SEFWLNYTA,586.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SELTVSPPD,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SFVTDLEKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,SFWFFHPPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,SFYGYGFNV,575.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SGFGGETPV,2886.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SHDLAPQFL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SIKFKRKLM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SILEYAKSI,177.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SILPISWAY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SIPFGLMSA,880.7,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SIYEVGIVL,406.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SIYYTLVRM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SKLRALLTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLADQLIHL,2.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLFNWLWYE,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLGDPLHQA,31.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLGGHTVWQ,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLGQHIYET,22.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,SLGQYIYET,18.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,False
+HLA-A*02:12,SLLFREVWK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,SLLHESTLK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLLRGLIFY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SLMSRVVYK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLNPYYQSY,6000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SLPPNFSSL,5.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLTECPTFL,5.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,SLTIPSFYT,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SLVAIHLAC,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLVKHHMYV,9.4,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SLWAWVLLF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SLYEKSGSV,34.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SLYSGFPSL,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SMFERDFHF,9.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SMLCWLGMT,576.7,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SMLPPGYPV,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SMLSYGNVL,75.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SMNYPNSYK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SMVNGVVRL,13.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SMYQLMITI,1144.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SPGDNSAKF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SPKIDRGWV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SPLPITLKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SPVMGVIGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,SPVSRSHSF,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SQDEVLFLV,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SQFNHWFGE,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SQGRGWFLL,1908.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SQLPPACPV,169.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SQLVSTAWA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SQRVEFLEY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SQVRVPTVF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SQYDPKELL,66.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SSDLRSWTF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SSLLWGFYL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,SSLRYGNVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SSRGYSAIW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SSWNSAHEK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SSYRMGINK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,STFTFPGIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,STGKSIKFK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,STKNILVTV,362.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,STNTLPTEY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,STTTCEAGV,284.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,STYQFSLMQ,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVANIDRIK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVDSDHLGY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,SVFALLPPQ,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVFEGIRAY,418.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVFELSNFA,679.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,SVFQGALFA,11000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVFSRPLPL,183.7,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVHQFFWFQ,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVMSTFFWE,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SVYSWAIML,2315.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SWHHTSDDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SYFPDSNNV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SYIRYFTVF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SYMLQGLRK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,SYWVRANFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TAAIMLASY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,TATPAWDAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TEANAGQFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,TEDDWITYI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,TEDQGHFPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TEFFMSRKL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TELPLAYER,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TEWPQLKVA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TGIAIIAYI,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TGIVSSMHY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,THADAHTQL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,TKAGMAQYL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,TLAQSLIDV,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLASIGTAF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLFDWGFAL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLKDGDFIL,14.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLKRRSWPL,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLLCGAATA,21.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLNHNCINV,19.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,TLTRGQNTV,58.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TLYAVATTV,5.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,TLYCVHQEI,6.3,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TMGAASITL,165.0,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TMGPHPAGV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TMLVRQMTK,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TMLYNKMEF,3472.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TMMRHRREL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,TMPELAWAV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TMRTPLFPW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TPSGKRLQI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TPSHYSGNI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TPSVKVCIV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,TPVMSRFAA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TQIPRQMVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TQSPVSVGF,1243.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TRAPAPFPL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TRDHVNLVL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TRKIRSEEL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TRSFTTHFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TSACGIFLK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TSASFTDLY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TSCAPMMQK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TSSARSSEW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TTDDSTSYY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,TTEANAGQF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TTFPVNGGY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TTIGEWAFW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TTILGLLPM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TTRAVNMEV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TTSDFFVNY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TTTDGYAHV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TVAHQVCPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,TVAPPAPVY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TVFRNQNRV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TVIYRGTTF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TVLDHILQK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,TVYGLGADV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,TVYPKTHYV,8.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VDFKTPGTY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VEIKTGFKL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VFTSRIQVI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,VHYGQGWLY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VIANSTNAT,1108.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VIGVGMGLY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,VILYFMYRK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VIMWYNYLF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VKINIFPLY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLDEPSIGL,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,VLEGFEGDL,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLFIHPLDA,562.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLIRRCHYL,16.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLLDSITRL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,VLLISDPGL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLLTRSPDQ,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLMGGVPGV,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLMKQIPIW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLNHYTPEY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,VLNPYMPTV,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,VLQQIFHSS,3015.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VLRGNRQGL,4751.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,VLRGRHDAA,12000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,VLWKSYPLV,12.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,VLYDPETDK,1900.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VMGVIGFGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VMNPLGLNV,14.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VMSELFDTL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,VMTDGPANK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,VMWAGPWSS,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VPFVSVNPI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VQLLGRRFV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VQLPQYFTF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VQPWLMVDV,1166.3,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,VSANVKGNW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VSDFRKEFY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VSPLAVTWW,3540.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VSSHKGWAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTDGGEVGE,0.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,VTDTALAYF,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTENKKIQY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTFGARASF,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTGCASLYV,36.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTIPQIGGM,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTLFSNLGY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTSSVSSGY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VTTEVAFGL,186.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,False
+HLA-A*02:12,VVARLGVPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVDALRNIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,VVEPPRQLV,1596.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,VVGADGFGY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVGKPYKEV,799.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,False
+HLA-A*02:12,VVPRYGVRL,17493.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,VVPYEPPEV,160.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVRGIDGGV,14000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,VVRVRRELL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,VVSEIDLQW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVSYEAGEW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVTVLWALY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVYKEAKIK,1988.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VVYMDMGVR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VWKQLFPEL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VYLPGRGGV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,VYWENEVSI,286.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WAASAETPL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WAIQCYTGV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WAKLLKQKW,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WASGVPAAT,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WDAYIPHYV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WFLYVSQQI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WFQRIPLQW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WGKEAVNHF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WILTHTLYR,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,WKAIGAYIL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,WLAGFEPSE,453.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WLGDVWQEK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WLGWGHAWV,816.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,WLIEPCKLL,139.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WLKEKHEEL,77.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WLKGNISPV,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WLQKIPLQW,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,WLSQTTLSV,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,False
+HLA-A*02:12,WLYDLWGQL,46.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WMDMWESPM,48.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WMFRIRIIL,33.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,False,True,False
+HLA-A*02:12,WMYEGKHVL,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WPVMQWLTA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WQDGGWQSV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WQFGPSTYY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WQNLAWAGV,12.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,WQQWDRQSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,WRQWIPAGI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WSFYRVVVK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WSTIWRQLY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WTALMFAAY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WTDLFDNKV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WTGMVDGWY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,WTIGNRAPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WTIGYDTIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WTLETLPRV,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WVSRFGERK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,WVWDTWPLA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WYKMWRVSK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,WYYDFHFFV,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YADGGQWYN,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YALTEYHAM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YDRLASTVI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YEPEMQAQV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YEQYECLTD,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YFDDVTAFL,13.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,YFLESNFFI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YFNTHDVYF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YFTFDLTAL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YGPDVEVNV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YGSWFGLIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,YIDWMVSVP,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YIITCCLFA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YIMKLHHLV,1.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YITDYSNDI,9.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,YIYDGKVNY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YKSRCYVGL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,YLACKQHAL,4.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLAEGHACL,2.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,YLAENTFVV,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,YLAKLFLDH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLDMVLAFL,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLDNVGVHI,7.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,False,True
+HLA-A*02:12,YLDYDTIYV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YLEGTRTLL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,False,True,True
+HLA-A*02:12,YLFQWNDNV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLGTALMGA,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLIGGSATL,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLIPAVTSL,3.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,YLIPFIWFV,442.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLIPSVTSL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLKEACNHA,52.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLKKLDDFY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLLGDSDSV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLMPYSVYI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLNGGRRGY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLPEDSDIL,6.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLPYDIFCR,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLQYSISTA,2.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLSSWTPVV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLTSFVVPI,1.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLVPGEGEQ,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLWFKRHVY,7404.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,False,False,True
+HLA-A*02:12,YLYDETQDV,6.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YLYETYHLI,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YLYPWSLGL,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YMHGSIHEV,7.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMIKLAKEV,5.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMKFFGNFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMLKDSAPT,1.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMLMGFQLK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMPSVVETL,9.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMQQVSEGL,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YMYQYIQEL,2.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YNAKRIETV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YPASLHKFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,YPIYGLQFH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,YPQLSAIAL,1153.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,YPSLMSRVV,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,False,True,True
+HLA-A*02:12,YQAENSTAE,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YQIEGAWRA,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,YQLGDYFFV,1.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YQTYVSPGA,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YRGEYRQSR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YRRKLTNPA,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YRTLGVFRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YSDNEMLTH,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YSGNIVHRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,False
+HLA-A*02:12,YSLLNRKAI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YSRPWNWTF,6076.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YSSHELWHF,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YSTVRDLFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTENTSSYY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTFCGTIEY,20000.0,>,qualitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTFEPHYFY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTLNDAPYI,4.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YTLNNGVAM,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTNYPFLFF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTSDYFISY,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTVRGTGKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YTYPIAHTA,9.0,=,quantitative,affinity,kim2014,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YVAGITLTH,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YVDIIGLSV,5.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,False,True,True,True
+HLA-A*02:12,YVFAIPLPF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,False,True
+HLA-A*02:12,YVPTEFWGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YVTPRALEL,10000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YVWWAAVIY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YVYFYDLSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YWDQVTFFY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-A*02:12,True,True,True,True
+HLA-A*02:12,YYLIKYLHV,1168.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-A*02:12,True,True,True,True

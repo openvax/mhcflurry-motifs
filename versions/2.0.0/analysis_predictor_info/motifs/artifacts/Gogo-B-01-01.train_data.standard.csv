@@ -1,0 +1,16 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+Gogo-B*01:01,ERYLKDQQL,14579.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,True,False,True,True
+Gogo-B*01:01,GRFKLIVLY,3091.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,False
+Gogo-B*01:01,IDFPKTFGW,107383.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,True
+Gogo-B*01:01,IFFPKTFGW,3174.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,True
+Gogo-B*01:01,IKFPKTFGW,3274.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,False,False,True,False
+Gogo-B*01:01,ILFPKTFGW,998.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,False,True,True,True
+Gogo-B*01:01,INFPKTFGW,23443.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,True,True,False,True
+Gogo-B*01:01,IRFPKTFGW,30.0,=,quantitative,affinity,kim2014,Gogo-B*0101,False,True,True,True
+Gogo-B*01:01,IRYPKTFGW,54.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,True,True,False,False
+Gogo-B*01:01,KRGILTLKY,668.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,True
+Gogo-B*01:01,KRKKAYADF,6115.0,=,quantitative,affinity,Watkins - purified MHC/competitive/radioactivity,Gogo-B*0101,True,True,False,True
+Gogo-B*01:01,KRYKSIVKY,100.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,True
+Gogo-B*01:01,RRFVNVVPTF,196.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,True,False,True,True
+Gogo-B*01:01,RRYQKSTEL,53.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,True
+Gogo-B*01:01,SRDKTIIMW,128.0,=,quantitative,affinity,Watkins - cellular MHC/competitive/radioactivity,Gogo-B*0101,True,True,True,True

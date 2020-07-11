@@ -1,0 +1,325 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+Patr-B*24:01,AASCGGAVF,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,ADARVCSCL,14476.792108,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,ADATPTGWGL,5298.215688,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,ADDPSRGRL,635.263053,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,ADEGLNRRV,788.605772,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,ADEGLNRRVA,44635.831584,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,ADGGCSGGA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,ADLMGYIPL,1293.8611119999996,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,ADLMGYIPLV,1913.292966,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,ADSPSVPSHL,5569.209675,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,ADTAACGDI,25.930107,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,ADTAACGDII,53.724321,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,ADYLELDTI,10.854735,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,AEAAGRRLA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,AEAALENLV,1285.024951,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,AEAALENLVI,1941.399839,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,AEAAVKPLL,65000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,False
+Patr-B*24:01,AEDLNLGNL,6573.6971079999985,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,AEEDEREVSV,1366.34859,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,AEEQKLPINA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,AEEYVEIRRV,1100.744332,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,AEHGEHHIRI,7816.9431760000025,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,AEIRASANLA,638.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,AELIEANLL,73.421712,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,False,False
+Patr-B*24:01,AELLAACFA,11291.466399,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,AEMDGIQYG,42700.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,AENLWVTVY,5867.531753,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,AEQASQDVKNW,32380.92,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,AEQFKQKAL,55586.445497,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,AETAGARLV,1708.400428,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,AETAGARLVV,800.820897,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,AETHVTGGNA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,AETTVRLRA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,AEVEWKFYDA,833.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,AEVQIDRLI,11800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,AEWDRVHPV,1380.169186,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,AEWVLAYML,616.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,True
+Patr-B*24:01,AEWVLAYMLF,914.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,AEYKLQQGTF,20300.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,ALPPRAYAM,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,AQGYKVLVL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,CDECHSTDA,2994.20926,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,CDELAAKLV,17.992024,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,CDELAAKLVA,19.081267,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,CDLDPQARV,23.047462,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,CDLDPQARVA,3541.531691,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,CECYDAGCA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,CEIYGACYSI,45753.128849,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,CEKMALYDV,17759.160151,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,CEKMALYDVV,2333.114775,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,CEPEPDVAV,1365.634912,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,False,True
+Patr-B*24:01,CEPEPDVAVL,148.442588,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,CEQFVGPLTV,847.5453550000003,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,CESAGVQEDA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,DDLVVICESA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,DDPSRGRLGL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,DDVVLGAKSV,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,DEAGPLEEEL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,DEGLNRRVA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,DELAAKLVA,3915.2614,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,DELAAKLVAL,6320.333585,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,DEMEECSQHL,51031.036308,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,False
+Patr-B*24:01,DEREVSVPA,23775.582917,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,EDEREVSVPA,5870.868242000001,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,EDLNLGNLNV,12508.230779,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,EDLVNLLPA,7211.119281,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,EDLVNLLPAI,50314.82365,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,EDPASRDLV,463.071065,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,EDPASRDLVV,18607.643708,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,EDYLELDTI,45.599577,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,EEAALCTFLL,274.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,False
+Patr-B*24:01,EEAIYQCCDL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,EECSQHLPYI,44215.426221,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,EEDEREVSV,5163.433254,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,EEILGTVSW,7220.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,False
+Patr-B*24:01,EEKAFSPEV,28853.090519,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,EENLLDFVRF,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,EEQKLPINA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,EEQKLPINAL,21032.831584,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,EEVSFRVGL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,EEVVLKNGEL,47700.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,EEYVEIRRV,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,FDITKLLLA,790.636363,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,FDITKLLLAI,505.534258,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,FDSTVTESDI,906.199853,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,FDYLELDTI,5.980683999999999,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,FEEAALCTFL,69900.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,False
+Patr-B*24:01,FEKHSSSGHA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,FELCDNPFF,36400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,FVGLALLTL,15935.797091,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,GDIINGLPV,72.428529,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GDIYHSVSHA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,GDLCGSVFL,1658.573956,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GDLCGSVFLV,12.260416,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,GDPALNMENI,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,GDPPQPEYDL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GDVVVVSTDA,43794.827103,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GEILLLEWL,68800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,GEINRVAACL,34367.305136,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,GEIPFYGKA,8287.245704,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,False,True
+Patr-B*24:01,GEIPFYGKAI,25368.130705,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,GELMTLATWV,6968.108179000003,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GENFPYLVA,38450.164356,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GETALALLL,5440.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,GEVPSTEDL,10735.176649,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GEVPSTEDLV,31.550258000000003,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,GEVQIVSTA,26231.544199,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,HDSPDAELI,5.219786,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,HDYCSRNLYV,86.997886,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,HEYPVGSQL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,IDLLVGSATL,4152.067468,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,IDPYKEFGA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,IDTLTCGFA,56.06384300000001,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,IDWKVCQRI,782.0072230000003,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,IDWKVCQRIV,9153.560618,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,IENATFFIF,538.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,IEPLDLPPI,5278.902975,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,IEPLDLPPII,5480.048527,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,IETTTLPQDA,22612.084703,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,IEYLVSFGV,2717.21572,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,KCDELAAKL,5877.116709000001,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,KDTWPDANKV,573.2458349999997,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,KDVRCHARKA,7787.956509999999,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,KDYLELDTI,10.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,KECFRKLPI,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,KEFGATVEL,57646.971839,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,KEFGATVELL,441.211005,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,KEHVIQNAF,43784.36,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,KELSPRWYF,46500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,KENDSKEGFF,3240.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,False,True,True
+Patr-B*24:01,KETSYTTTI,157.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,KEVKAAASKV,7105.930527,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,KRLRPGGKK,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,LDGVRLHRFA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LDLPPIIQRL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LDLSGWFTA,1255.729465,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LDPAFRANTA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LDPQARVAI,18874.51059,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,LDQAETAGA,1854.76458,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LDSFDPLVA,11488.334923,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LDSHYQDVL,46.379564,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,LDVSAAFYHL,1141.680638,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,LDYQGMLPV,945.682503,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LEDPASRDL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,False,False
+Patr-B*24:01,LEDPASRDLV,78.720484,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LEDRDRSEL,8914.201041,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,LEEELPRLA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,LEGEPGDPDL,2445.083662,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LENLVILNA,11441.767426,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,LENLVILNAA,3501.36432,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,LEQALNCEI,5158.187342,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,LEVIKGGRHL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,LEVVTSTWV,12832.858045,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,LEVVTSTWVL,948.520497,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,LLLAILGPL,4978.180165,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,MALMKLAAL,47851.819882,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,MEAQFLYLY,826.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,MEAQFLYLYA,512.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,MEISSSWWF,27061.717686,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,MENITSGFL,6760.395028,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,METDFLELAM,4390.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,METKLITWGA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,NDCPNSSIV,365.373106,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,NEGCGWAGWL,2297.035514,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,NEKRRLQLI,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,NESLNTGWL,9298.588792,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,NESLNTGWLA,1407.523673,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,False
+Patr-B*24:01,NEVTLTHPI,15732.642322999998,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,PDAELIEANL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,PDANKVGAGA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,PDRVHFASPL,13137.946886,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,PDVAVLTSML,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,PEFFTELDGV,18057.161579,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,PEHCSPHHTA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,PEKGGRKPA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,PERLASCRRL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,PESDAAARV,2427.64327,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,QDHLEFWEGV,181.310081,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,QDVLKEVKA,25821.180066,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,QDVLKEVKAA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,QEDAASLRA,1581.778399,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,QEIQLLAAV,49500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,False
+Patr-B*24:01,QELYSPLFLI,264.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,QEMGGNITRV,58467.536362,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,QEYADVFHL,28100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,False,True
+Patr-B*24:01,RDAVILLMCV,110.219443,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,RDGKLPTTQL,13385.27857,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,RDIWDWICEV,248.220807,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,RDKNQVEGEV,3787.409303,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,RDLAVAVEPV,231.189406,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,RDLLDTASA,1488.088285,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,RDLLDTASAL,2577.16689,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,RDPTTPLARA,57569.27,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,RDRSELSPL,915.706685,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,RDRSELSPLL,19307.969795,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,REEVSFRVGL,228.690768,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,REFLTRNPAW,69900.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,False,True
+Patr-B*24:01,REGNASRCWV,3498.430396,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,False
+Patr-B*24:01,REIGFIVPGL,13000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,RELHLSWEV,192.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,RETVIEYLV,738.8100860000003,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,REVSVPAEI,7542.812625,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,REVSVPAEIL,7510.419266,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,RRLRPGGKK,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,SAYLELDTI,9184.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SDAAARVTA,1041.9254050000004,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,SDAAARVTAI,2300.178005,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,False
+Patr-B*24:01,SDALELDTI,13.751988,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,SDELELDTI,9.326724,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDFFPSVRDL,36965.348855,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDFKTWLKA,5716.252309,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,SDFLELDTI,4.865234,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDGNCTCIPI,121.304137,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,SDIRTEEAI,9.88119,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDKLELDTI,447.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,False,False,False
+Patr-B*24:01,SDLYLVTRHA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,SDTLELDTI,24.793053,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,SDVLELDTI,43.104712,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,SDYAELDTI,16.647737,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,SDYCLSLIV,69.00616,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,SDYEELDTI,14.384635,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,SDYFELDTI,49.427904,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYKELDTI,19.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SDYLALDTI,12.954607,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,False,True
+Patr-B*24:01,SDYLEADTI,9.238149,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLEEDTI,11.414215,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,SDYLEFDTI,17.584252,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLEKDTI,16.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SDYLELATI,16.228332,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLELDAI,12.747592,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,SDYLELDEI,50.507332,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLELDFI,7.221473,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,SDYLELDII,55.330274,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLELDKI,25.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SDYLELDTA,201.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,False
+Patr-B*24:01,SDYLELDTE,48514.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,SDYLELDTF,2300.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SDYLELDTG,37288.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,SDYLELDTH,56400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SDYLELDTI,15.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,False
+Patr-B*24:01,SDYLELDTK,57787.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,SDYLELDTL,70.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,SDYLELDTN,5192.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SDYLELDTP,54667.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,False
+Patr-B*24:01,SDYLELDTT,768.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SDYLELDTV,6.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SDYLELDTW,50000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SDYLELDTY,55922.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,True
+Patr-B*24:01,SDYLELETI,12.113686,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,SDYLELFTI,8.540889,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLELKTI,70.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,SDYLELTTI,10.121656,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,SDYLELVTI,8.325865,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,SDYLETDTI,17.099626999999998,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,SDYLEVDTI,14.453351,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,SDYLFLDTI,9.01937,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLKLDTI,125.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,False,True
+Patr-B*24:01,SDYLTLDTI,6.392373,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,SDYLVLDTI,10.513615,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,SEAFEYYHTL,323.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SEAFLIGANY,19500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,False
+Patr-B*24:01,SEFSSLPSY,78100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SEFSSLPSYA,419.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,SEMVMCGGSL,3860.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SETLLPLTQY,69900.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SEVGICLST,2060.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SEYDYVIFT,67100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,True
+Patr-B*24:01,SEYLELDTI,400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,SFYLELDTI,8098.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SGYLELDTI,3740.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,False,True,True,True
+Patr-B*24:01,SHYLELDTI,28490.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SIYLELDTI,1589.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SKYLELDTI,6176.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SLYLELDTI,22409.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SNYLELDTI,4804.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SPYLELDTI,8211.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SQYLELDTI,3841.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,SRYLELDTI,18217.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,True
+Patr-B*24:01,SSYLELDTI,12389.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,False,True
+Patr-B*24:01,STYLELDTI,22996.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SVYLELDTI,1505.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,SYYLELDTI,21620.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,True,True
+Patr-B*24:01,TDATSILGI,9.565772,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,TDCFRKHPEA,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,TDFAQGWGPI,6080.820974,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,TDNLKCPCQI,34041.973759,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,TDNSSPPAV,69.913924,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,TDPRRRSRNL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,TDPSHITAEA,9302.426203,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,TDYLELDTI,12.150058,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,TEAMTRYSA,36866.750907,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,False
+Patr-B*24:01,TEDLVNLLPA,13678.841063,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,TEFACVVAEA,2160.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,False
+Patr-B*24:01,TERLYVGGPL,69930.06993,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,TESDIRTEEA,86.94766700000002,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,TESTLSTAL,52196.730666,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,TESTLSTALA,3142.198569,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,TEVAASCGGV,11495.269582,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,TEYDDHINLY,37900.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,True,True,True
+Patr-B*24:01,TILGIGTVL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,VDFIPVENL,1304.671425,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,VDILAGYGA,1529.550065,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,VDKNPHNTA,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,False
+Patr-B*24:01,VDPNIRTGV,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,VDQDLVGWPA,2061.642406,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,VDVQYLYGV,26.168385,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,VDYLELDTI,8.751466,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,VEAQLHVWV,11679.657915,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,VESENKVVI,12912.904034,=,quantitative,affinity,kim2014,Patr-B*2401,False,False,True,True
+Patr-B*24:01,VESENKVVIL,3982.450333,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,True
+Patr-B*24:01,VESYSSMPPL,2889.802662,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,False
+Patr-B*24:01,WDQMWKCLI,45.67795,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,WEQDLQHGA,58495.53805700001,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,WETARHTPV,21366.204458,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,WEYVVLLFL,3422.601957,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,WEYVVLLFLL,1127.5237,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,False,False
+Patr-B*24:01,YAAQGYKVL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,YDAGCAWYEL,12.447328,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,True
+Patr-B*24:01,YDTRCFDSTV,72.819784,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,True,False
+Patr-B*24:01,YDVVSKLPL,281.737403,=,quantitative,affinity,kim2014,Patr-B*2401,True,False,False,True
+Patr-B*24:01,YDVVSKLPLA,2053.330518,=,quantitative,affinity,kim2014,Patr-B*2401,True,True,True,True
+Patr-B*24:01,YELTPAETTV,1131.551913,=,quantitative,affinity,kim2014,Patr-B*2401,False,True,True,True
+Patr-B*24:01,YENAFLPFTL,289.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Patr-B*24:01,True,False,False,True
+Patr-B*24:01,YVQMALMKL,78125.0,>,qualitative,affinity,kim2014,Patr-B*2401,False,True,True,True

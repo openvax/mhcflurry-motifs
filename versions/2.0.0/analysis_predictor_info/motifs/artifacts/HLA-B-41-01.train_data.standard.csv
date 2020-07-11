@@ -1,0 +1,685 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*41:01,AALTGRTGPP,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AEAAAAVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,False,True
+HLA-B*41:01,AEAAAAVVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AEAASKWAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAAVVAVA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAEAHREAEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAEASRLTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEAEETARTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,False
+HLA-B*41:01,AEAEKIKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,AEAFGKIV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEAFGKIVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAIHSPQV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAILGQNAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEAIRILAA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AEALGSTEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,AEALPKQSV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,AEALREVSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEAPPPKIP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEAPPPSVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAPSESKPA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,False
+HLA-B*41:01,AEAPSESKPAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEAPSSPDV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEARPGATA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEASYARDA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEAVRPHSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEDDLNTVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AEDDVPRKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,AEDLNTRVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,AEDLRMLDA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEDLSHVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEDPETQVV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEDSGLHIIAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,AEDVLSGKVSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEEAARLSV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEEAARLSVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,False
+HLA-B*41:01,AEEAGAALRTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEEALVDHVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,AEEDPPREA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,False
+HLA-B*41:01,AEEEAATRIPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AEEEAQRANA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AEEEETSIKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEEENKAKAEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,AEEEPNRIPS,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,AEEERRIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEEFKVPAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,False
+HLA-B*41:01,AEEGPGVPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEEGPPLGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEELPHIHA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,AEEMETGNVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,AEEPAAAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEEPASVTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,False
+HLA-B*41:01,AEEPKPVEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,AEEPPAHAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEERDKRLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEERIEGRVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,AEEVWARVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEGKPPEAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEGPPRLAI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,AEHDPEQPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEHENLRTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,AEHFSMIRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,False
+HLA-B*41:01,AEHLGEAEVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEHNFVAKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AEHPIVIVC,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEHPQSPCV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEHSEPPQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEHVVQPKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEIAESVQA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,False
+HLA-B*41:01,AEIAHNVSS,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEIDRRISA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEIEDVKPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEIHVPEEQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEIKDIKDEIA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEILELAGNAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEILNGKEISA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEIPETSNA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEIQGVIDA,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,False
+HLA-B*41:01,AEIRAINEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEIRHVLVT,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AEISSKSPVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEKYQTVIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AELATRAIP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AELDRSRPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,False,True
+HLA-B*41:01,AELEKSSAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AELENLVNQAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AELLKTLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AELLRGFVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AELLVSHGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AELPASVHA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AELQRLVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AELQSRLAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AELQTKHAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AELRPDSPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEMEKQKVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEMQGKSAREA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AENPKLISA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AENRPAVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AENRPAVKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AENVAVPEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQAERYDDM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEQAKVVLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQCRKISA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,AEQDAKEEANKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQDELSQRLA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEQDFWRAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEQDLIREL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQDPDELNKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,AEQDPEARAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEQEPTAEQLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQEYNATVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,AEQFKLIQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQFRLEQI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AEQGVQKPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQGYEVAQSNAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQIVPLSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEQLEDKKRKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEQNIIPSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEQPSELVSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,False,False,True
+HLA-B*41:01,AEQQALRLEV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,AEQQKAQFTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEQQRLFNEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEQRNRDLQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,AEQRVPLSV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQTAAREQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEQTPSRPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,AEQVSHHPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AESENPPRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AESIDNPLHEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AESLQPVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AESPASRQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,AESPASRQAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,AESPASRQAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AESQTPTPSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,False
+HLA-B*41:01,AETPEGHAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEVARAQAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEVDAAMAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,AEVEDRRAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEVEGRLPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEVEHVVNA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AEVENTGKNEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,AEVEPTPEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,AEYDAVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,AQPVVQTQL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,CEYLRLPEV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,False
+HLA-B*41:01,EEALPVTTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,EEEEPVKEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,EEQHPELTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,EETEVKGTL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,EKAPAPAPE,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,FEADPPGQVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FEADPPGQVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,FEAPIKLV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,FEDDAIQLV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FEEDGLGVLP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,FEEEMKGIAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,FEELDRPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,FEIIDDHRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,FEILPGLSV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FEIPTGREA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FEKIEEVSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,FELLDRILP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,FELLSHTV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FENQDIHSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,FEQDVGSRTT,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FEQEMATAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,False,True,True
+HLA-B*41:01,FEQESFDHVP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,FEQGGARVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,FEQVSGVTV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,FESPNISVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,FESSGIHVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FESSGIHVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,FETIVKQQI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,FEVIEKPQA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,GEAELNWSRL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,GEALASISHVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEAPLHKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEAPPGTPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,GEAPVPASV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEARPGPTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEDERELAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEEGYIRMA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,False,True
+HLA-B*41:01,GEEPPTQGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,GEHDKMVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,GEHGLIIRV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEHLGTTEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,GEIESKFNQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GELERALSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,GENPHGVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GENPLQVLV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,GEQEDRPGL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEQEGAMVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,GEQEPPPPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,GEQGGPPPKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GEQPASYVS,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,False
+HLA-B*41:01,GESDDSILRLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,GESSFTYRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,GEVFKTYNV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,GEVNSTKVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GGGYTIRNV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,GRPPEMPV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEDEVDRVP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,HEDFEKSLSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,HEEASRPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,HEEMNYITA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,HEGPVWQV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,HEIDRYTAIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEIGHGIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,HEISEGNVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,HEISEGNVATA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,HELLKTNAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEMDRQVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEMFPAVHA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,HEMTKTASA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,HENESVYKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HENEYVHGNVTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,HEQEYKNNIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEQFIPIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,HEQLRAVIV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEQQFAHPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,HESACGRTV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,HESGHAIIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,HEVDTQYSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,HEVERAPEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,HEYPWILSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,HREVCHPEV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,IEAVPTSSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,IEDLSQQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IEDRNRIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,IEDVQKLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IEEDIRDLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IEEDKWRVA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,IEHDVVMKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,IEMDSKRVP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,IENGHIFTV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,IENIQRVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,IEQAYDNPHEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IEQETPVSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,IEQRDVRKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IEQTKAPKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IESEAPPKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,IESPPAFTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,IEVDGKQVELA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,KAYGDRIERM,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEAADMILV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEAAEAIEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEADLPMTAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,False
+HLA-B*41:01,KEAENPREV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEAEVQAKQQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,KEAHEPLAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEAIETIVA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEAIETIVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,KEAPAEGEAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,KEAPAPPKA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEAPAPPKAEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,KEATYGERVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEDEPPEQA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,KEDKPPLAP,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,KEDLRSWTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,KEEASGSSVTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEEDVLKFLAA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,KEEDYIRYA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEEEIARIA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,KEEEKSPVSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEEFQQYAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEEHVIIQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEESAAAAAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEETQPPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,KEEVEAAKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEEYDTRQA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,False
+HLA-B*41:01,KEFEKEISA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEGKPPISV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEGNYAIVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIDAYIVQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIDTSTKV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEIDVDAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIEGIFHA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIEQGDVTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIESIVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIEYVETV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEIEYVETVTS,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,KEISESRVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,KEISITHHV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,KEKADEVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,KEKEEAVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEKLIAPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEKQPPPPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEKYEKDIAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,KELEGTSQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,KELEKTYSA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,KELFQTPVC,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,KELSENEVV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEMAAEKAKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,KEMEHNTVCA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEMEKSFEV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEMESGPKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,KEMEVSPSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,KEMPVKVEA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KENDRILVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEPVEAAPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEQEAKYQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,KEQEGQTSETTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,KEQEKAFFA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEQEQDDSTVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,KEQGPYETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,KEQPPAETP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,KEQSPANRKV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEQTFYHVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,KEQVPGFTP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,KEQVPPPAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,KESDIDAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,KESDIYIVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KESDQTLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KESDVGFIP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,KESEVLLQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KETVFTKSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,KETVVTTQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEVDPGTKTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,KEVDVGLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEVEASHLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEVEETATA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEYDLPDA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEYDVAVQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEYERFSKY,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KEYILVEEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,KQVTPVVAL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,KSIPASFGT,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,LDFGSLSNL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,LEAAKSIAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,LEDGGVPRTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,LEDVRNGIYP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,False,True
+HLA-B*41:01,LEEAAKEVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,LEEARQFAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,LEENSTPKP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,LEEPLTQVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,LEIAKANAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,LEIAQDRNIA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,LEIKPPPSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,LEKPDPVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,LEKQDWEHAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,LEQDNIKQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,LEQPPAQAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,LEQPTDPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,LEQTPEQQA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,LETTVQKVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,LEVAKSLSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,MEDAKVYVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,MEDANVRVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,MEDETQKEL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,MEDTGSYRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,MEEKYIVSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,MEENFAVEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,MEEPAVPAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,MEESTNGSLAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,MEKGGNMKE,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,MELERIVSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,False,True
+HLA-B*41:01,MEQGRVTIA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,MEQPLDLTHIV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,MEQQTLSIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,MESDDARAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,METQRSYTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,MKLPVPAAAP,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,NEDLRSWTA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,NEEEIRANVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,NEEPPALPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,NEHDYAKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,NEIKDSVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,NEQGSYVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,False
+HLA-B*41:01,NQLLQEDSL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,PHVPPPVPP,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,QDIANEDAV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEAGPHRVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,QEALSALTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,QEARPPLVSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,QEATASKVIVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,QEDAARLQAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,QEDDRQLIA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,QEDERIVLV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEDPTNTAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,QEDRPGLHA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,QEEEARRAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEEEARRAAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEENITRALIVV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,False
+HLA-B*41:01,QEERETQVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEKNPLPSKETI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,QELPSHGV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,QEMEERRIV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,QENTQTPTV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,QEQEWQTVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,QEQFNSIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEQIEAIHKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,QEQLVEAGRLVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,QEQRIMKEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,QEQSFVIRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QESLPHAGP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,QESPGKVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QESPGKVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,QETPVSQVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QETSFTKEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,QEVAPPLEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,QEYFGSLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RDQIVTVSV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REAEAEAAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REAEFTKSI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,REAEFTKSIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,REAEGGRPPA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REAEHLYHTL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,REAENVAFA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REAEVTRTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REAHPPISV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REAPATQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REAPPVVPP,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,REAQSFISA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REAQSLISA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REAWASKDA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,RECTIEATA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,REDAARAIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REDDPGEAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REDDRVAIHEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REDEISPPPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REDGEKTFVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REDGRLWCA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,REDLSRLV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REDPDTPMS,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REDTLRVLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,REEAARLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REEAEKQRVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REEDAALFKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REEDAASTLV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REEDGERAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REEDIGKNRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REEDNKYCA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,REEDPFRSTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,REEDPYMDTTL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REEEDREVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REEEEDFIRAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REEEEKAQQVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,REEEGDGAGAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,REEEKVSAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REEELTRAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REEEQAFLV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,REEEVTGPVIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REEFPTLQA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,False
+HLA-B*41:01,REEGPAETV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,REEGPYEVEV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REERRILAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REESAARVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REESSIPRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,REGAPGPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REGYNEPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REHDFTQVEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REHTALLKI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REIAGSLEA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REIDDYIVQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,False
+HLA-B*41:01,REIEELLAEA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REIENQKTDA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REIFDKARQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,REIFFPETA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REIFLSQPILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,REIGENHEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REIGENHEAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REIGENHEAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,REILTELEA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,REIQEAIAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,REIQEAIAVA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REIQVQHPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REIQVQHPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,REIVAISSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REKDAVVTSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REKEEEPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REKPAAPTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RELEDATETA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,RELEKAKVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RELESVCV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RELETSGGGISA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,RELEVQHPA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,RELEVQHPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RELIEKGHTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RELIEKGHTAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RELPFTKSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REMDQTMAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REMEENFAVEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REMEVKCKP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,RENPSHPTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQAELTGLRLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQAIRAAKEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REQANGEVRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REQATGAKDTKP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REQDIYLPIANVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,REQDLPLAEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQEAREPVL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQEITAVQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQEKRDVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,REQEPARRV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQERAYIV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,REQLNLRESA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REQPSDPQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQQPSSASERQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQVDRNIREA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,REQVLKICA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REQVRQVEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RERPPEEVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,RESAARPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,RESHTHVSV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,RESPAQAPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RESPFSTSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,RESPPGKLP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,RETEPPPKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,RETEPPPKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RETETVFVP,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RETPHSPGV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REVDPLRIPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REVEDSKKP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REVLRTVET,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,REVVKTDSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,False
+HLA-B*41:01,REYEKRVSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,REYQLNDSAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,False
+HLA-B*41:01,REYTEGLTEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RQILLPAL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,RQKAVSLFL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,RQNKLTYTM,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEAFSVASA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,SEAGATAPKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEAGPGPRP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEAKPAAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEAKPAAVAA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,SEALALTQTWA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEAPPTNQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEASETPMA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEDLPRAVI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEDSPRPSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEEDAKAAKEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEEEPPKKTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEEFPSFGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEEKAETPTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,SEEKPVPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEELPSTAV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEEQSRLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,SEERPPAQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEESARLVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,SEEYPNKPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEFPKPQIL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEGFAVIKEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,False
+HLA-B*41:01,SEGGKTPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,SEGNVATAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEGPLRPVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,SEHGLVVIA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,SEHINEGETA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEITDTVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,SEKEATPVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEKPGSPEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,SELACIYSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SELEKTQVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SELITKAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SELITKAVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,SELPGAFEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SELPIVTPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,SELSRSPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,SELSRTYLP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SENEYIMKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,SENPSVYVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEQETLVRP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEQGPGPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEQLDLPVRQA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,SEQRQSVEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEQTRVNAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,SESEKQWKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SESELSKSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,SESKYTKVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,SESRFFVSS,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SETPSSPRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEVEEAQEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,SEYLQQHVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SEYLRYEDTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,SEYLRYEDTLL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,SQNKSYLAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,TEAEIAHIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEAERPLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEAGAETRSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TEAGMFAIRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,TEAIEAKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEAKPAVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEALHFVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,TEAPDRASA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,False,True
+HLA-B*41:01,TEAPLNPKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,False,True
+HLA-B*41:01,TEAPVPVSV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEAQTTPLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,TEAQTTPLAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,TEDGDSFLHLA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TEDPNHLPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TEDQFIRTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TEDRRAFAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEEAAVAIKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,TEEDPGRPGA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TEEEKNFKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,TEEKFIVKA,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEENKSFSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEEYPNKPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,TEGSHFVEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEGYSPPAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,TEHAHQVVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEHAHQVVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEHDMVIST,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,TEHSPEDAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,TEIEKSISA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,TEILKSVVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,TEINSQRIAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TEIQDVCSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEIQVNCPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEKEAPIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,TEKELAEAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TELADARRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TELQPALSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,TEMEHEVAC,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,TENPHGVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TENSPAPHA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,TEQAGRNALL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,TESPCALVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TESSHFYSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,TESSQSFVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,TETEPSKTV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TETTVKTAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,TEVAPPPPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,TEVSKTPEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,TEYDSRVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,VEDENGERTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,VEDLSHPVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,VEDPATEEP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,VEEEPARPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,False,True,True,True
+HLA-B*41:01,VEEEPRPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VEEKKTRAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEEKPPPAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEEPENPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,False,True,True
+HLA-B*41:01,VEEPQALAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VEEPSNPEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEEPSRPSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEERITQVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,False
+HLA-B*41:01,VEFLEPLEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VEHGSVALP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEHPSVMSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEIEQKVVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,VEIFPIFKA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,VEIGKTVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,VEKPVGVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VENPGGYVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,True
+HLA-B*41:01,VEQHIKENTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VEQWPYRAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VEVEGDNRYIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,VEVPETPKA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,VEVQDTPNA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,WEAFLPEAKAIS,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,WEDDKVTEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,WEDEGVRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,False,True
+HLA-B*41:01,WEDEGVRAC,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,WEEETVPTT,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,WEEETVPTTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,WEIENNPTV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,YEAPGVREA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,YEDATKITV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,YEDGGKPPVP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEDRQVPEA,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,YEDSGIPLP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEEGPGKNLP,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,YEEMGIKPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,YEEPPQKPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,True,True
+HLA-B*41:01,YEGPPDDEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEHFNSPHP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEILLGKAT,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEILLGKATL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEKDDKLTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YEKDSSVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,False,True
+HLA-B*41:01,YEKEEDWRNAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,YEKEGEFVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,False,False,True
+HLA-B*41:01,YEMLANRTAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,False,True
+HLA-B*41:01,YENPHYQSP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,YEQEGEVEKP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,YEQHRKYGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,YEQISYIIP,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,False,True
+HLA-B*41:01,YEQNDRLTP,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-B*41:01,True,False,True,False
+HLA-B*41:01,YEQQRDNLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,True
+HLA-B*41:01,YESEKVGVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,False
+HLA-B*41:01,YESERVYVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True
+HLA-B*41:01,YESLRVTSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,True,True,True,False
+HLA-B*41:01,YEVAVRKSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*41:01,False,True,True,True
+HLA-B*41:01,YEVEGHLA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B41:01,True,True,True,True

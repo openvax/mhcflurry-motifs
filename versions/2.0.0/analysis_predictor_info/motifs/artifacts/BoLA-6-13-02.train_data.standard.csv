@@ -1,0 +1,2 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+BoLA-6*13:02,VGYPKVKEEML,8.6,=,quantitative,affinity,Steinaa - purified MHC/direct/fluorescence,BoLA-6*01302,True,True,True,True

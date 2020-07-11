@@ -1,0 +1,22 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*41:02,AEAERVGL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,AEALERMFL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,False,True,False,True
+HLA-B*41:02,AEEKAAVTSL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,AEKLGGSAVI,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,False,False,True
+HLA-B*41:02,EEPFMPEE,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,False,True,False,True
+HLA-B*41:02,FEKTQEEL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,GEKFEDENFIL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,False
+HLA-B*41:02,GEVDPKVAL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,False,True,False
+HLA-B*41:02,IEKQPPQVL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,IEVDGKQVEL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,False,True,True,False
+HLA-B*41:02,KEEPPQPQL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,KEGKPPISV,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,False,False,True,True
+HLA-B*41:02,KERSGVSL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,False,False,True,True
+HLA-B*41:02,KETEIVQLQ,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,False
+HLA-B*41:02,LPHPGPFGS,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,False,False,True
+HLA-B*41:02,PAVPPPPVP,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,QEEHVAVAQ,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,REDKKQVQF,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,SEFPIRTL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True
+HLA-B*41:02,WALLTLVL,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,False,False
+HLA-B*41:02,YEEGPGKNLP,100.0,<,qualitative,mass_spec,Blasczyk - cellular MHC/mass spectrometry,HLA-B*41:02,True,True,True,True

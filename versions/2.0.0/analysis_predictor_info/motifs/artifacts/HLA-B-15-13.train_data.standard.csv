@@ -1,0 +1,7 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*15:13,DIREEKASW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*15:13,True,True,True,True
+HLA-B*15:13,DIREEKTSW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*15:13,False,True,True,False
+HLA-B*15:13,DIRQERTAW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*15:13,True,True,True,True
+HLA-B*15:13,ELNPNAEVW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*15:13,True,True,True,True
+HLA-B*15:13,IMKDKDNFW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*15:13,True,True,True,True
+HLA-B*15:13,SLSTFQQMW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*15:13,True,False,False,True

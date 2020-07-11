@@ -1,0 +1,6 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*39:10,APEEHPVLL,500.0,<,qualitative,affinity,Castro - Edman degradation,HLA-B*39:10,True,True,True,True
+HLA-B*39:10,GPYGGGGQYF,500.0,<,qualitative,affinity,Castro - Edman degradation,HLA-B*39:10,True,True,True,True
+HLA-B*39:10,VPAGGAVAV,500.0,<,qualitative,affinity,Castro - Edman degradation,HLA-B*39:10,True,False,True,True
+HLA-B*39:10,VPGAGSVPAI,100.0,<,qualitative,mass_spec,Castro - cellular MHC/mass spectrometry,HLA-B*39:10,False,True,True,True
+HLA-B*39:10,YPAGFMDV,500.0,<,qualitative,affinity,Castro - Edman degradation,HLA-B*39:10,True,True,False,False

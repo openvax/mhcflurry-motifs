@@ -1,0 +1,5 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+BoLA-4*24:01,AAHCIHAEW,572.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-4*02401,True,True,True,True
+BoLA-4*24:01,LLVAMVPEW,588.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-4*02401,True,False,True,True
+BoLA-4*24:01,RAAHCIHAEW,1792.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-4*02401,True,True,True,True
+BoLA-4*24:01,VVRHEGNLTW,1001.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-4*02401,False,True,False,False

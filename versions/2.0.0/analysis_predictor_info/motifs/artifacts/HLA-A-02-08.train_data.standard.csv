@@ -1,0 +1,6 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-A*02:08,FLPSDCFPSV,5000.0,>,qualitative,affinity,Melief - cellular MHC/direct/fluorescence,HLA-A*02:08,False,True,True,True
+HLA-A*02:08,KVFPYALINK,5000.0,>,qualitative,affinity,Melief - cellular MHC/direct/fluorescence,HLA-A*02:08,True,True,True,True
+HLA-A*02:08,TLGIVCPI,5000.0,>,qualitative,affinity,Melief - cellular MHC/direct/fluorescence,HLA-A*02:08,True,True,True,True
+HLA-A*02:08,YLEPAIAKY,500.0,<,qualitative,affinity,Melief - cellular MHC/direct/fluorescence,HLA-A*02:08,True,False,False,True
+HLA-A*02:08,YMLDLQPETT,5000.0,>,qualitative,affinity,Melief - cellular MHC/direct/fluorescence,HLA-A*02:08,True,True,True,False

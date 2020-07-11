@@ -1,0 +1,6 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+SLA-2*05:02,FTWYQLASY,5000.0,>,qualitative,affinity,Larsen - purified MHC/direct/radioactivity,SLA-2*05:02,True,True,True,True
+SLA-2*05:02,FVLSWLTPW,5000.0,>,qualitative,affinity,Larsen - purified MHC/direct/radioactivity,SLA-2*05:02,True,True,True,True
+SLA-2*05:02,LSFSYTAQF,5000.0,>,qualitative,affinity,Larsen - purified MHC/direct/radioactivity,SLA-2*05:02,False,True,True,True
+SLA-2*05:02,YSFPGPPFF,5000.0,>,qualitative,affinity,Larsen - purified MHC/direct/fluorescence,SLA-2*05:02,True,True,False,True
+SLA-2*05:02,YTAQFHPEIF,555.0,=,quantitative,affinity,Larsen - purified MHC/direct/fluorescence,SLA-2*05:02,True,False,True,False

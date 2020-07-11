@@ -1,0 +1,11 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*35:06,ADKVPKTAENFRAL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,True,True,False
+HLA-B*35:06,APEEHPVLL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,True,True,True
+HLA-B*35:06,AVDGEPLGRVSF,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,True,True,True
+HLA-B*35:06,FPDTPLAL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,False,True,False
+HLA-B*35:06,GGSAVISLEGKPL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,True,True,True
+HLA-B*35:06,LPDERTISL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,True,False,True
+HLA-B*35:06,SALAPGVRAVEL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,False,False,True
+HLA-B*35:06,SPQAPTHFL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,True,True,True,True
+HLA-B*35:06,SPSKNYILSV,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,False,True,True,True
+HLA-B*35:06,VETRSAGQGEVL,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:06,False,True,True,True

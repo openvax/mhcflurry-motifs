@@ -1,0 +1,5 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+BoLA-2*18:01,APAPISTMI,500.0,<,qualitative,affinity,Gao - purified MHC,BoLA-2*01801,True,True,False,True
+BoLA-2*18:01,IPAYGVLTI,500.0,<,qualitative,affinity,Gao - purified MHC,BoLA-2*01801,True,False,True,True
+BoLA-2*18:01,NPMKALYPI,500.0,<,qualitative,affinity,Gao - purified MHC,BoLA-2*01801,False,True,True,False
+BoLA-2*18:01,TPGATTPV,500.0,<,qualitative,affinity,Gao - purified MHC,BoLA-2*01801,True,True,True,True

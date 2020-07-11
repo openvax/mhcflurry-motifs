@@ -1,0 +1,3 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*50:02,LELKKHLL,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-B*50:02,True,True,True,True
+HLA-B*50:02,NEIKDSVVA,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-B*50:02,True,True,True,True

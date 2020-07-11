@@ -1,0 +1,27 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*57:02,AVRHFPRIW,1073.00242702,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,AVRHFPRPW,19999.9233662,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,False,True
+HLA-B*57:02,FSVPLDEGF,110.99941087399999,=,quantitative,affinity,kim2014,HLA-B*57:02,False,True,True,False
+HLA-B*57:02,FSVPLDKDF,2646.99576223,=,quantitative,affinity,kim2014,HLA-B*57:02,False,True,True,True
+HLA-B*57:02,HSILTVSEEEW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,False,True,True,True
+HLA-B*57:02,HTQGFFPDW,10.0000438306,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,False,True
+HLA-B*57:02,HTQGYFPDW,36.000088168400005,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,IAMESIVIW,2.00000055135,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,False
+HLA-B*57:02,IATESIVIW,38.000063077600004,=,quantitative,affinity,kim2014,HLA-B*57:02,True,False,True,True
+HLA-B*57:02,ISPRTLNAW,10.9999429142,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,False,True
+HLA-B*57:02,KAAFDLSFF,2.99998661702,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,KAAVDLSHF,5.999974888069999,=,quantitative,affinity,kim2014,HLA-B*57:02,False,False,False,True
+HLA-B*57:02,KAIEENNNF,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,False,False,True,False
+HLA-B*57:02,KLDELYGTW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,True,True,False,True
+HLA-B*57:02,KSMETKVQF,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,KTAVQMAVF,5.0000205369,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,LGHGVSIEW,581.997260299,=,quantitative,affinity,kim2014,HLA-B*57:02,True,False,True,True
+HLA-B*57:02,LGQGVSIEW,68.9998158697,=,quantitative,affinity,kim2014,HLA-B*57:02,True,False,True,True
+HLA-B*57:02,QASQDVKNW,62.00031761899999,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,QASQEVKNW,120.000056807,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,False,False
+HLA-B*57:02,QATQDVKNW,54.999940475900004,=,quantitative,affinity,kim2014,HLA-B*57:02,True,True,True,False
+HLA-B*57:02,QATQEVKNW,33.9999991256,=,quantitative,affinity,kim2014,HLA-B*57:02,False,True,True,True
+HLA-B*57:02,RTDGKVFQF,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,True,False,True,True
+HLA-B*57:02,TSVPDHVVW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,True,True,True,False
+HLA-B*57:02,VTDKSQEGSQF,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,True,True,True,True
+HLA-B*57:02,VTNPHTDAW,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*57:02,True,True,True,True

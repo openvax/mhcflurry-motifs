@@ -1,0 +1,8 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-A*01:03,FTDVNSILRY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,True,True,True,True
+HLA-A*01:03,HSEYHTLLY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,True,True,False,True
+HLA-A*01:03,NTDHQTQLLY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,True,False,True,True
+HLA-A*01:03,VTEKDLLLY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,False,True,True,True
+HLA-A*01:03,YSQSQGDSEYYDY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,True,True,True,False
+HLA-A*01:03,YTDYGGLIFNSY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,True,True,True,True
+HLA-A*01:03,YTMKEVLFY,100.0,<,qualitative,mass_spec,Alvarez - cellular MHC/mass spectrometry,HLA-A*01:03,True,True,True,True

@@ -1,0 +1,790 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*35:08,AAAAEIDEEPVSK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AAAERDVVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,AAFEAKEETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,AALLKASPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AAMGTARQDVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,AATLEEGNP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AAYGYGIRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,ADRDRPSVP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,AFGGGERVSL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,AGLQFPVGR,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AIDPNEPTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,ALDRIVEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,ALSTGEKGFGYK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APAPPASQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,False
+HLA-B*35:08,APAPSTVHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APAVTQHAPYFK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APDAKSFVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APDELHYTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APDPAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APEEHPVLL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APENAYQAY,5000.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APESVVVDY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APGPAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APIKVGDAIPAVEVF,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,APKPAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APLEDEATL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APLQEKVVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APMPPDHFY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,APPPPPPGH,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQDAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,APQGAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQKAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPADENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,APQPAGENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAKENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,False,True,True
+HLA-B*35:08,APQPAPDNAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,False,True
+HLA-B*35:08,APQPAPEDAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPEGAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPEKAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPENA,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPENAY,500.0,<,qualitative,affinity,Burrows - coelution,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPENDY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPENGY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,APQPAPENKY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPENSY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPENVY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,APQPAPENYY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPESAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPEVAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPEYAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,APQPAPGNAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPKNAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,APQPAPSNAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPVNAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPAPYNAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPASENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,False
+HLA-B*35:08,APQPAVENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,APQPAYENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,APQPDPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPGPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,False
+HLA-B*35:08,APQPKPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,APQPSPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPVPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQPYPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQRPLSTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APQSAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQVAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APQYAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APSPAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APSQEPMSIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,APTKDVAL,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,APVKPGIPY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APVPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,False,True
+HLA-B*35:08,APVPTGEVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APYFGAEDY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,APYPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AQAAAPASVPAQAPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,False
+HLA-B*35:08,AQGALANIAV,100.0,<,qualitative,affinity,Sasazuki - cellular MHC/competitive/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,ARVITEEEKNFK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,ASDFSDPVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,ATGPPVSELITK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,AVAPTSGPALGGLF,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AVDSQILPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,AYDATHLVK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CASQEPMSIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPAQEPMSIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,False,True
+HLA-B*35:08,CPSAEPMSIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPSQAPMSIYVY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPSQEAMSIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPSQEPASIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,CPSQEPMAIYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,CPSQEPMSAYVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPSQEPMSIAVY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,CPSQEPMSIY,5000.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,CPSQEPMSIYAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPSQEPMSIYVA,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,CPSQEPMSIYVY,500.0,<,qualitative,affinity,Burrows - purified MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,DAAKPEDVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DADFDEVQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,True
+HLA-B*35:08,DADVEKIHY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,DAGAGIALNDHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DANPETHAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DAPAESVAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,DAYPEIEKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DEGWFLIL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,DFSELEPDKFQNK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,DMAIDYESF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,False
+HLA-B*35:08,DPASEPISY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,DPDLEKQSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DPDTAEYVAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DPEGSRITY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DPEPLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,DPQPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,DPSQETITF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,DPVGDIVSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DPYSHLGEAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DSYVGDEAQSK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,DTDPLVTVM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,DTNADKQLSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,False
+HLA-B*35:08,DVDIADVAY,100.0,<,qualitative,mass_spec,Mann - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,DVMKDFEEM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,EAAPHDIGY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,EAAPPGELY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,EAINDRTVNY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,EAINVEQAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,EAMKAQMAEKEAILQ,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,EAQAATGF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,EAQAEIEQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,EAVTPSPSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,EPDSSTDMEQY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,EPLPQGQLTAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,EPLPQGQLTAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,EPMSIYVY,5000.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,False
+HLA-B*35:08,EPNPDDPLM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,EVAPAGASY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,EVDETYVPKEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FAALEKTYY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FAETSEPVVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FAQINQGESITH,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FATKDVAL,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FEAQGALANIAVDK,100.0,<,qualitative,affinity,Sasazuki - cellular MHC/competitive/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FGKKTGEGFYKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPAAIEHTI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,FPAEKESEW,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,FPAKDVAL,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPALPGSSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,FPAPAKAVVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,FPASPPKGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,FPDETHERY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPDKPITQY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPDSPGGTSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FPDTGSDHSY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPDVEKAEW,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPDVPDKENF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPEDEGIHY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPEEDKKTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,FPEEFDKTSF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPEELTQTF,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPEFPDPHTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,FPEGSEPKVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,FPEGSVELY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPEIDLEKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPEPEHSSF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPETTSPHEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,FPFEKGSVQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,FPHPHIHEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FPHSEETTTM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,FPIPAAEVDRL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,FPIPDLQKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,FPIPGEPGF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPISEETIKL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPLTTESAM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPMPGFDEH,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,False,True
+HLA-B*35:08,FPMTMDEKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPNADSKAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,FPNAIEHTL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,FPNKQGYVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FPPREIVTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FPQEEAIIDKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPQEGMHQM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,FPQKIAGELY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,FPQPEKESF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,FPQSELGRAEAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPQYPDKEL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,FPRCEFLI,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPSIYDVKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,FPSKPVAEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FPSSNVHVY,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPTADVAL,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPTKAVAL,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,False,True
+HLA-B*35:08,FPTKDAAL,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,False
+HLA-B*35:08,FPTKDVAA,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPTKDVAL,500.0,<,qualitative,affinity,Burrows - purified MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPTKDVGL,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,FPYEESKEKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FSALTPDETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,FTDEESRVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,GADPSTVEM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,GPDPSSPAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,GPEPLPQGQLTAY,1000.0,>,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,GPQPAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,GPVGEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,GQKLEGLLRQ,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,GSFDATGSGF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,GSGGGGGGHGSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAADVFEAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,HAAEDIVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAAGFAYTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,HAAIPPLEEVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HAANQSYQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAASESLKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAATDITGF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HAAVDRWQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,HADEYLEVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HADGPVQQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HADGTIVRY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HADKPVATY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HADPDFYQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HADPTELAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HADSILEKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,HADVSNQLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HADYQSPVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,HAEASAIVEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAEATIVVM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAEDPLSITF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAFDDQGREY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAFVDLHEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAFVELHEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAGEDVAVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,HAHLDIEAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,HAHVDKVTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,False
+HLA-B*35:08,HAIEESVVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,HAIQENKKDLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAISPSAADVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HALFEISKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HANLTEVTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAQHEGESVSY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,HAQSPDIKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,HASLSEYVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HASPEDIKKAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,HATEELKEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,True
+HLA-B*35:08,HATFNDPVM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HATVATENEVF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,HAVDVDSGSVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HAVIDINAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HDVEDAETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HGIVEVDPM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HGSYEDAVHSGALND,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HIANVERVPF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HIDPNVDYQF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HLIDDYGNTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPAEDTEGTEF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPAQDDRTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPAQDDRTFY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,False
+HLA-B*35:08,HPDAPMSQVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,HPDEKSIITY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPDEPLYSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPDESGSKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPDESGSKFQL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HPDGEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPDGPEGQAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPDKKIVAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,HPDPIVINH,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPDPNNENIVGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,True
+HLA-B*35:08,HPDQAQAIL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HPDTGISSKAM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPDVAKVSF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPDVDEHSV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPEDSEYEAEM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPENPKAVETF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPEPTERVVVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPESSLSSEE,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPETNLPVGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HPEYAVSVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPFIDDYQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,HPFKFSDHY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPFLYDRETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPGGEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,HPHLVAEAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,False
+HLA-B*35:08,HPHPEDIKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,HPIEGSTTVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,HPILNDPIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPISDHEATL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,HPISSEELL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPKGEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,HPLDYELTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,HPNDDDVHF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,HPNLVVGGTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPQQKVAVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,HPSDIEVDLL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPSHVQPAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HPSLQPEEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPSNPEHLF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,HPTFDSQY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,HPTFTSQY,500.0,<,qualitative,affinity,Burrows - purified MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPTIIGESVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPTSHHED,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HPTSVISGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,HPTVVISAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,HPVGEAAYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEADAFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,HPVGEADDFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEADGFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEADKFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,HPVGEADSFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,HPVGEADVFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,HPVGEADY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEADYDEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEADYF,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,False
+HLA-B*35:08,HPVGEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,HPVGEADYFKY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,HPVGEADYKEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEADYVEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,HPVGEAGYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEAKYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEASYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,HPVGEAVYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEAYYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,False
+HLA-B*35:08,HPVGEDDYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEKDYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,HPVGESDYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGEYDYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGGADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVGKADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,False,True,True
+HLA-B*35:08,HPVGYADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPVKEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,HPYQPDPKM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HQDPLAVAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,False
+HLA-B*35:08,HSDPESDFY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HSDQQVFEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HTDPVDYEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,HTDTTVKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HVAQPDSVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HVDKAEGTTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HVDQDLTTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,HVSKETESF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,True
+HLA-B*35:08,IADHPDFRF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IADKPMTQY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,IADLERETF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,IANVERVPF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IDDYELPL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,IDSKCLHF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,IGPLGLSPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,IPAAEPIEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IPASNTADEEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,IPAYPGVVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IPDDLKQLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IPDGHTKEM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IPDKFVVGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,IPDYTRESY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IPIAGRDITY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,IPIEPDYKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,IPLDPVAGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,IPSIDVHHY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,IPSINVHHY,500.0,<,qualitative,affinity,Burrows - purified MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,IPYQDRESY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,KLEDGPKFL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,KPAPDETSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,KPEPLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,KPIESFNEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,KPQPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,KPVGEADYFEY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LAADDFRTKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LAADDFRVKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LADAINTEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LAEVPTQLVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,True
+HLA-B*35:08,LAGESESNLR,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LGEPLPQGQLTAY,5000.0,>,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LKDDEVAQLKK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LKSTVSSLLQ,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPAAAQDVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPAASQPQVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPAKDIQTNVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPAPPTQNM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPAVESTTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPAVGEHVF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPDADKERL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDAHSDY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPDAHSDYARY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPDDPAKTTM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDDWDNRTSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,False,True
+HLA-B*35:08,LPDEIYHVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPDEKVELF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPDKHSLAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDKKTVHY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LPDLEGRTHIF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDLNHSQVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,LPDLSGPHSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDPEKPVRL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDPNVQKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDSTAKEIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPDTLKVTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LPDTRSEAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPDYYDTPL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LPEDLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEEEFGHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LPEEEFGHFY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPEGLPQGQLTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPGPQGQLTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,LPEPKPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,LPEPLDQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LPEPLGQGQLTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPEPLKQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPDGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPGGQLTAY,100.0,=,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPKGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPQAQLTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPQGGLTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,False
+HLA-B*35:08,LPEPLPQGQGTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPEPLPQGQLGAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,LPEPLPQGQLTAG,5000.0,>,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPQGQLTAY,1000.0,<,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,False,True
+HLA-B*35:08,LPEPLPQGQLTAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,False,True
+HLA-B*35:08,LPEPLPQGQLTGY,1000.0,>,quantitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPQKQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LPEPLPQYQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPSGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPVGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLPYGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLSQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLVQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEPLYQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPEPYPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPESLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LPESTHVEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LPEVEVPQHL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPEVLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPEYLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPFDKETGF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPFPDETHERY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,LPGPLPQGQLTAY,5000.0,>,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,LPIDPNEPTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,LPIEDSQDLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,LPIENDVYKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPIGDVATQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPLAGEEEL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,LPLDYKQEQQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,LPLEEHYRF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPLERDAESF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPMKETGLMY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPNDETRVNATM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,False
+HLA-B*35:08,LPNDGDEKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPPSHPDPAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,LPQEAFEKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LPQGQLTAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPQKGDVEM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,LPQPPEGQTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPQSIPEERY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,LPSEIEVKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,False
+HLA-B*35:08,LPSELERSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPSPHPVRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,False
+HLA-B*35:08,LPSPLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,LPTEQEVRF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,LPVAKDVSY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPVEEFNEL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LPVPLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,LPVSDRHVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPVSEQQERAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPYKATENDIY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPYKITAEEMY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,LPYNHQHEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LPYPLPQGQLTAY,500.0,<,qualitative,affinity,Rossjohn - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LPYRATENDIY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,LQSSRAFTNS,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,LSDGVAVLK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LSFPTTKTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,LSLAEASR,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LVDIEKAIAH,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,LVDPSVYGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LVMEKGDTVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,LVPATAEPP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,MAAAASPAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MAADDVEEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,False,True,True
+HLA-B*35:08,MAATGDVAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MADDPSKSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MADEAALA,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,MADELSEKQVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MADENKNEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MADGHTDSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,MADSSPAL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MADYPDYKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MADYSDPSY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MAEDELFNRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,True
+HLA-B*35:08,MAEESKNEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,MALADSAI,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,MAVIDGNVM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,True
+HLA-B*35:08,MIDPSGVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,MPAAGGVLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,MPAATDNRY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPADTNKAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPAGTELTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPAPEIVSY,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,MPAVKAIIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPDDSYMVDY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,True
+HLA-B*35:08,MPDEATPHY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPDGQFKDISL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPDPKTFKQHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,False
+HLA-B*35:08,MPDQRVIYY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPDSENPTSVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,MPDVVVRSF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPEKEPSVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,MPEKNEHSY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPEPDAQRF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPGEGEVVRY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPIGPDVSL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPIKNTNQDIY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPLEEGDTF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPMGPDQKY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,MPMVTDNKM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPNPEGRYTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPNSASRDEF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,MPPLTPPHVY,100.0,<,qualitative,mass_spec,ding - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPPQDAEIGY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPQGGGQHY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,MPQVAPDLY,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,MPSKEDAIEHF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPSQDYVLTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MPSQVVKGGAF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,MPVDPNEPTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MPYLEHESF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MSHEDPGNVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,MSVQALQSL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MTADRDPVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,MVAEEYNAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,MVFSETVI,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,MVISEDTVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NAAPGVDL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NAAPPPVTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NAAQTSVAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NAARSQLETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NAATDNIAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NADAIVVKL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NADGTYQVEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NADHSMNYQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NADKLTVKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,False
+HLA-B*35:08,NADPQAVTM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,NADSSNTAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,NAEDADGKDVF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NAEPARPDITY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NAEPVGTTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,NAIAVLHEERF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,NAIEDTIFY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NAIEEVNLAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NAIGGKFPLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NALNEQRVEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,False
+HLA-B*35:08,NAQRQDIAF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NASEDEIKKAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NATGPDLEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,NEDTSHAATTIPE,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NGDDPLLTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NIDDGTSDRPY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NLNDRLASY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NLVPMVATVQGQNLK,100.0,<,qualitative,mass_spec,ding - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NPAKDNFTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPAYPESRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPDASYVYY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPDDITNEEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,False,True
+HLA-B*35:08,NPDDITQEEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,NPDEAEKAL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,NPDEHSDSEMY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,NPDGGFATY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPDNSFEIL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPDPDAETL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPDPDAETLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPDPNEIKSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,NPDSDKIIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPEHASVAM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPEPNTVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,NPGNPHNVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,NPISGLGGTKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,NPIYEHVGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,NPNSGDFRF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NPNTGEVLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,NPSAADLVHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NSDTHSSTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,NTDEPPMVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,NVADLHEKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NVDDPDAANY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NVDDPTGNF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,NVDVSDLSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,NVEEADAAM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,NVIRDAVTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,PAKSAPAPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PAQGAKYR,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PEPAKSAPAPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PEPTKSAPAPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,PEPVKSAPVPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,PGHPGPSEP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PGPPPPGPH,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PHLGPPVPP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PNSSIFLTDTAK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,PPGPPPPQP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,PYLFWLAAI,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,QAAEEQKTSGIM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,QAAMPQVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,QAEGSLTVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,False
+HLA-B*35:08,QAIEDMVGY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,QANDDARTFY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,QAQLTDDSDIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,QAVADAVTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,QAVQQQEVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,QGSVQKVYNGLQGY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,False
+HLA-B*35:08,QLYGGRAA,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,QPAFDFDRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,QPAPENAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,QPAPENAYQAY,500.0,<,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,QPDQDITHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,QPDSGISSIRSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,QPNPVEQRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,QPVTSEPTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,QSSDADAVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,False,True
+HLA-B*35:08,QVADIDGQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,QVAEGENVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,RAKFKQLLQ,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,RAQLEDGRFVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,RPAGLPEKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,RPDEKAIMTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,RPIEDDQEVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,RYRTNTGF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,SAAEEVKTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,SADEGQTVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,False
+HLA-B*35:08,SADEPMTTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,SADGQIYIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,SADKPHLSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,SADLRADAM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,True
+HLA-B*35:08,SADNPSHAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SADPLLHSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SADPLNSAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SADPSGAFRM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,False
+HLA-B*35:08,SADPYAITVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SADTLWGIQKELQF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,SADVAADIAKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SADVPLVVEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SAEPSPTVM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,SAIAEGGASRF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SALEEESVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SALTPDETY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SASSPSPSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SAVEEKVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,SAYGSVKAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,SGMDNDFHHY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,SIDPGADLSQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SISEGDDKIEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,SISGPGVDKEPF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SIYEGDESF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SKQAEEEF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,SNTAGSQSQVETEA,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,SPAEDKSSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPALELDKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPASDTYIVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDAADSTSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDAQVPVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,SPDDPSRYISPDQL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,SPDEKSVITY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDHSDHTL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDKVDYEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDPGILAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,SPDPSIYAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDSPDLTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPDTSVSVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPENGADSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,SPENSDPQF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPNAKEFIF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,SPNAKEFVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPPEVPEPTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPQEDGVEL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPQEKEALY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,SPQPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,SPQPDGKVVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,SPSEETDQEVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SPSEKEDE,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,SPTHREEEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,SSAQPDTSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SSDPNAVMY,100.0,<,qualitative,mass_spec,Mann - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,SSGGFSGGSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SSSKGSLGGGF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,STDYETHEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SVDPHGFISY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,SVDPTQTEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,SVDVTNTTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SVEAVDPVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,SVPAPRPSPISTAST,100.0,<,qualitative,mass_spec,ding - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,SVQATTENKELK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TAAAALPAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TAAAPMIGY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TAAENEFVTL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,TAAPSLKNAAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,TADDKKLQF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,TADDPSLSL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,TADHRIYSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,TADHSHVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TADPGATMTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TADPSHQTM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TADQVMASF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,TADVVKVAY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TAEDPSKSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,TAEEAVAVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,TAEGQTIVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TAFLHPEEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TAIHEALETTQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,False
+HLA-B*35:08,TAIREAQTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TAIVDKIGF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TATQLAVNK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,TAVDKDNKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,TAVETDLTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,TAVIDHHNY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,TAVKEDEINVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TGSRGELMLE,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TGYGGYEEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TLAAIQGLLK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,TPDEIDHVF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,TPDEPDVHF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,TPDGKVYYY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TPDPSRSIF,100.0,<,qualitative,mass_spec,Mann - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TPDPSRSVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TPDPTRPLTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,TPEEDQRTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,TPEEDQRTYVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,TPEEKEQVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,False
+HLA-B*35:08,TPEPSVHAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TPEQPTAGDVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TPFVEGLSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,TPHDFIEHF,100.0,<,qualitative,mass_spec,Mann - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TPIEERGDLF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,TPIQDNVDQTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,TSDPNAVVM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,TSNPENTVF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TVDARVYSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,False
+HLA-B*35:08,TVDDPYATF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TVDSYVISY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,TVEDPVTVEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,TVIDEVRTGTY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,VAAPEHISY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,False,True,True
+HLA-B*35:08,VADPYVVIM,100.0,<,qualitative,mass_spec,Mann - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,VAELDKITY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,VGNGSALPTNDNSY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,VIDKESEVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,VKAEPAKIEAFR,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,VPAAPTPVAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,VPAPDGQFAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,VPDPSPDHLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,VPEEGGATHVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,VPIPTVNQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,VPIREQGNIY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,VPLAFGPPP,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,VPQPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,False,True,True,True
+HLA-B*35:08,VPYKDEELY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,VPYLGGEQSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,True,True
+HLA-B*35:08,VSETASGSVTQPK,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,True,True,False
+HLA-B*35:08,VTIKKDVDGAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,VYPADVVLF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,VYSHDGVSL,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,WPDKDGTKF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,True
+HLA-B*35:08,YAAPAPEQAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YADPVNAHY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YAQDEHLITF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,YAQKYDEEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YASSPGGVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,False,False,True
+HLA-B*35:08,YGFQEKEAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YGNQGGGYGGGYDNY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YGSFVTRAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YKCVSCTKTF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YMIFDPNNPLM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,False,False,True,True
+HLA-B*35:08,YPAHDYHGF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YPDALITNY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YPDENGFDAF,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPDEYHGEY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,False
+HLA-B*35:08,YPDGHNDYGY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,YPDNLKHLY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,False,True,True,True
+HLA-B*35:08,YPDPSKQKPM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPDPYGGEKL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,YPDQYVREY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YPDRIMNTF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YPDSKDLTM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,False,True
+HLA-B*35:08,YPDTDVILM,100.0,<,qualitative,mass_spec,Mann - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPEGFEIHSM,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPENGVVQM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,False
+HLA-B*35:08,YPNEEKDAW,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPNGVVVHY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,False,True,True
+HLA-B*35:08,YPNPKPEVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YPQPAPENAY,5000.0,>,qualitative,affinity,Burrows - cellular MHC/direct/fluorescence,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPQPPSQSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YPSEQEKAL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,YPSETTVKY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,False,True
+HLA-B*35:08,YPTEDYKVY,100.0,<,qualitative,mass_spec,Bade-Doeding - secreted MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPVPDVSTY,100.0,<,qualitative,mass_spec,Delgado - cellular MHC/mass spectrometry,HLA-B*35:08,True,True,True,True
+HLA-B*35:08,YPYQLNDPAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,False
+HLA-B*35:08,YSEEEKYAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True
+HLA-B*35:08,YVDSEKVSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B35:08,True,True,True,True

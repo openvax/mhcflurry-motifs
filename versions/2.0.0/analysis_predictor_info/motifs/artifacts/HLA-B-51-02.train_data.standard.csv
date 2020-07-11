@@ -1,0 +1,8 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*51:02,FAYDGKDYI,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,True,True,True,True
+HLA-B*51:02,FPSEIVGKRI,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,True,True,True,True
+HLA-B*51:02,LPFTVILV,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,True,True,True,True
+HLA-B*51:02,MPWFKGWKV,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,True,True,True,True
+HLA-B*51:02,TGYLNTVTV,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,False,False,True,False
+HLA-B*51:02,YAYDGKDYI,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,True,True,True,True
+HLA-B*51:02,YPFKPPKV,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-B*51:02,True,True,False,True

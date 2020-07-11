@@ -1,0 +1,15 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+H-2-Lq,ISTQNHRALDLVA,5000.0,>,qualitative,affinity,Lee - cellular MHC/direct/fluorescence,H2-Lq,False,True,True,True
+H-2-Lq,LSPFPFDL,61060.0,=,quantitative,affinity,Connolly - cellular MHC/direct/fluorescence,H2-Lq,True,False,True,False
+H-2-Lq,LSPFPFDL,5000.0,>,qualitative,affinity,Lee - cellular MHC/direct/fluorescence,H2-Lq,True,False,True,False
+H-2-Lq,QLSPFPFDL,34.0,=,quantitative,affinity,Connolly - cellular MHC/direct/fluorescence,H2-Lq,True,True,False,False
+H-2-Lq,RPQASAVYM,500.0,<,qualitative,affinity,Hengartner - cellular MHC/direct/fluorescence,H2-Lq,True,False,True,False
+H-2-Lq,RPQASGAYM,500.0,<,qualitative,affinity,Hengartner - cellular MHC/direct/fluorescence,H2-Lq,True,True,False,True
+H-2-Lq,RPQASGVAM,500.0,<,qualitative,affinity,Hengartner - cellular MHC/direct/fluorescence,H2-Lq,True,True,True,True
+H-2-Lq,RPQASGVYA,5000.0,>,qualitative,affinity,Hengartner - cellular MHC/direct/fluorescence,H2-Lq,True,True,True,True
+H-2-Lq,RPQASGVYM,500.0,<,qualitative,affinity,Lee - cellular MHC/direct/fluorescence,H2-Lq,False,True,True,True
+H-2-Lq,RPQASGVYMGNLTAQ,500.0,<,qualitative,affinity,Hengartner - cellular MHC/direct/fluorescence,H2-Lq,True,True,False,True
+H-2-Lq,TQNHRALDL,5000.0,>,qualitative,affinity,Connolly - cellular MHC/direct/fluorescence,H2-Lq,True,True,True,True
+H-2-Lq,YPHFMPTNL,38.0,=,quantitative,affinity,Connolly - cellular MHC/direct/fluorescence,H2-Lq,False,False,True,True
+H-2-Lq,YPHFMPTNL,500.0,<,qualitative,affinity,Lee - cellular MHC/direct/fluorescence,H2-Lq,False,False,True,True
+H-2-Lq,YPNVNIHNF,5000.0,>,qualitative,affinity,Lee - cellular MHC/direct/fluorescence,H2-Lq,True,True,True,True

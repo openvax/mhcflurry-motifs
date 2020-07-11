@@ -1,0 +1,167 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*15:11,AAIEERLSR,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,AINDPKIVVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,False,True
+HLA-B*15:11,APVPTGEVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,ATPVSPAMSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,False,True
+HLA-B*15:11,DAHPTLVTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,DLRQELLAF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,DPFKDIILY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,False
+HLA-B*15:11,DPFPAAIIL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,DPFVDRIGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,DPLGGSAAIHLY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,False
+HLA-B*15:11,DPNLEFVAM,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,DPVGDIVSF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,DQLGLMSL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,DQMISRIEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,False
+HLA-B*15:11,DQREGGQVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,False,True
+HLA-B*15:11,DYSDAGLYL,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,EAASVPVVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,False,False
+HLA-B*15:11,EGRLYQVEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,ELAKQITSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,False
+HLA-B*15:11,ELHRLQVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,ELKAPGISY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,False
+HLA-B*15:11,ELKREHTSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,False
+HLA-B*15:11,ELRDNDKTRY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,True,True,True
+HLA-B*15:11,ELRSLTQSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,EPPPPPAYR,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,EWDADDFRIF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,EYMKHTRLF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,FGKNGSFLPNIQVF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,FPASFPNRQY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,FPDKPITQY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,FPFIFEGRSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,FPFIFQGQSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,FPIPGEPGF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,False,True
+HLA-B*15:11,FPMTHGNTGF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,FPNIPGKSL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,FPRHIEPEL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,False,False
+HLA-B*15:11,FPYDYSASEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,FPYPFQVVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,GESSGKNVTLPAVF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,False,True
+HLA-B*15:11,GGYGGGGGYDGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,GPAFAALS,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,GPPGQQGTPG,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,GPQRSVCE,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,False,True
+HLA-B*15:11,GPVGVNVTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,GPVLVITEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,GSLLPGITY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,False
+HLA-B*15:11,HGIDPTGTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,False,True
+HLA-B*15:11,HLKKLKESY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,True,True,False
+HLA-B*15:11,HLKNSITSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,False,True,False
+HLA-B*15:11,HLPSFQQSAF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,False
+HLA-B*15:11,HLQFPGAVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,HLRDYFEQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,HMKPPSDSYY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,False
+HLA-B*15:11,HPDEKSIITY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,HPISSEELLSLKY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,False,False
+HLA-B*15:11,HPLPETAVRGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,HSRNEGVATY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,False
+HLA-B*15:11,IPAESYTF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,IPISSSNHS,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,IPMTPTSSF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,IPNEIIHAL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,IPYQDRESY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,IQRTPKIQVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,IWISKLPHF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,KFIDTTSKF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,KVKEAGSSM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,KWFFQKLRF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,KYSLIKGNF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,LEGMPQDTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,LGQVAILLFKSG,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LLKSEKSSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,LPAKILVEF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,LPASINTAY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LPDEIYHVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LPDTLKVTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LPFPFPSKLY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,LPKDTSPGSAY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LPKFEKNFY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,LPKSPPYTAF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LPREGEQNF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,LPSPREVTV,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,LPSPVTAQKY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,LPTGIPIVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,LPYNHQHEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,LTSQGKSAF,100.0,<,qualitative,mass_spec,Allen - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,MDKLVVEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,MDNPTTTQY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,MEEIIKNIQ,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,MEEILKNEK,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,MKDLVKRHH,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,MPAAQEGAVAF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,MPADTNKAF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,MPDDLLTTL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,MPFEIRLPEF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,MPNGTVQRF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,MPRDDIFVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,True,True
+HLA-B*15:11,MPRDIYQDY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,MPVDPNEPTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,False
+HLA-B*15:11,MPVGPDAILRY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,False,False
+HLA-B*15:11,MPYLEHESF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,MPYSHPSSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,NAFEVAEKY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,NALPDTLKVTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,NPADITVLF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,NPDASYVYY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,NPDDVFREF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,NPTLILAAF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,NPVGGLLEY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,NQKPPSAEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,False,True,True
+HLA-B*15:11,NQWQQGQFWGQKPW,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,NTIDPSHPM,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,NVIRDAVTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,PAIAGATF,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,PVLALLLLLY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,QPLVAVLI,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,QRKTVQSQIG,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,QSHQGQQQSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,True,True,True
+HLA-B*15:11,QSKTIKVSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,True,True,True
+HLA-B*15:11,RGVDLDQLLDMSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,RPAPVEVTY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,False
+HLA-B*15:11,SPIDVVEKY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,False
+HLA-B*15:11,SPIPFPPLSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,False
+HLA-B*15:11,SPTDSTPAL,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,False
+HLA-B*15:11,SPVDSVLFY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,TAAAVGAVF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,TLKAEQEEY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,TLKGPDSHY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,TLKKEYKSY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,True,True,True
+HLA-B*15:11,TLKREQESY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,False,False,True,False
+HLA-B*15:11,TLRQERLSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,TPAEPVQYY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,False
+HLA-B*15:11,TPEEGGYSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,TPISITSSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,TPPTDTILY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,TPVFSKARY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,TPVLLSVLY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,True,True
+HLA-B*15:11,TPYDSSASY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,False,True,True
+HLA-B*15:11,TTKSADRVTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,False,True
+HLA-B*15:11,TVKDSRTVY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,TYGEIFEKF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,False,True
+HLA-B*15:11,VIKQHLTDF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,VLKEEGVSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,VLKTPSAAY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,False
+HLA-B*15:11,VPEEGGATHVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,False
+HLA-B*15:11,VPLDERIVF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,VTVNATPD,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-B*15:11,False,False,True,False
+HLA-B*15:11,VVAPITTGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,VYAQVARLF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,VYNSEYYHF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,False,True
+HLA-B*15:11,YGGGGGYDGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,YLKLVGQQY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,True,True,True
+HLA-B*15:11,YLKRPGLTY,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,YPFHDSDPSALF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,YPFKPPKVTF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,YPKANIVAY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,False
+HLA-B*15:11,YPLEDHTEF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,False
+HLA-B*15:11,YPNGVCTVY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,YPNSGSVSAY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,YPNVGKSSF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,True,True
+HLA-B*15:11,YPQQSPYPATGG,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,True
+HLA-B*15:11,YPQVPSSGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,False,True,False
+HLA-B*15:11,YPSPVATSY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,False
+HLA-B*15:11,YPTQPGQGY,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,False,True,True,True
+HLA-B*15:11,YPVDLGDKF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True
+HLA-B*15:11,YQKAPTKEF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B15:11,True,False,True,True
+HLA-B*15:11,YWMHVQNTF,100.0,<,qualitative,mass_spec,Walden - cellular MHC/mass spectrometry,HLA-B*15:11,True,True,False,True

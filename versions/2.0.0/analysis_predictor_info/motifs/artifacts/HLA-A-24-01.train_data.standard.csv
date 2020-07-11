@@ -1,0 +1,3 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-A*24:01,LQTTIHDII,10000.0,=,quantitative,affinity,kim2014,HLA-A24,True,True,True,True
+HLA-A*24:01,VYDFAFRDL,1.0,=,quantitative,affinity,kim2014,HLA-A24,True,True,True,True

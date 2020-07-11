@@ -1,0 +1,81 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+Eqca-1*02:01,GYKAGMTHI,273.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,GYKAGMTHI,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,HRIPTNDEL,37.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,HRIPTNDEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,MRANNPEQNRL,11.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,MRANNPEQNRL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,MRDSVLTHL,16.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,MRDSVLTHL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,MRPLDAVEL,10.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,MRPLDAVEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,MRVNDSTML,3.7,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,MRVNDSTML,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRAPNTAEL,7.4,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRAPNTAEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRDAAARLTI,10.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRDAAARLTI,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRDKHSAVAYF,0.8,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRDKHSAVAYF,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRDKNSIYSGL,5.2,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRDKNSIYSGL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRDKYIKDDF,13.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRDKYIKDDF,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRDLQADNQRL,9.5,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,False,True,False
+Eqca-1*02:01,NRDLQADNQRL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,False,True,False
+Eqca-1*02:01,NRDRSWTEL,7.6,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRDRSWTEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRDVAKSVL,145.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRDVAKSVL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRDVPNETL,438.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,NRDVPNETL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,NRFSSYTRL,15.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRFSSYTRL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRGEVVTTF,950.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRGEVVTTF,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRIANPDQL,20.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,False,False,True
+Eqca-1*02:01,NRIANPDQL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,False,False,True
+Eqca-1*02:01,NRILTTDGL,53.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRILTTDGL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,NRIQHPSNVLH,67.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRIQHPSNVLH,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRLENDGATAL,1.6,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRLENDGATAL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRLVQTAEL,13.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRLVQTAEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRMADAIIL,3.8,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRMADAIIL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRMITQTSI,107.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRMITQTSI,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRMPQPLSM,1.3,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRMPQPLSM,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRMQAGEIGEM,10.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,False,True,False
+Eqca-1*02:01,NRMQAGEIGEM,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,False,True,False
+Eqca-1*02:01,NRQPYAVSEL,3.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRQPYAVSEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,True,True,True
+Eqca-1*02:01,NRQVQHILA,356.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRQVQHILA,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRRELTDKL,96.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,NRRELTDKL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,NRTPAPVSV,23.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRTPAPVSV,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRTPSTVTL,6.9,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,False,True,False
+Eqca-1*02:01,NRTPSTVTL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,False,True,False
+Eqca-1*02:01,NRVAEFHTEL,1.3,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,NRVAEFHTEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,False,True,True
+Eqca-1*02:01,NRVDPNGSRYL,10.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRVDPNGSRYL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRVEVGKDQEF,5.1,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRVEVGKDQEF,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,True
+Eqca-1*02:01,NRVSQQNKINL,151.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,False,False,False,True
+Eqca-1*02:01,NRVSQQNKINL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,False,False,False,True
+Eqca-1*02:01,NRVTALTQM,49.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,NRVTALTQM,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,SRDPTVTMV,272.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,SRDPTVTMV,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,False
+Eqca-1*02:01,SRPLSAVEL,16.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,SRPLSAVEL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,True,True
+Eqca-1*02:01,TRKPMTTKDLL,31.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,False,False,True
+Eqca-1*02:01,TRKPMTTKDLL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,False,False,True
+Eqca-1*02:01,YRRKDGVFL,16.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,Eqca-1*00201,True,True,False,False
+Eqca-1*02:01,YRRKDGVFL,100.0,<,qualitative,mass_spec,Sette - cellular MHC/mass spectrometry,Eqca-1*00201,True,True,False,False

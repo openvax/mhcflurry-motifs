@@ -1,0 +1,9 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+Patr-B*17:01,DAAARVTAIL,236.0,=,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,True,True,False,True
+Patr-B*17:01,DAAGRVTAIL,13570.0,=,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,False,True,True,True
+Patr-B*17:01,DASARVTAIL,3248.0,=,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,True,False,True,False
+Patr-B*17:01,GAVQNEITL,39.0,=,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,True,True,True,True
+Patr-B*17:01,GAVQNEITP,18000.0,>,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,True,False,True,True
+Patr-B*17:01,GAVQNEITS,18000.0,>,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,True,True,False,False
+Patr-B*17:01,GAVQNEITT,18000.0,>,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,True,True,True,True
+Patr-B*17:01,GAVQNETTL,19.0,=,quantitative,affinity,Walker - purified MHC/competitive/radioactivity,Patr-B*17:01,False,True,True,True

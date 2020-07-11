@@ -1,0 +1,56 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+BoLA-2*12:01,AAHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,False,True,False
+BoLA-2*12:01,ASFNYGAIK,67.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-2*01201,False,False,False,False
+BoLA-2*12:01,ASHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,ASSHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,CIYQITHGK,1035.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-2*01201,False,True,False,True
+BoLA-2*12:01,GVNRYDQYK,8693.0,=,quantitative,affinity,Barlow - purified MHC/competitive/fluorescence,BoLA-2*01201,True,False,False,True
+BoLA-2*12:01,KAAHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,True,True,True
+BoLA-2*12:01,KAHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KASHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,False,True
+BoLA-2*12:01,KEHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KKHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KKKHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,False,True
+BoLA-2*12:01,KKSHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,False,False,True
+BoLA-2*12:01,KLHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSAHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,True,True,True
+BoLA-2*12:01,KSHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSKHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSSAGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSSHAMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,True,False,True
+BoLA-2*12:01,KSSHGAGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,False,True,True
+BoLA-2*12:01,KSSHGMAKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,False
+BoLA-2*12:01,KSSHGMGAVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,False,False,True
+BoLA-2*12:01,KSSHGMGEVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,True,True,True
+BoLA-2*12:01,KSSHGMGKAGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSSHGMGKIGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,False
+BoLA-2*12:01,KSSHGMGKVAK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSSHGMGKVGA,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSSHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KSSHGMGKVGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,True,True,False
+BoLA-2*12:01,KSSKAMTTTGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KTADPAYGK,443.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-2*01201,False,False,False,False
+BoLA-2*12:01,KTSHSMGMIGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KTSKAMTATGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,False
+BoLA-2*12:01,KTSKAMTMTGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,False,True
+BoLA-2*12:01,KTSKGMTEVGR,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KTSKGMTKVGR,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,KTSNGMTKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,LTSHGMGKIGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,LTSHGMGRIGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,False,True,True
+BoLA-2*12:01,LTSKAMSTVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,LTSKAMTTVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,False,True,True
+BoLA-2*12:01,LTSKSMSEVGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,MTAHITVPY,5547.0,=,quantitative,affinity,Barlow - purified MHC/competitive/fluorescence,BoLA-2*01201,True,False,True,True
+BoLA-2*12:01,MTSKAMTATGR,5000.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,QSLVCVLMK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,False,True,False
+BoLA-2*12:01,RSSHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,False,True
+BoLA-2*12:01,RTDDTRLLAK,4176.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-2*01201,False,True,False,True
+BoLA-2*12:01,RVVQAERFYK,1353.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-2*01201,False,True,True,False
+BoLA-2*12:01,SAHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,False,False,True,True
+BoLA-2*12:01,SHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,False
+BoLA-2*12:01,SKHGMGKVGK,5000.0,>,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,False
+BoLA-2*12:01,SSHGMGKVGK,500.0,<,qualitative,affinity,Morrison - cellular MHC/T cell inhibition,BoLA-2*01201,True,True,True,False
+BoLA-2*12:01,TAYNKAPFTR,20000.0,>,quantitative,affinity,Barlow - purified MHC/competitive/fluorescence,BoLA-2*01201,True,True,True,True
+BoLA-2*12:01,TSNPTAYNK,226.0,=,quantitative,affinity,Barlow - purified MHC/direct/fluorescence,BoLA-2*01201,False,False,False,False
+BoLA-2*12:01,VVQAERFYK,20000.0,>,quantitative,affinity,Barlow - purified MHC/competitive/fluorescence,BoLA-2*01201,True,True,True,True

@@ -1,0 +1,10 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-C*03:13,ASSVFAPAL,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,True,True,False
+HLA-C*03:13,DPVSILDVRW,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,True,True,True
+HLA-C*03:13,FSRPGLPV,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,False,False,True,True
+HLA-C*03:13,GGGLSSPVI,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,True,True,True
+HLA-C*03:13,GIGAGAAVL,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,True,True,True
+HLA-C*03:13,HPVLVDRFLED,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,True,True,True
+HLA-C*03:13,LHVEQLQTI,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,False,False,False
+HLA-C*03:13,RTLFRVPF,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,True,True,True,True
+HLA-C*03:13,VNGPSAVVV,100.0,<,qualitative,mass_spec,McShane - mass spectrometry,HLA-C*03:13,False,True,False,True

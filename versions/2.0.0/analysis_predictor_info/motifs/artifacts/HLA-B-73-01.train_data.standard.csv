@@ -1,0 +1,409 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-B*73:01,AKYEICLEK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,ARFGISSVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,ARFPGGPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,ARHGEYAPF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,ARIDARIDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,ARLALSPVP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,ARNGVALTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,ARWLASTPL,640.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,ARWLFPVYL,1325.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,ARYGIFLPF,16000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,DRFEFPEQLP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,DRFHVSPDP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,DRFKEPPAYGP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,DRFLAGVPTP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,DRFNGVSEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,DRFSDSHNA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,DRFSGSKSGTSA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,DRFSSSSTSSSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,DRFTEPPAFGP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,DRIAGQVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,DRLARDYAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,DRLKVFKEV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,DRLKVIPKL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,DRMIDMGFEP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,DRMVEKGHFA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,DRNKYQIHI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,False
+HLA-B*73:01,DRNRLWYVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,DRVKVIFHP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,False,True
+HLA-B*73:01,DRVNVTVRP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,DRWEEAGPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,DRWIDETPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,False,True,True
+HLA-B*73:01,DRWYQADSPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,DRYKSYSP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,DRYLQDNPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,DRYMSPMEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,DRYNPPVDATP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,DRYPRKVTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,DRYREPPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,ERFKGTTKP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,ERFYGKYTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,ERMFLSFPTTK,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,FETMVFPAV,5000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,FEYGGFPPA,0.1,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,FPLWWVSSI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,FPYAIRLVA,129.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,FQAGMRLYF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,FQANMFLTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,FRAAVRAHF,3500.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,FRFEEPDSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,False
+HLA-B*73:01,FRISGRGGK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,FRKHGVVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,FRMLAWHVL,688.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,False,False
+HLA-B*73:01,FRVPTANVSVVD,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,FRYQGHVGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GKFFAQAFL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,GKIKGKYSY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GQMAWGYGF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,GQWDGWVWL,537.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GRFQVSVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,GRGQILLGK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,GRKTPLLCF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,GRMIPTVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GRNSRFPDK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GRRPLKNRK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GRVIPRMLY,8000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,GRWMLPQGM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,GRYSVRYVR,930.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,HRAKIDNYIP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,HRAPVFHPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,HRAPVSQAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,HRFCPTENVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,HRFLGNREP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,HRIQEELFY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,HRMNKILHY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,HRSLEPQGQVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,False
+HLA-B*73:01,HRVHVYVSP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,HRWAQPDTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,HRYLIRQSM,581.7,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,IKWLWKANK,6000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,IRFGGKAKEYSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,IRFHPLAENSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,False
+HLA-B*73:01,IRHHVRWAL,451.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,IRNLVKRYK,3500.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,IRSCWRYRK,3879.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,IRYLGVLLY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,KEWCGNLIV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,KHNSAESAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,KQWGWFALL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,KQWSWFSLL,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,KRASGDPYF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,KRFYQTVGF,4000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,KRIRLKHIF,18000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,KRLLLKLDF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,KRMATEVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,KRMGVQMQR,6000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,KRMMIRYCL,116.0,=,quantitative,affinity,kim2014,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,KRMMMNLNY,4000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,KRMMVRHCL,699.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,KRNEVAIPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,KRPYVFVAA,68.5,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,KRSTPFYTK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,KRWAFRTGV,1535.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,KRWVNEAQEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,False
+HLA-B*73:01,KRYHDPNFVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,KRYKQMCTK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,LRSWTAADMAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,LRTSVAPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,MAWLFFWAI,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,MKWMMAMKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,MPMKGRFPI,6000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,MRAVPLPAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,MRFLPTEAEV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,MRHNWTPDLSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,MRIPVERTL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,MRLMVAKEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,MRMAAVPVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,MRRQPAKVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,MRYFIGQPL,43.7,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,MRYNEKELQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,MRYPFESAEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,False,True
+HLA-B*73:01,MRYVASYLLAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,NEAWGKKPV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,NEWYVQPQA,67.3,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,NRAASQGYTVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,NRAMLRLIP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRAQEIRDIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,False
+HLA-B*73:01,NRAQERIDA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRAQIQTVI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRAQVLYHA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRAVSSNVGA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,NRAVVGVVA,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRAVVGVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRAYGETSP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRDQWSMTPP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NREGLEYIP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NREGPELPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,False,True
+HLA-B*73:01,NRFAGFGIGL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRFAGFGIGLA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFGAQQDTI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,NRFGGGPAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRFGGSGSQVDS,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,NRFGGSGSQVDSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRFIGNPGI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFKLVNSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRFKYARVTP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFLGDYVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFLNKQAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,NRFNYPFEL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRFPEVPEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRFPQNGLYTP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRFQGQPDI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,NRFQSKAFRA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFSALQPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRFSALQPPAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,NRFSALQQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRFSALQQAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFSALQQAVP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRFSATEVTN,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,NRFSGGFGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRFSGSKSGNTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRFSGWYDA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRFSTPEQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFSTPEQAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRFTHVLTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRFTQKSLSLSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,False,True,True
+HLA-B*73:01,NRFTVNETVL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRFVGILMA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRFYHEELNA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,NRFYHEELNAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,False,False
+HLA-B*73:01,NRGLTVVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRHAVVMEL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,False,True
+HLA-B*73:01,NRHAVVMELI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,False,False,True
+HLA-B*73:01,NRHFGSVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRHGLVPFA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRHLAEHSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,False,True,True
+HLA-B*73:01,NRHLVDETMDP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,NRHMSLLTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRIAYIHLV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,False,True,True
+HLA-B*73:01,NRIDILDSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRIIEPVAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRIKDQYKV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,False,False
+HLA-B*73:01,NRIKDSCVKA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRIKEEMEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRIQSKLYRAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRISGASELTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,NRISGETIFVTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRIVEKESV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,False
+HLA-B*73:01,NRIWEREPAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRIYDKVQNEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRKHPNEEYA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,NRKPFNFLP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,NRLDYHISV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,NRLEEPGNFVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,False
+HLA-B*73:01,NRLEERMLSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRLENDGATA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRLFGKAKP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRLFQENSV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRLFQENSVL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NRLFVGSIP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,NRLGESANAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRLGIWGEGTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRLGQSDPAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRLHQEYVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRLKVGLQV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,NRLKVGLQVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRLLPPASP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NRLLSTITEP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRLLWNPDI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,NRLLWNPDIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,NRLLYNSPEYEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,False
+HLA-B*73:01,NRLNSVVGEYA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRLPAAGVGDMV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,False,True
+HLA-B*73:01,NRLQDVFLLP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,False
+HLA-B*73:01,NRLQNMEVTDA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRLQQEYQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRLQYLIDL,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,NRLVDAGYCA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRLVQHDLQVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,NRLYMKARP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRMDPRAQTP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRMLAQQAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRMNYFQVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,NRMQTNQTPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRMVNHFIA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,NRNCVKGLVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRNEQESAVHP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NRNFSNFIL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRNKTGEITA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRNPVNYFA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRNSDRSIP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,NRNSFGLAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,NRNSFGLAPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRNVVQSEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRQEARPEP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,False,True,True
+HLA-B*73:01,NRQEARPEPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRQGVDIEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRQGVDIEAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRQLIYNYP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRQWIRATA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRRFPVWTI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRRFVNVVP,500.0,<,qualitative,affinity,Parham - Edman degradation,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRRFVNVVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRRPEIVVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRSAMPFTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRSPAGPAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRSYAGKNAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,NRTQGGLRA,136.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRVCTTVAI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRVDILDPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,NRVDTSPTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,False
+HLA-B*73:01,NRVGEAFHA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRVHDPVTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,NRVKVSQAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,False
+HLA-B*73:01,NRVKVSQAAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,NRVMVEGVGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRVNKPPYP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,False,True
+HLA-B*73:01,NRVNLIYGTI,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NRVQGSPTGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRVQNMALYA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,NRVSECGWAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,NRVVLEHEEV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,NRVVLPIEAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,False
+HLA-B*73:01,NRWDETPKT,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRWFNGQPIHA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRWKQSVEL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRWKSWFSY,9.8,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,NRWQARFDEL,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRWRNGETVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRYDGIYKV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRYDGQVAV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRYDKDKPVSF,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,NRYGEDVRSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRYGISNEKP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,False
+HLA-B*73:01,NRYGVAYVY,4.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,NRYHVPVVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRYHVPVVVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRYHVPVVVVP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,NRYIPTAAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,NRYITKGNLFEP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,NRYLFPEVDM,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,False
+HLA-B*73:01,NRYNEDDAKAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,False,True
+HLA-B*73:01,NRYPALHKP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRYPASSLVVV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,NRYPDAKMDP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,NRYREVPPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,NRYWGTPIP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,False
+HLA-B*73:01,PRFGSCYFL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,QRFAKEILP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,True
+HLA-B*73:01,QRFDQPLEA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,False
+HLA-B*73:01,QRFWESNSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,QRIAVPVTK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,QRNALAIAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,QRNGRIDRY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,False
+HLA-B*73:01,QRVHIGEKP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,QRWGGLEAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,QRYQGKADAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,REPGVRFVV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,RHIAIQVCY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RHYKRWPFY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RKAGVNQAK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,RKLGWWLKL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RKRLMSMVK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RKWGLDFCY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,RMIESRMSK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,RQHGFTPSK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,False,True
+HLA-B*73:01,RQIQVEGLK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,RQMKSGGRF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RQWGMGFLL,6000.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,RRARYWLTY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,RRATAILRK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,RRFNLFNKF,7000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRFQHKDGH,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRFWFRLRP,17.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,RRFWVGYQQ,892.7,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,RRGKANKPR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRHGMAWRQ,12000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRHPMRLRK,20000.0,>,qualitative,affinity,kim2014,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,RRLDLVHTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,RRMFGGPGTAS,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRMMMRITE,1149.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRNDVARIF,20000.0,>,qualitative,affinity,kim2014,HLA-B*73:01,True,False,False,False
+HLA-B*73:01,RRNRKALWL,3372.6,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,RRQGNIYPK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,RRQWVLAFR,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,RRRIGEIFK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,RRRQWASCM,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,RRTKLPLTK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,RRTPRVSWK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,RRVSGCVSV,965.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,RRVSVTAVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RRWDQTADQTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,RRWIAPHPL,2921.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RVISDGYFK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,RVWRGEQGK,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SDFFDRLQV,20000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRALLLNKY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,SRASAGSYISA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,SRDYYRHKV,3616.9,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,SRFEYPPPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,False
+HLA-B*73:01,SRFGGSYIV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,SRFLEGVRNVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,SRFLRRPAQ,670.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,SRFQHPKTQQV,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,SRFSGGFGA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRFYDRNDI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRIGAWASK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,SRIKLGIKS,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,SRKKGFLGL,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,SRLGIVVLR,7000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,SRLKAFKVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,SRLKPSSFK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRMGATPTP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,False
+HLA-B*73:01,SRNSPGSQVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,SRQQGRYAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRQRQAIPY,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,True,False
+HLA-B*73:01,SRSKPAAMY,3040.3,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRSNVQPTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRSPVVSEQTA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,SRTVVAPSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,SRWAESGSGTSP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,SRWAISHWL,167.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRWETGEVQA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,SRWGYQVKH,415.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,False,True,False
+HLA-B*73:01,SRWRIRSGL,2400.6,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,False
+HLA-B*73:01,TRFFGQDGDAAP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,TRFKAFVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,TRFQENYVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,TRGPVERAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,TRGPVERAAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,False
+HLA-B*73:01,TRHYQGMPP,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,TRIAAQGFTVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,False
+HLA-B*73:01,TRLEADEVAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,TRTSPNIPK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,TRTSSSFAA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,TRVWQKHTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,TRWAKKIEA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,VRFDSDVGEFRA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,VRFPDRLTP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,False,True,True,False
+HLA-B*73:01,VRFSPDGELYA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,VRLLLPGELA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,True,True
+HLA-B*73:01,VRTDITYPA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,VRVAEHHVA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,True
+HLA-B*73:01,VRVKGGGHVA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,VRWDYQPDI,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,VRYGKAKAP,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,False,True,True
+HLA-B*73:01,VRYKEVYAA,100.0,<,qualitative,mass_spec,systemhc-atlas,HLA-B73:01,True,True,False,False
+HLA-B*73:01,VRYYETHNV,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,WDYLVRHDA,4500.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,WRLYSPPPV,117.8,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,WRMVVRASF,1345.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,WRWKSQVTI,29.2,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,YEHYFVFAA,22.6,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,YPFHIFYPV,1326.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,False,True,True
+HLA-B*73:01,YQVLVMVPK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,YRAKVKPWA,4500.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,YRAVLRYMM,845.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,YRDWFSSQLTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,YRFNLRRKM,85.1,=,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,False,False,False,False
+HLA-B*73:01,YRFRKSSKK,701.1,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,YRGGGQQHV,3000.0,>,quantitative,affinity,Buus - purified MHC/competitive/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,YRLVSAVEK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,False
+HLA-B*73:01,YRNFSFSLK,5632.7,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,False,True
+HLA-B*73:01,YRNPQNSAQTA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,False,False,True,True
+HLA-B*73:01,YRNPQNSSQSA,100.0,<,qualitative,mass_spec,Perreault - cellular MHC/mass spectrometry,HLA-B*73:01,True,True,False,True
+HLA-B*73:01,YRSGVPVEK,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,YRTAVCGLY,7000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True
+HLA-B*73:01,YRYGFVANF,20000.0,>,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,True,True,True,True
+HLA-B*73:01,YRYKMPVME,1620.0,=,quantitative,affinity,Buus - purified MHC/direct/fluorescence,HLA-B*73:01,False,True,True,True

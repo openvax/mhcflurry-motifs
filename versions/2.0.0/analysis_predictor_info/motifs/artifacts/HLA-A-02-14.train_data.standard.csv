@@ -1,0 +1,13 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-A*02:14,FAYDGKDYI,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,False,True,False
+HLA-A*02:14,FAYDGKDYL,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,True,False,False
+HLA-A*02:14,FQLEINVRL,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,True,True,True
+HLA-A*02:14,FVLPELPSV,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,False,False,True
+HLA-A*02:14,HLPSDFTPAV,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,True,True,True
+HLA-A*02:14,ILKEPVHGV,5000.0,>,qualitative,affinity,Rammensee - lysate MHC/direct/radioactivity,HLA-A*02:14,True,True,True,True
+HLA-A*02:14,ILMEHIHKL,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,False,True,True,False
+HLA-A*02:14,KQLDDLKVEL,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,True,True,True
+HLA-A*02:14,SLYNTVATL,5000.0,>,qualitative,affinity,Rammensee - lysate MHC/direct/radioactivity,HLA-A*02:14,False,False,True,True
+HLA-A*02:14,STLHLVRL,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,True,True,True,True
+HLA-A*02:14,YGILGFVFTL,5000.0,>,qualitative,affinity,Rammensee - lysate MHC/direct/radioactivity,HLA-A*02:14,True,True,True,True
+HLA-A*02:14,YVISVVFRL,500.0,<,qualitative,affinity,Rammensee - Edman degradation,HLA-A*02:14,False,True,False,True

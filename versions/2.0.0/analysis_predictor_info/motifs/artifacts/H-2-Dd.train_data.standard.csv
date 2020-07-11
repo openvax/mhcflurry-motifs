@@ -1,0 +1,497 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+H-2-Dd,AAGFSKSDAI,1023.148556,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,AALLDGGNM,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,AALLDGGNML,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AASRPPVTL,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,AFEFINSLLK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,AFRSAFVRI,2592.268831,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,AFVRFSTDK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,AGAAALRPFA,26106.881319,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,False
+H-2-Dd,AGATRWCRL,500.0,<,qualitative,affinity,Kappler - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,False
+H-2-Dd,AGGAAYASI,51191.603104,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,AGNAFTAGKV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,AGPARAAAL,500.0,<,qualitative,affinity,Mariuzza - purified MHC,H2-Dd,True,True,False,True
+H-2-Dd,AGPARAAAL,5000.0,>,qualitative,affinity,Nabel - cellular MHC,H2-Dd,True,True,False,True
+H-2-Dd,AGPCALRF,1000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AGPFGMSRI,3364.0,=,quantitative,affinity,Ahmed - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AGPFGMSRI,4250.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AGPFGMSRIL,13200.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,AGPKLIAAL,13.4,=,quantitative,affinity,Splitter - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AGPLEEEL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,AGPPQVGL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,AGPPRYSRI,500.0,<,qualitative,affinity,Grzimek - T cell recognition,H2-Dd,False,False,True,True
+H-2-Dd,AGPYRAFVTI,4.933333,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,AGVWSQDKW,940.767544,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,False
+H-2-Dd,AIGGGLMGII,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,ALYRRIQRR,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AMIKNLDFI,37000.0,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,APGNYPAL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,APPKGTEVF,8838.204392,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,False
+H-2-Dd,AQLTRQLNM,40099.502861,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,AQYSPQQL,81323.591719,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,AREAVMAFL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,ARNAAVLTL,46263.256293,=,quantitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,ARRAPPLQV,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,ASNENMETM,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,ATLMKTSCSK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,True
+H-2-Dd,ATSIYTIER,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,True
+H-2-Dd,AVLTHVKIN,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,AVRMGSQAAI,12837.890745,=,quantitative,affinity,kim2014,H-2-Dd,False,True,False,True
+H-2-Dd,AVYGNIKHK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,AVYKPPKV,88095.23809500002,>,qualitative,affinity,kim2014,H-2-Dd,True,True,False,False
+H-2-Dd,AYAKRAAEL,10560.327619,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,AYASIPALL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,AYERDTRQF,7168.982569,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,AYGDPFTTL,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,True,False,True,True
+H-2-Dd,AYLAVSEAL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,AYQEIVKAL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,AYQPALEKI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,AYREMTGKI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,AYTSVAEML,54145.815626,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,CALMDCII,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,CEAIKTIGI,543.0,=,quantitative,affinity,Yewdell - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,CGPCPLLQL,500.0,<,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,False,True,True
+H-2-Dd,CQITRRDWSF,1083.0,=,quantitative,affinity,Yewdell - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,CRIPVIVAD,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,CTFMIITSTK,2850.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,CWDELTKLI,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,False,False,True,True
+H-2-Dd,CYNAVLTHV,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,DAMADVII,267.0,=,quantitative,affinity,Yewdell - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,DDPSRGRL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,DDPSRGRLGL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,DDVSREKSM,651.0,=,quantitative,affinity,Yewdell - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,DFFPDLNALV,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,True,False,True,True
+H-2-Dd,DGPFIFARH,661.7496070000002,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,DGPFIFARHA,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,DGPGAFDLF,16.679728,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,DGPGSFDIF,339.851376,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,DGPHAGLPV,3127.903099,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,DGPSLQQVM,19151.713386000003,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,DIPPRWFM,25429.703415,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,DVKASMLEK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,DVLSFTAEEK,500.0,<,qualitative,affinity,Reddy - cellular MHC/direct/fluorescence,H2-Dd,False,True,True,False
+H-2-Dd,DVLSFTAEEKA,500.0,<,qualitative,affinity,Reddy - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,EGPFDLALD,25905.18155500001,=,quantitative,affinity,kim2014,H-2-Dd,False,True,False,True
+H-2-Dd,EGPFDLALDV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,EGPLAGLPV,10292.304916,=,quantitative,affinity,kim2014,H-2-Dd,False,True,False,True
+H-2-Dd,EGPQYWEW,517.5367650000002,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,EGPRNQDWL,18.414607,=,quantitative,affinity,kim2014,H-2-Dd,True,False,False,True
+H-2-Dd,EILFKVSEI,956.080523,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,ERIIQSGDTLAL,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,EVVMAYVGIK,4290.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,False
+H-2-Dd,FALISFLL,1194.0,=,quantitative,affinity,Ahmed - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FALISFLL,1230.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FALISFLLL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,FAPGNYPAL,500.0,<,qualitative,affinity,Margulies - purified MHC/competitive/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,FEFTKYKYL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FFSYLMKDK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FGMSRILL,26400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FGPAHAAAL,500.0,<,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,FGPFCDALK,72674.86,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,FGPPTALRSF,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,FILGIIITV,12300.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FLIVSLCPT,4330.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,FLPLDFFPDLNALVD,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,FLTSVINRV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,True
+H-2-Dd,FNPIRVGMS,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,FPVRPQVPL,3360.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FSPRRNGYL,2.642857,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,FYALRGLSL,61.7,=,quantitative,affinity,Splitter - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,FYNEVASWL,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,FYTASYSSV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,GALPQGMVL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,GFIRSLQTI,1153.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,GFVDGLRDL,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,GGAYRLIVF,3.7,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,GGDIRARKPI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,False
+H-2-Dd,GGIGMAFGLT,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,GGIGRFYI,8810.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,GGKYSIDDY,15510.292443,=,quantitative,affinity,kim2014,H-2-Dd,False,True,False,True
+H-2-Dd,GGLGRIDKL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,GGLGRIDKLL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,GGPGADGAL,5000.0,>,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,GGPHAVYLL,500.0,<,qualitative,affinity, - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,GGPLLATRL,500.0,<,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,GGWVKAAAL,2846.153846,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,GILVALSAVI,45749.625707,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,GILVALSTVI,19268.768168,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,GIPWYKMAAI,759.2497950000003,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,False
+H-2-Dd,GKMFDSQVII,56983.802086,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,GLFDFVNFV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,GMAFGLTSET,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,GPGHKARVL,62.7,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,GQTGNRGPP,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,GYAKMTSDL,62793.09157999999,=,quantitative,affinity,kim2014,H-2-Dd,False,False,True,False
+H-2-Dd,GYKDGNEYI,2.3,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,GYKVAPAAL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,False,True
+H-2-Dd,GYLGARRGV,5000.0,>,qualitative,affinity,Koide - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,False
+H-2-Dd,HGMDLADL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,False
+H-2-Dd,HGVEFDFI,3189.146836,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,HKFYHYSVYI,27274.858509,=,quantitative,affinity,kim2014,H-2-Dd,True,False,False,True
+H-2-Dd,HLAQSLEKCEFLQRE,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,HLPDRVHF,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,HVDGKILFV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,HVKINDKCP,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,IDIIRGPIL,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,IDPWIFQNF,8087.011525,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,IGHRYIEVF,2645.276112,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,IGPFLPGEV,2770.54163,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,IGPGRAFYA,100.0,<,qualitative,affinity,Nabel - cellular MHC,H2-Dd,True,True,True,True
+H-2-Dd,IGPGRAFYI,500.0,<,qualitative,affinity,Nabel - cellular MHC,H2-Dd,True,True,False,True
+H-2-Dd,IGPGRAFYL,500.0,<,qualitative,affinity,Nabel - cellular MHC,H2-Dd,True,True,True,False
+H-2-Dd,IGPGRAFYT,1000.0,<,qualitative,affinity,Nabel - cellular MHC,H2-Dd,False,True,True,True
+H-2-Dd,IGPGRAFYT,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,IGPGRAFYTI,1000.0,<,qualitative,affinity,Nabel - cellular MHC,H2-Dd,True,True,True,True
+H-2-Dd,IGPGRAFYTI,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,IGPGRAFYTT,5000.0,<,qualitative,affinity,Nabel - cellular MHC,H2-Dd,True,True,True,True
+H-2-Dd,IGPGRAFYTT,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,IGPGRAFYTV,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,IGPGRAFYTVI,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,False,False,True,False
+H-2-Dd,IGPGRAFYVT,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,False
+H-2-Dd,IGPGRAFYVV,500.0,<,qualitative,affinity,Berzofsky - cellular MHC/direct/fluorescence,H2-Dd,True,False,True,True
+H-2-Dd,IGPYIIGNI,0.6,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,IIIPFIAYFV,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,IIIPFIAYFV,13400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,IIPFIAYFV,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,False
+H-2-Dd,IIPQKGNNI,4810.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,False
+H-2-Dd,ILDDNLYKV,6130.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,ILLAELFDIF,1417.421039,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,ILMDSIFVST,36600.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,ILMDSIFVST,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,ILMIFISSFL,740.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,IPAALIILL,18926.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,IPFIAYFVL,48588.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,IPFIAYFVLM,25700.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,IPLKIVRFF,39317.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,IPMFNKGHF,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,IPMSIISFF,8059.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,IPVIVADDL,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,IPYLRNYMV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,IPYLRNYMVI,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,IQFRLPDGSSF,63793.103448,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,IQTPTKLMNK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,ISIIVLFQR,7980.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,ISIRPRVTK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,IVADDLTAA,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,IVLFQRFLR,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,IYDRYANKL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,False,False
+H-2-Dd,IYKDKQWSI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,False
+H-2-Dd,IYSPSNHHI,17173.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,IYTSSMEAI,35870.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KCENHRSVI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,True
+H-2-Dd,KEYIPPLIW,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,KFINGASTM,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,KGFSEEHNTW,2576.280608,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,False
+H-2-Dd,KGFTDADNTW,13283.509841,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,KGKMFDSQVI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,False,False
+H-2-Dd,KGPNHQNPF,9.935158,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,KGPYRAFVTI,5.78125,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,KGQASRAVI,12363.549761,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,KIIQKPYQL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,True
+H-2-Dd,KIIQKSSSI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KINFEAPVSI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,KISFEAPVSI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,KLLWFLTGT,12400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KPFNNILNL,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KQYADVEGF,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,False
+H-2-Dd,KQYIVATLMK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KSYSLIRPK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,KVALYRRIQR,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,KVAPAPAVV,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,KVCYNAVLT,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,KVFDGIPPP,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,KVFSFWLLCK,874.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,True
+H-2-Dd,KYAAAVAGL,3912.420632,=,quantitative,affinity,kim2014,H-2-Dd,False,True,False,False
+H-2-Dd,KYAANYTKI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KYEGPFTTT,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,False
+H-2-Dd,KYFFTVSNI,13876.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KYFYGEIAL,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,KYGRLFNEI,18914.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KYIGLFIYI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,KYKPVYSYV,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,False
+H-2-Dd,KYMWCYSQV,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,KYQKSAEAI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,KYQQDRDTL,53919.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,KYYYSNSYL,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LALMDLLM,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LDPARDVL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,LDPARDVLCL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,False
+H-2-Dd,LEPVYETV,11853.895884,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,LFVTASPEV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,LGGCRHKL,8220.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LGLSRPLL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LGLSRPLLRL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,LGNSKYIF,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,LGNSKYIFWL,37000.0,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,LGNSRIVI,25258.167626,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,LGPFLPGEV,7881.0861840000025,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,LGPGLNPYL,1318.822435,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,LGRPDAEYW,177.763371,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,LGRPDEEYW,9215.79226,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,LILSCIFAFI,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,LLDCPTAAV,5000.0,>,qualitative,affinity,Margulies - purified MHC/direct/fluorescence,H2-Dd,True,False,True,False
+H-2-Dd,LLDVPTAAV,5000.0,>,qualitative,affinity,Margulies - purified MHC/competitive/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,LLFASMGFK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,LLPRRGPRL,5210.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,LLTACTIFY,18400.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LLTACTIFYI,11200.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,LMDSIFVST,40600.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LMGYIPLVKY,37000.0,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,LMIFISSFLL,2220.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,LMYDIINSV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,LPKNKEGLF,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,True
+H-2-Dd,LPLDFFPDL,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,False
+H-2-Dd,LPNPAFIHI,27134.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LPQSCYLNF,6537.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LPRPDTRHL,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,LPTKTRSYI,18539.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LSSWKNLM,29839.680026,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,LTHVKINDK,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LVKMINHLK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LYEAAREAL,48462.375287,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,LYIPGTSVI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,LYRGGLEPI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,False,True
+H-2-Dd,LYYQGSCYI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,True
+H-2-Dd,MALYVLQAL,49320.183038,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,MGHQRMRGTF,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,MGKFAIEVF,8169.741342,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,MGKSMRPIY,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,MGKSMRPVY,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,MGPLGRAWL,5000.0,>,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,MPLFPTFSM,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,MRATHRAALRA,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,MTIREFPRK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,MVIENGILK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,MVIENGILKK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,MYAAMAKAL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,MYLRRFII,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,True,True,False,True
+H-2-Dd,NAPTWIDI,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NAVLTHVKI,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NFINGNTFI,24184.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,NGATYNVSCI,55009.84559400001,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,NGFQEETW,35384.428798,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,NGIIRNLV,9250.0,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,NGPASSTTL,222.5,=,quantitative,affinity,Splitter - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,False
+H-2-Dd,NGPPHSNNFGY,18500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NGPPHSNNYGF,4805.194805,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,NGRDSLVNPGPAMAS,500.0,<,qualitative,affinity,High - cellular MHC/T cell inhibition,H2-Dd,True,True,True,True
+H-2-Dd,NGRFVSFPKI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,NGRFVSLPKI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,NGSSSMATV,15653.014041,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,NLFDIPLLTV,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NLFSKNILK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NPLSNPFYM,13144.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,NSLANPGIA,500.0,<,qualitative,affinity,High - cellular MHC/T cell inhibition,H2-Dd,True,False,True,True
+H-2-Dd,NTYLFNILY,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NTYLFNILYK,1090.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,NYHITLRFI,21454.611655,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,PCRIPVIVA,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,False
+H-2-Dd,PGAAVCQAVI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,PGLTSSVI,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,PHILLEEDEILVLL,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,False,True
+H-2-Dd,PLSPPPPPP,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,PTALRSFGF,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,PVIVADDLT,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,QALTDLGL,18500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,QALTDLGLL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,QAPYQGRVF,4324.652909,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,QGISFLRRAI,50556.038402,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,QGRVFASVTA,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,QGTYTNGRF,9282.633605,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,QIFEVYWYL,8720.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,False
+H-2-Dd,QITRRDWSF,1655.8837210000006,=,quantitative,affinity,kim2014,H-2-Dd,False,False,False,True
+H-2-Dd,QYITALNHL,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,QYIYSEHTI,21314.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,True
+H-2-Dd,RAPYRAFVTI,176.190476,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RESKGGKYSI,12849.158789,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,REVNKALYDL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,RGAYRAFVTI,3.363636,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,RGKYRAFVTI,67.272727,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,RGPARAFVTI,1.027778,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,RGPDAFRF,711.486628,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,RGPFRAFVTI,1.0,<,qualitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,RGPGRAFCTI,500.0,<,qualitative,affinity,Margulies - purified MHC/direct/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,RGPGRAFVTI,9.5,=,quantitative,affinity,Ahmed - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,RGPGRAFVTI,9.7,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,RGPGRAFVTI,500.0,<,qualitative,affinity,Margulies - purified MHC/competitive/fluorescence,H2-Dd,True,True,False,True
+H-2-Dd,RGPGRAFYTI,7.3,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,False
+H-2-Dd,RGPGRAYVTI,13.703704,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,RGPGRYFVTI,2.642857,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,RGPNAGSRF,500.0,<,qualitative,affinity,Koide - cellular MHC/direct/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,RGPNVVTL,804.0,=,quantitative,affinity,Ahmed - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,RGPNVVTL,841.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,RGPRLNTL,185.0,=,quantitative,affinity,kim2014,H-2-Dd,True,False,False,True
+H-2-Dd,RGPYAAFVTI,38.947368,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RGPYKAFVTI,13.703704,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RGPYRAAVTI,1.947368,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RGPYRAFATI,2.055556,=,quantitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,RGPYRAFKTI,2.3125,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,RGPYRAFVAI,1.275862,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,RGPYRAFVKI,3.894737,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,RGPYRAFVTA,127.586207,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,False
+H-2-Dd,RGPYRAFVTI,1.0,<,qualitative,affinity,kim2014,H-2-Dd,False,True,False,True
+H-2-Dd,RGPYRAFVTK,90.243902,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,RGPYRAYVTI,2.176471,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RGPYRKFVTI,3.7,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,RGPYRSFVTI,1.7619049999999998,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RGYVYQGL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,True
+H-2-Dd,RGYVYQGL,500.0,<,qualitative,affinity,Margulies - purified MHC/competitive/fluorescence,H2-Dd,False,True,False,True
+H-2-Dd,RIPVIVADD,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,RKPYRAFVTI,1057.142857,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,False
+H-2-Dd,RKVCYNAVL,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,False
+H-2-Dd,RLFYTFFSY,2710.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,RLLIWAYLSK,9990.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,RLYDYFTRV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,RMAADVITSI,44379.602806,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,RMATDVITSI,11516.27857,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,RPDTRHLRV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,RPDTRHLRVL,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,RQFPTAFEF,693.725613383,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,RQYPWGTVQV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,RQYPWGVVQV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RSIYGFQDTI,23759.47688,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RTLLGLILFV,11500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,RTLLGLILFV,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,RVYEALYYV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,RYCINSASL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,RYNVIASSI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,SAMVYSSDDI,7292.456258,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,SFFIKLPII,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,SFQPVIDAI,323.8,=,quantitative,affinity,Splitter - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,SFSLESDSIK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,False
+H-2-Dd,SGGAARLAI,10772.236365,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,SGGETTVTI,7924.893128,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,SGGPKYEYRW,5590.954887,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,SGISSAESL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,SGLSRYVARL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,SGPLTFPTD,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,False,False,False,True
+H-2-Dd,SGPSNTPPEI,18500.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SGPSRGRII,500.0,<,qualitative,affinity,Reddehase - T cell recognition,H2-Dd,False,True,False,True
+H-2-Dd,SGRANFATL,36317.361487,=,quantitative,affinity,kim2014,H-2-Dd,True,False,False,False
+H-2-Dd,SIICFEKL,5000.0,>,qualitative,affinity,Margulies - purified MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,SIINFEKL,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,False,True
+H-2-Dd,SIINFEKL,500.0,<,qualitative,affinity,Margulies - purified MHC/competitive/fluorescence,H2-Dd,False,False,False,True
+H-2-Dd,SIITDAVSI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,SKIFINSII,11247.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,True
+H-2-Dd,SLIYYQNEV,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,SLQTIASKK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,SLSAYIIRV,46600.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,False
+H-2-Dd,SLTIKDSSNK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,SLVENNFFT,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,SNHAAGYDL,77000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,SPGAAGYDL,9100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SPGQRVEFL,7550.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,SPMYLWFNV,13672.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,SPNRAAATL,7241.592001999998,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,False
+H-2-Dd,SPRPEMQEF,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SPYAAGYDL,32218.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,SQFILRLPP,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,SQVPPPSGF,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,SSCKMALLFK,11600.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SSILRSKII,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,STCYVFGLY,25100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,False
+H-2-Dd,STLNFNNLR,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,False,True
+H-2-Dd,SVANRSKQK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SVLSSITNI,41894.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,SVLTSRGGI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,SYAEVRAAL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,SYFETGFPI,8768.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,SYFPEITHI,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,SYILFLSCI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,SYISGTNGI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,SYISSAESL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,SYMKSIQRI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SYNAMDGQI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,False
+H-2-Dd,SYNRSMTTI,34745.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,SYQFSENEI,70000.0,>,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,SYQLLNFLPL,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,False,False,False,True
+H-2-Dd,SYSEIARAI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,TFFSYLMKDK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TFFTVVVGL,24651.221258,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,TFLRPPKV,88095.23809500002,>,qualitative,affinity,kim2014,H-2-Dd,False,False,False,True
+H-2-Dd,TFMIITSTK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TFSGIVNALI,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,True,True,True
+H-2-Dd,TGPCRTCM,1030.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TGPCRTCMT,115.0,=,quantitative,affinity,Chisari - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TGPCRTCMT,109.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TGPCRTCMTT,4286.0,=,quantitative,affinity,Chisari - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TGPCRTCMTT,5290.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TGPGGLSALL,8.6,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TGPPDADGI,500.0,<,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,False
+H-2-Dd,TGPTRWCRL,500.0,<,qualitative,affinity,Kappler - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,False
+H-2-Dd,TGYVATRW,88095.23809500002,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,THVKINDKC,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,False
+H-2-Dd,TLGNKHTL,17789.283916999993,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,TLGNKHTLI,1951.54785,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,TLLGLILFV,9890.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,TLNHVLALK,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,TQLNSLAHWI,9311.749587,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,TRDVLDLFADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,TRDVLDLWADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,False,False,True
+H-2-Dd,TRDVLDLYADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,TRDVLNLFADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,TRDVLNLWADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,False,False,True
+H-2-Dd,TRDVLNLYADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,TRDVLQLFADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,TRDVLQLWADFIASM,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,False,True,False,True
+H-2-Dd,TRVLQQIH,5000.0,>,qualitative,affinity,Ljunggren - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,TVLGLGLSLK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,True
+H-2-Dd,TYQRTRALV,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,TYRAVAKAL,61411.317054,=,quantitative,affinity,kim2014,H-2-Dd,False,True,False,True
+H-2-Dd,TYTTMDTLI,1368.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,VAYRPISA,88095.23809500002,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VCYNAVLTH,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,True
+H-2-Dd,VDPSLPSNP,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VFCAAVGRL,39546.412324,=,quantitative,affinity,kim2014,H-2-Dd,False,False,False,False
+H-2-Dd,VFSEIATSV,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VFSLVVSDI,8744.705748999999,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,VGDYKIVVE,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VGNVYVKF,24964.0167665,=,quantitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,VGPALGRGL,500.0,<,qualitative,affinity,Reddehase - T cell recognition,H2-Dd,True,True,True,True
+H-2-Dd,VGPRWMEW,31.681083,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,VGPSNSPIF,12.0,=,quantitative,affinity,Yewdell - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,VGPSNSPIF,12.1,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,VGPSNSPTF,0.5,<,quantitative,affinity,Yewdell - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,VGPSNSPTF,0.9,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,VGPSWADDD,21307.14865,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VILFIMFMLI,541.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,VIPAKKII,88095.23809500002,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VIVADDLTA,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,VLIAGIILL,862.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,VLPHLCLDYK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,False,True,True
+H-2-Dd,VLTHVKIND,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,VLYDEFVTI,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,VPISHLYIL,13200.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,VPLSFAAL,11263.748683,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,VPPYFPKGSL,69811.320755,>,qualitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,VSEIRLVTVL,4792.255643,=,quantitative,affinity,kim2014,H-2-Dd,False,True,True,False
+H-2-Dd,VTNLISETLK,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,True
+H-2-Dd,VYFLWTKIL,5000.0,>,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,VYYPGENQI,5000.0,>,qualitative,affinity,Koide - cellular MHC/direct/fluorescence,H2-Dd,True,False,True,True
+H-2-Dd,WEPAYLGSK,7559.181336,=,quantitative,affinity,kim2014,H-2-Dd,True,True,False,True
+H-2-Dd,WGPALLSIL,500.0,<,qualitative,affinity,lez-Aseguinolaza - cellular MHC/direct/fluorescence,H2-Dd,True,False,True,False
+H-2-Dd,WGPPMRHAL,500.0,<,qualitative,affinity,Srikumaran - cellular MHC/direct/fluorescence,H2-Dd,True,True,True,True
+H-2-Dd,WGPSLYSI,17.6,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,False
+H-2-Dd,WGPSLYSIL,5.0,=,quantitative,affinity,Chisari - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,WGPSLYSIL,6.6,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,WGSDLGTMI,41341.427261,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,WSPRDHTPA,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,WSPRDYTPA,14777.351221,=,quantitative,affinity,kim2014,H-2-Dd,False,False,True,True
+H-2-Dd,WSPRDYTPQ,77083.333333,>,qualitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,WTTYMDTFFR,69800.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,WVPRLYQLA,54189.555604,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,YDLQRSAM,20752.513431,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,True
+H-2-Dd,YGLKGPDI,37000.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,YGPKVDIW,11.068009,=,quantitative,affinity,kim2014,H-2-Dd,True,False,True,True
+H-2-Dd,YGPSLYRRF,500.0,<,qualitative,affinity,Reddehase - T cell recognition,H2-Dd,True,True,False,True
+H-2-Dd,YIDERSNAEI,25724.856856,=,quantitative,affinity,kim2014,H-2-Dd,True,True,True,False
+H-2-Dd,YIIRVTTEL,77100.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,YLLFASMGFK,11300.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,False
+H-2-Dd,YLLFASMGFK,12600.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,True,False
+H-2-Dd,YLPEVISTI,18300.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,True
+H-2-Dd,YNAVLTHVK,5000.0,>,qualitative,affinity,Jr - purified MHC/competitive/radioactivity,H2-Dd,True,True,True,False
+H-2-Dd,YPHCMPTNL,5000.0,>,qualitative,affinity,Margulies - purified MHC/direct/fluorescence,H2-Dd,True,False,True,True
+H-2-Dd,YPHFMPTNL,5000.0,>,qualitative,affinity,Margulies - purified MHC/competitive/fluorescence,H2-Dd,False,True,True,True
+H-2-Dd,YPMDNVINF,59978.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,False,True,False
+H-2-Dd,YYFSLQQRL,1173.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,True,True,False,True
+H-2-Dd,YYTCVLEYI,5767.0,=,quantitative,affinity,Sette - purified MHC/competitive/radioactivity,H2-Dd,False,True,False,True

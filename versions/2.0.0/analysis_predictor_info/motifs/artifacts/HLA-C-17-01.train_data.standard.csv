@@ -1,0 +1,1469 @@
+allele,peptide,measurement_value,measurement_inequality,measurement_type,measurement_kind,measurement_source,original_allele,fold_0,fold_1,fold_2,fold_3
+HLA-C*17:01,AAAAAIVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAAAAMNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAAGMLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAAPAFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAASYPAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAACAVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AAADILQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAADIVNFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AAADSAVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAEAVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,AAAERPPRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAGAPALL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAGSPLSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAGSPVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAAHSVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAIFVII,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAKALRI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AAAKHLIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAALFVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAANPLAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,AAAPAVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAPHLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAAPHLLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,AAAPPALI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAPPLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAPSLLIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAPTANLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AAAPVPTTTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAQEPLQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAARDVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,AAASHPLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAASKVLNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAASPVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAASPVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AAASQFTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AAATLTSKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAATSALLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAAVQAFYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,AAAWPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AACGGHVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AACRVIARL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,False,True,True
+HLA-C*17:01,AACSFFILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AADPSVVNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AADPVSPLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,False,True,True
+HLA-C*17:01,AAFGRDLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAFPGASLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAFPSSLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAFSLTSHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAFTADPLSLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAGKEVML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAGLPVCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAGPPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAGPVGSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AAGSHVIIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAGSPLSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAGSPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAHIPLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAIAPPTSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAIASLLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,AAIGEATRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAIGQLAFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAIMQALWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAINPELLQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAINRQINL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAINRYSRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAIPPDYLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAIQGATLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAIQQRTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AAIWFRTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAIYLVTSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AALAANSNGIA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AALDKATVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AALPKATIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AALPRLIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AALPVYQEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AALRLLTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AALSQVTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAMQDPEVM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AANKTIIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,AAPATRAAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAPEGKRSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAPEGVPL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAQTKATFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AASAQLLRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,False,True
+HLA-C*17:01,AASDFIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AASEPVVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AASFGKSINF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AASHPLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AASPQAPTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AASPSELHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AASSSVCKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AASTLVTWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AATAQVSHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,AATDIFSYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AATDITSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AATEREISL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AATHLTSKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AATHRVVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AATKILTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AATKVTTVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AATSLITTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AATSRIAEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AATVTITHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAVAPVLSI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAVDRTTEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,AAVFGVTRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAVGEPAFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,False,True
+HLA-C*17:01,AAVGFLSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAVGFPTHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAVHGTTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAVLPFGGTF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAVNHISQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAVPRAAFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,AAVRETVML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAVRKPIVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAVSLITCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAYAGGLVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,AAYALVSNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAYCTGLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAYDRYLKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAYGHRLCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,AAYGNRQNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,AAYHLIIEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAYLRALSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAYPKIQML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AAYPRPGML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AAYRRALEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,AAYYHPSYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,AELNEFLTR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AEQRGELAIKD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AEQRGENALKD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AFLIPLLVW,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AGFAGDDAPR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AGIAHPSAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AGPLRKSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AGQVPCGNPVYVVA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AGVNTVTTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AGVPLFLLE,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AIADAEQRGEHALKD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AIEALLHDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AIEPLPNVVEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AIGPCVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AIIDKYIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AIKFLEVIKPF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AILMTVALL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AIMDLLLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AIRNDEEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AIVFIITRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,AKNKLNDLED,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALAFEPLSQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,ALAFEPLSQLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ALDVANKIGII,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,ALDVFALWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALGPILRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALGQNPTNAEVLK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALLATVLGRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ALPEIFTEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALPKLPISL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALVDGPCTQVR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ALYSKGILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ANSHQGQML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AQFEHTILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,AQLELISRI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AQYDRQIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AQYEDIAQK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ASAVQLIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ASDPRIIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ASGPPVSELITK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ASIGSTIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,ASINSTVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ASIWFISCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,ASLSTFQQM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ASTARHLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ASTCVIIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,ASVDKVLEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ASVDKVTRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,ASVGKTSIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ATPVDPLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ATYHRAIKV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AVALPVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AVGGEALGRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AVGPDLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,AVIESVTFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,AVIKGLTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AVKDLVVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AVKDLVVLLF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AVRLLLPGEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,AVVPLVGKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,CYYVTTLSI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,DAFKTQMELL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,False
+HLA-C*17:01,DAFSKDHQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DALVFGHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DAQLQIYTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,False,True,True
+HLA-C*17:01,DASGPDPQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DESGPSIVHRKCF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,DIPGLTDTTVPR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,DIVRANTF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DLAGRDLTDYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DLREKLDSF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DLTDYLMK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,DLTDYLMKI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,DMPYLDPCLPLDIKD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,DPFNPFELTNH,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,DRVYIHPF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,DRVYIHPFHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,DSYQKFIPFI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,DSYVGDEAQSK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,False,False
+HLA-C*17:01,DVAAFNKI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DVANKIGII,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,DVNFPIDNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,DVYLYKQSF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,EAARVAEQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,EAFQLFDR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,EAVDLITRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,EGVNDNEEGFFSAR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,EIGIVRQFPF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,EIRDVSNLGIF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,EITALAPSTMK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,ELERPGGNEI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,ESGPSIVHRKCF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ESLIACKA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,EVCGFAPYER,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,EVGGEALGRLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,EVQSLPLPL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,FAADAVKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAADHNYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,FAADIISVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAADLAEEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAAEAIAM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAAEAQKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FAAETLVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAAFLPEFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAAGETFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAAGIIAHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FAAGSATRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAAKVLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAALMPTVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAALPNQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAAPSPFAEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,False
+HLA-C*17:01,FAAPTTGNQI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAAQSLVQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAARPVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAAVKLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FADAHRPKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FADDGVKYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FADFERHFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,False
+HLA-C*17:01,FADGHVLEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FADGHVLELL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FADGKVYAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADGVILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,FADGVILLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADKHIQVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FADLNLAEF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADQAEILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADQEVRSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADREVQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADREVQLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FADSHLWKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAERSVAKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAFEGIGDEDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FAFESDLHSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAFESDLHSLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAFPGEILM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAFRHVLKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAFRNFLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAGASIKI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAGKVLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAGMPITL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAGNTPLHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAGPHSTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAHHLPVWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAHKPLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAHLINVEF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAHSFIEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FAIDPHLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIDSSHPWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIGGLCNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAILSFLHI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAIPGSIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIPGSSFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIPLIEKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIPLIERL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIQPNTTGKQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAIRGVVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIRNQIKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FAIRPMYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIRSLAEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAISILQQI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FAISILQQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAIVASDTRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAKAIYERL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FALDGLKQVM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FALGAGTALL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FALLQQPLF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FALPSPQHI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,FALPTTVWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FALPYVIVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FALRIASRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,FALSGPLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,FALTNIAVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAMPYFIQV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FANERCLQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FASADISL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FASEYPLIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,FASFKPTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FASFPEYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FASGAVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,FASGVVKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FASHVSPEV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,FASKHAVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FASNHIQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FASPDLPLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,FASPTQVFF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FASPTSPPVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,FASTILHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FASTYLLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FATKPELL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FATKTVIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FATKVVHLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FATQQFVAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FAVALPQLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAVATPEEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FAVDREARL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAVEYFTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAVLEDHTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAVNSLLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAVNSVLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAVSDISFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAVTLETVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAVYIHALL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAWKPQLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYAKRTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYDGKDYI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYDGKDYIAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYDGKDYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYDGKDYLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAYDPSNYEYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAYEGPMYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYGLLMEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAYLRDLLI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYNFREEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAYPAIRYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FAYPAPLEV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FAYRFSNLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYRGFKYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYTGQILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FAYTRLQLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FGCSAVVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FGIDRPAEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FGLDLVTEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FGSKIILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FGYIHAIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FGYKHVLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FGYPDPTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FIAAGLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIADLVVGL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIAGTIQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIESSFWNF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIGKIPIML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIGKLRSNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FIGYPITL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIIDTRDAGYGGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,FIISRPTKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FIPKFITHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FISLDEINL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FITDPVVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FITEFPLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FIVGDQISF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FIYKHGLKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FKQYANDNGVD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FLAHIYTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLANVSTVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,FLASVSTVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,False
+HLA-C*17:01,FLCDVDIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,FLDEEVKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLDEPTNHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLDGIYVSEK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FLDLSIIRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FLDLTEQEF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLDSQTATF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLDSTSPLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLDVAGLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLDWPQGTF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLFELPSRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLFSKFIEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLGGVVHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLGKPLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLGNVLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FLGPEIFF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,FLGPIVNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FLGYPITL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLITQLKM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLITQLKML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLKLLGAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLLPILSQI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLLQHQTFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FLPDHPIVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,FLPEAPAEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLPQKIIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLPSSVLWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLSHIPITL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FLSKEIWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,FLSQPILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLSSVIQNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLTGPLNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLTRIISQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLWERPTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FLYAGHIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,False,True
+HLA-C*17:01,FLYGGELVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLYPFPLAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FLYQYSTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FMVDRVVDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,FQNIRPLFI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FQSSAVMAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FQYSKSPSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSADGHTML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSAPKINL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSAPRHGSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSCGVISTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSDGLAHLDNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FSDPFLKYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSDVEAHF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSGNPIKVSF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,False,True,True
+HLA-C*17:01,FSGPAITL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSHAQTVVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSHSQITRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSIADSIEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSIGVGSRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSIPCEPNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSLAPITKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSLKISLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,FSLKTVLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSLMVVNRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSLPGATCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSLPHVGYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSNPRALYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSSPHGKDLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSSPPLSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSSPPVIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSSPPVILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSTEEFVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSTFTITRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,FSTRLFAVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSVCHILLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FSVGGLLKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FSVPLPARL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FSYPAGTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FSYPLDLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FTADPLSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTAQVIIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,FTCQRILFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,FTCRHVVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTDVNKIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTIGKAIWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTLSHITQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTMKTVLML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTPDIPTML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTSDIALRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTSTPVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTTDAIAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,FTYKQVVDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FTYNIPTCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FVAESHIIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FVAGGTVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVANAIIHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVAPSDIQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVDFEGISL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVDPAQITM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVDQFVEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVDTEIRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVEIKGSV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FVEPFVIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVFPGELLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVFQEPSLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVGGGIGGTIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVHDLVLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVIDLQTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVLGHFILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVLQRLVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,FVLRVMTQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FVMETFVHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVSFPLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FVSPEVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVTMTASRML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVVDIESRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,FVYENPISL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,FVYGESVEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,FVYGSMSFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,FVYNGPHML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAADGVIRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAAPAPTAV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAAPFIWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,False,True,True
+HLA-C*17:01,GAARPVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAAVPVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GADARALML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GADNSVVRF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,False
+HLA-C*17:01,GADPNATTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GADPSTVEM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GAFFGPIRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAFGKETDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAGAPVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAGAPVYM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAGPTMLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,GAGPYVDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAHQGVAVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAIARPACL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,GAIFVPIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,GAIGSPVRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAIIGPILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAILVVTKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAINHVLQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAISKIFVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAKKAVGGLGKLGKD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GALGGRALLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,GAQLHVTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GASKAVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GASKPNAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,GASLFLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GASNSAPHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GATLRTSRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GATPTPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GATSLVTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GATTTAPSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GATVEIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GATVTVLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAVERPLSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GAVGKTCLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAVGSRVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAVKKLTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAVPGITKF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GAVPIFIEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAVPIFIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,GAVPRLLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAVSTASHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,GAWSIPWKWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,GAYDHSYVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GAYGGGAKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,GAYGKVFLV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAYGTMTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAYHAVVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAYKYIQEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GAYMTKVD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GAYRGGERL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GAYSPIVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,False,True
+HLA-C*17:01,GAYTQVIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,GAYVHMVTH,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,GCGTVLLSGPR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GGGGGGGLGSGGSIR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,GGITSVIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GIANPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GIFQFPLNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,GIGVPIML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GIIDPRANPTQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GISPVPINL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GISQPIWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GIVGVFVKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GLGPVEYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GLIDHQTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GLIENPALL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GLPRWVTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GLYCGKTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,GLYEGLTWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GNFNYIEFTR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GPVYPHPVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GQALPIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GQTSVVSFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GQVGHILEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,GQYPRALEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,GQYSHLVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSDPRVTQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GSDPSIISL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSFDVADRMF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,GSHSMRYF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,GSISSVLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,GSSGGVIRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,GSTGTVAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSTRIITRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSVNRVTIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSVSDIIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSVSNPLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSYFRVTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GSYGRKTVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GTMGKPIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GTVDDVPKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GTVEQIVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,GTYTLIIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GVGPLLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GVIATIAFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,GVSPEPIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GVVDHQTEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GVWTYDDATKTF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,GYSFTTTAER,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HAAEALLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HAAHIISEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,HAAIVIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,HAAPQPQKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,HAGPVINTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HAIFKLTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,HAIYWPAFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,HAMQFPAEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HASDRIIAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,HASSSIVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HATVPIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HAVLLVTQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HAVRQPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HAYDREVHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,HIPDVITYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,HLDRPVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,HLPETKFSEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HLQLAIRNDEELNK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HPREPALGPHGPSR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HQAFSVVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,HQYDGLVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HRGFSGLQ,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HSISIPTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HSLSFETQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HSPGAVSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HTGPITCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HVAKEILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,HVDDMPNAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,HVYHHASML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,HVYSGVVNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAAGIFNDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAAGLYLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAAKKVLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,IAAPFTSKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IADPNIAKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,IADRPLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAFPDEQAEAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAGPVVEI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAIGKVLKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAILNNNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAILNNNLNTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,IALEATQLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,IALTDNALIAR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IANPTATLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAPGVTHEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAPTGHSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IAVAATPIPKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAVDKANL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAVGHIYYF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAVGSISFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,IAVGYVDDTQF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAVHVVPDQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAVKDGILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAYFHPQKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IAYSRPVYF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IGAGAPVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IGVGAVTML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IGYPITLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,IIDQVNPEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IIFATPTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IIHEIAVLEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IITRVETYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ILATVLSIPEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILDLGQNIF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILDNSPAFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILDPHVVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,ILDPHVVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILENNPLVDF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILIPNGVQIF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILLTQITNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILNPDNSFEIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILPEIIPIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILPEYADIF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILQKNVPIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,ILYGKIIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ILYSQCGDVMR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ISPTGHSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ISSHIPLIIQF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,ISTNSHPIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ISVGVINLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ISYFGYPSF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,ITKSIPIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,ITSDQPILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IVAINDPFI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IVAINDPFIDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IVAKQVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IVDGAVVKF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,IVDSYLPVIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,IVGPVVGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IVMEHVVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,IVQPIISKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,IVYPKPTWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,KAAEVYTRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAAKELRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KAAQEVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAASKVTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KADGVPVYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KADSVVVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAFAKKTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,KAFNHRSYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAFNTSSHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAFPYSSHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAFQHPSHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAFQKIVVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAFSYPSKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,KAGDVIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KAGPILEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,KALANVNIGSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KALGHPAML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KALGILTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KAPAPRPSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAPGSTSNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAPVTKVAA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAQQELEEQTRR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KASKEILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KATGKISKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,KATGPPVSEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KAVASVARL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAVGSIAYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KAVGTITKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KAYELALYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAYERGISL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAYVRVLDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KAYYKSSHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KIHEPIML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,KIPNFCVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KITPLEIEVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,KIYEEPIIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KLDEEALL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,KLGPAIKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,KLHVDPENF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KLLPQLTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,KLSKPVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KQYGNEVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,KSDPSIVRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KSGPVVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KSIKNVTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,KSTSNITKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KTPNFSTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,KVANVSLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAAFVPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAAGAVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAAGHLVQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAAHIPLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAAKKAVWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAAPQLIML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAAPVISVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAARLVTFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAASVFTCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LADKNVPNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LADSKEIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAFEGPILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAFKEMFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAFPGEMLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAFPSPEKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAFSRALEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,LAFSRPSQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAGLHVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAGPALEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAGPASNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAGPVLGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,LAIASGIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,LAIFVICQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAITDEILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LALLHLLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LALLLPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,LALSQISYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LANEVKVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAPTDVKEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LASSYIAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LATASSPKF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,LATRAIPEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,LATRSFPQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LATVLGRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,LATVLSIPELL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,LAVAHPLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,LAVGAPLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAVLHTVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAVNVVTTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,LAVRVVTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,LAYEKIAYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAYHLAVVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAYIHLIEF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LAYPFQSLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LAYSEPCGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,LAYTGFVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,LAYYGFTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,LEEALQQAKED,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LFGMIITI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LFHPSNVEM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,LGTAFMLWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LIGPPLLI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,LILADIHDF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LILPGFIDF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LILPGYIDF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,LIRKLPFQRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,LISKIPHIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LITQLKML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LIYGRPVYV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LLDGKLVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LLDGRVALL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LLDPVPPVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LLGPTVML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LLGPWLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LLIENVASL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,LLPISPFML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,LLPSHPLEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LLQAYLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LQGPILRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LQYSFPLQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LSAVVASII,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,LSDHHIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LSDTRTRYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LSFPTTKTYF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LSSDPIAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LTAPEIIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,False,True
+HLA-C*17:01,LTDQTLIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,LTGPVLEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LTPEEEEILNK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LTPYRVIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LVGLFEDTNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,LVGPQIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LVIGRVLEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,LVLEPRGL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,LVLTGFSHIDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,False,True,True
+HLA-C*17:01,LVTHLVTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,False,True,True
+HLA-C*17:01,LVVLSGLHM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MADPNIRFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MAGDIILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MAGKEVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MAGSPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MAINSISKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MALLATVLGRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MANGAVIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MAPHWAVWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,MAVRLVTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MAYARQIYI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MAYFPAISL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,MDDNRLLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MFPLVKSAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MIIGGGMAFTF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MIPYQIGDVF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MLDPLEVHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MLKPSLPFTSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,MRQEYEQLIAKNRKD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,MSSLKLLKYVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,MVDGTLLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,MVNPTVFF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAAEAMLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NAAFKDVAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,NADPIAKYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAFKEITTM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAFSGVMML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAGKILLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAGPAIVI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NANHPDFPM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAPLVHATL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NAPWAVTSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NARLAADD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NASEHIVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NATIRVTNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NAVCKLTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NAVSQITRM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,NAVSVHSNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NAYQRAILLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NAYTGIVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NFGIGQDIQPK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NIEDVIAQGIGK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,NLRTALIFGGF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NLSLPIPI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,NSDDRVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,NSPEKACSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,NVKAQEREQIKT,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,NVKVDPEIQ,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,NVPVRDIPA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,PLIGCVLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,PLPVQVFNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,False
+HLA-C*17:01,PLYARPIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,PPAPPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,PPYTVVYFPVR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,PPYTVVYFPVRG,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,PPYTVVYFPVRGR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,PSLSHNLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,PVQEELSVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,QAAPPIEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,QAFPRITQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,QAGPVIKV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,QAITALAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,QASHQPLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,QIPEIKQTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,QSAPAPVML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,QSIAFISRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,QSYGNVVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,QTIALITYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,QTYFFPIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,QVKSGTIFDNF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,QVTQPTVGMNF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RAADVLVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAAEDDEDDDVDTK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,RAAEDDEDDDVDTKK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,RAAEKLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RAAPHRISL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAAPPPLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAASKTVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,RAFDHVLHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAFREIQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RALDHYLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RALEHFTDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAMKHPLGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAQGRVLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RATPHPSEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAVFPIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAVGVQNYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,RAVHILTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAVNDYPSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAYDGTTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,False
+HLA-C*17:01,RAYQCVVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RAYTSETYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,RIAGEASRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RIAIEIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RIPSFVTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RISNPPILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RITNQVIYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RIYGNKTEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RIYQKKTQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RLLLPGEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RPPGFSPFR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,RSGPLTGWRVF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,RSHYSPIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,RSLPFPTVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RSYWKEVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RTIGVITKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RVAPEEHPTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RVAPEEHPVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,RVAPEEHPVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RVDPVNFKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,RVVDLITNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,RVVDNPIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,RVYIHPFHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,RVYPKCTWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAAAAAAAAAAAAK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAAELYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAAPQLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAASPVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAAVSML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAFAVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAGLPVCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,False,True
+HLA-C*17:01,SAAGVLIKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAAHEVEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAALHIDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAALHLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAALSCTFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAMGGILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAAMVFSAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAPAIQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAPAIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SAAPGTASL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SAAPPLDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SAAPRTVAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAPSPAAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,SAAPSPQKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAPTFLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAAPVAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,SAAPVAHLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAAQPLNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAARFALL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAARLTMM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,SAASRVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,SAASVWGNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,SAATATWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAATFSVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,SAATKIVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAAVQILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SACDGIFHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SACGHTAVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SADKFQVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SADPEARRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SADPNVVDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,False
+HLA-C*17:01,SADPRHILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SADSRIAEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SAFGGAARL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAFLHAIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAFLSAIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAFNEITKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SAFRGVGLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,SAFSNVAWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAGPLLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAIDPEAIPVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAIDRIFTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAIDSILNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAIGLPVCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAIGVLAFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAIGYIHSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAIHTIAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,SAIIVASYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAIPVTYVF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAIQGVALL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAIQLVSCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAITQVLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,SAITTLMHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAKERPIWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAKSWPIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SALEFLTQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,SALGHLSFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SALGSQAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SALGYLHSI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,SALPFITYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SALSAPTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAMAVVSRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,SANDGFVRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAPAGVQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAPKGSVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAPTETHSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,False,True
+HLA-C*17:01,SAPVGVTAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,SAPYGRITL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SAQGKPLAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SASAAEVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SASASSPKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SASDQVLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SASNSFSRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SASPSVAQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SATEALLWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,SATGEIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,SATGTVSDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SATICLAYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SATIVIAYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SATLPNYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SATPRPLHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SATQVFPRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SATQVYTIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SATRVYIVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAVAVCSFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAVENLLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAVFMVTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAVGKTSFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SAVGKTSLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAVPCALLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAVSGAIRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,SAVTPVTIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAVTRLLIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,SAVTTTAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAWDPSREATSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SAYEFVTWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SAYEVIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SAYGAAAHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SAYKELTDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SFEDAKEAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SGAPHAILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SGFGGITML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SGFSGVIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SGISRLTWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,SGLTHVTSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SGPGPAAAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SGVKKPIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SIADRPLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SIAGPVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SIFEENLF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SIIALCTHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SIPDFPMHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SIPEKNRPL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,False
+HLA-C*17:01,SITDVYLLNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SIYRVPLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SIYSRFVQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,False,True
+HLA-C*17:01,SLAHRPVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SLAPPLCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,SLDDGWIRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SLVNLGGSK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SLYPHFTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SLYQSKYEEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SMDNNRSLDLDSIIA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,SNYSHVIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SQVPFPSRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SQYPFPVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSGGVIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,SSGLPRNTVVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SSGREIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSHARPVSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSHGGEIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSHGNPILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSIEHLTTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SSLKLLKYVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SSLKLLKYVLF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SSPQPGSAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSSDAIYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSSPNIMLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,SSVATITRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SSVATVVYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,SSVGKVSVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSVTKVLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSYKEVTEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,SSYPGKTAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SSYYGVVRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,STARHLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,STGPIVDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,STIRLLTSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,STPQHPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,STTRELYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVAQPIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVATVVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVDIAAFNKI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SVGKPLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,SVGPVSNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVGQPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVISVVSYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SVKDLVILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SVPEAQSAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVPLAATSM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,SVSKEVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SVYGRLIDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,SVYSGCLHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,TAAGAVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAAGGTVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAAGKEVML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,TAAKEIEV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAAPSASLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAAPSPLRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAAPSPSLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAAPTVCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAAPTVCLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,TAAPVPTTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,TAAVHIIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TADAIARKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TADGAHFEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TADGRVVKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAFFGDVVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,TAFPEASFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,False,True
+HLA-C*17:01,TAGPAVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAIAGLTFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,TAIREISLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAIRGAIIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAISLFYEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TALENPVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TALERPSFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TALGKLLYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TALHIACYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,TAMDVVYAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAMEQPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAPQGNVDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,TAPTGHTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TASEPLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TASQRFIEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TATATNHVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TATEQWIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,TAVRWVVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAVSRPLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAVVVGTITDDVR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TAYAYATVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,TAYRNITEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TAYWKELSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TDAPSFSDIPNPI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TEKPEVID,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TFTVTEKPEVID,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,TGAAPIIDVVR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TINEPILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TIPVSPLHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TISPIIKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TITQAVIFI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TKAVDAETAE,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TKTFTVTEKPEVID,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TLDELPAML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TLKGETTTEAVD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TLKGETTTKAVD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TSIHHATHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,TSLSALTQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TSYPDPILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TTAAPLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TTPDHPLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TTTEAVDAATAE,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,TTTEAVDAATAEK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,TTTKAVDAETAE,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TTTKAVDAETAEKA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TVALPVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TVARPLFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TVFERPTFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TVTEKPEVID,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TVTEKPEVIDA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,TVVTITIMPAF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,TVWPTMITPML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,TYDDATKTF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TYDDATKTFTVT,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,TYDDATKTFTVTE,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,TYDDATKTFTVTEK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAAAVSYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAADIAVQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VAAFVCTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAAGVLCEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAAKETLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAAKEVVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAAKSVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAANKAVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VAAPILCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAASNIVQM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAATVVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VADEGICYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,VADGYPVRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VADKGGMLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VADKKARLI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VADNLAIQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,VADPTPFHI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VADPYVVIM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAFPLLTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAFSPVTEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VAFTPEGERL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAGGAVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VAGPSVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAGQVVEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,False,True
+HLA-C*17:01,VAHGGVQKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,VAHGKQLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAHKEIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAHSPPEKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAHSPPSTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAHVDDMPNAL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAIGFKTKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAIGNPVHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAIGVKVYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAILPQLFM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAIQAVLSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,VAISSLTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,VAITRVANL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAIVHAVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VALARALFI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VALPASGWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VALPGVAVSML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VALSQIVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAMKESLLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VAPFMANIPLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAPGKDLTK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,VAPRSGLAA,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAPSRLDF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAPVASAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VAPVTHVSV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,VAQKKASFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VARVWSLMRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VASEYPVIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VASKFITL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VASVIVTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VATGPLSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VATKIFQEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VATRALLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VATSVLTQM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,VATVVPTHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAVAEVIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAVGHGSDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAVGVYARL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAVKRAVML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAVPWAALL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAVQHFSLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,VAVTSYTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAYDNAVNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAYFGLTTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAYGKGTYF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAYGLHELL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAYHGSYLWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VAYKFPELL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAYPGIPKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VAYWRQAGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VGAGAPVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VGAGAPVYM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VGGPEIEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VGPPGRSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,VGSRPIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,VGVNNPVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VGYDGPIYM,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VGYHKHITL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VIAQGIGKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,VIDEPVRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VIGPPVVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VIIERLLLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VIISVITQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VILPVPAF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,VIPESVILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VIPGHLIFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VISLEGKPL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VKLAKAGKNQGD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VLAPVIDL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VLDKYELL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VLDMHGFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VLDVVERSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VLEYLTAEIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VLLESEQF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VLLSHLSYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VLPEHVSVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,VLPERYSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VLPNDPVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VLQALKQLQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VNLGGSKSISIS,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VNLPINGNGKQ,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VNVEMNAAPGVD,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,False,True
+HLA-C*17:01,VPAGYGAAGVLAAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VSAAGLVQGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VSAIPIWL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VSGPRLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VSIDTVTVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,VSIFPDSGHF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VSLGHISML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VSSHEVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VSVLPTTADF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,VSYVRSVYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VTAKATIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VTIGHIALL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,VTYGFPIML,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VTYPGELLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VVAPFMANIPL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VVDGGLQLIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VVGPKICL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,False
+HLA-C*17:01,VVIRGNSIIM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VVIRGNSIIML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,VVPDHPVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VVPEPGQPL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VVPEWASCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,VVTITIMPAF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,VVYGGISRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,VVYPWTQRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WADDWLVHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WAVALPVYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WAVPQPTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WAYPRQVFI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WGYPHPFLI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,WLPAGDALLQM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WLYPYSILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WSMTSDIF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WSMTSDIFF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WVNILKNPHF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,WVRGEGPIFF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAACEQRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAADNQIYI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAAEGQKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAAGENIR,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAAGVHSVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAAIPIKF,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAAPHFFHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAAQAHLKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAAQPELL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAASAIGYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,YAASFINL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAATFLHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YACAQSSKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YACEKEVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YACGFSVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YADPSILYI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YADSSIAEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YADYRIIDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,YAFGGGCEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAFGRVFSGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAFPKAVSV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAFPKSITV,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAFPLAHSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAFSGVEEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAFSSVEKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,YAFVRPVIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAIEAIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YAIGLVMRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAIGNAPEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAIPHPDQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAIPTVCVGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAIREEIVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAISKPDIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAISKPEVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAITRVLRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YALCGFGGVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YALDLSTFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YALGALNHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YALLGRTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YALPHAIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YALTAIMKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YALTSPLQL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,YANKYNIML,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YANSKAVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,False
+HLA-C*17:01,YAPKGSSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YASGRTTGIVM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YASKEVIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,False
+HLA-C*17:01,YASPDLSKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YATTGKCEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAVDRAITHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAVGGYTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAVGYMLRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAVPSAGLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAVVGTVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,YAVYSLLYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAYAAQNLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAYEAVEQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAYETKDALCL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YAYFNFPEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAYLKAIVL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAYNPLAGGLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAYPGVLLI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,YAYRDAVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YAYTGRLEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,YEEIAQRSKEEAEAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YFAERVTSL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YGAGIVLRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,YGAPTAVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,YGIENEVFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YGLPVVVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YGSDRILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YGSVPVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YGYEHILTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YGYGHESEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,YGYGSTVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YGYSKLIEL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YIADPNIAKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,YIALPLTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YIDKVRFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YIFSHILRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YIIPVVLFL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YIITGGGFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,YIPDFLTLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YIPNKVLIL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YISKEQLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YIVDLLTHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,YIYHGTVKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,YLADIFTKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,YLAKVLWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YLDIARYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLDSPLVRF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,False
+HLA-C*17:01,YLGKVLEL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLGQVAILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLGWTPYM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLIARVMLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YLITSVELL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,False,True,True
+HLA-C*17:01,YLLDLHSYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,YLLPAIVHI,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLLPFISKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLLPSVVLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLNPDQSGEF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLPDGTASL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YLPSFFTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YLVPRAVLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YLYFSSTKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YLYGQTTTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YLYPDITRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YMIAHITGL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YMIDNVILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YQIDTVINL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YQILVVTRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YQVDSRTYL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YQYGAVVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YQYLLVTAL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,False
+HLA-C*17:01,YQYPRPLLI,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YQYPVIIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YSAPEILL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSAPRVWWM,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,YSAPVIHVL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YSDPRFLNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YSFKVITKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSGLIYTYSGL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSHPGVVFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSKLKKERPDF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSLDHISSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,False,True
+HLA-C*17:01,YSLPNAPTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSLQVTTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,False,True
+HLA-C*17:01,YSLSSTLTL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSNKEIFL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSNRVVDL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSSDTTPLL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YSTEPNNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSVDIPLDK,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,YSVETVTLL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSVWIGGSIL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSYSKGTYL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YSYYGPLNL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YTAEPVTL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,YTAPTAIRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,False,True
+HLA-C*17:01,YTCPVITNL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YTIPLAIKL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YTSRIVVRL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YVAIQAVLSL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YVAPKAVWL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,False,True,True,True
+HLA-C*17:01,YVAPRRILL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
+HLA-C*17:01,YVFPGVTRL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YVGSRPIKL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,YVINVTTHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,False,True,True,True
+HLA-C*17:01,YVQSMDVAAF,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,True,True,True
+HLA-C*17:01,YVVPYMIHL,100.0,<,qualitative,mass_spec,Stevanović - cellular MHC/mass spectrometry,HLA-C*17:01,True,False,True,True
+HLA-C*17:01,YVVPYTIHL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,False,True,True
+HLA-C*17:01,YVYKNVSQL,100.0,<,qualitative,mass_spec,MS:pmid:31844290,,True,True,True,True
