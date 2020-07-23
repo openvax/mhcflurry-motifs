@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}MHC class I allele motifs (MHCflurry {{version}}) {% endblock %}
+
+{% block content %}
+<h1>MHC class I motifs as learned by MHCflurry {{version}}</h1>
+
+<p>Use the search field to find your allele.</p>
+
+<table id="alleles" class="table display row-border">
+    <thead>
+        <tr><th>Allele</th></tr>
+    </thead>
+    <tbody>
+    {% for key, value in motif_artifacts_df.iterrows() %}
+        <tr>
+            <td><a href="{{ value['page'] }}">{{ value['allele']  }}</a></td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
+
+{% block footer %}
+<script>
+    $(document).ready(function() {
+        $('#alleles').DataTable({
+            "bsort": false,
+             "aaSorting": []
+        });
+    });
+</script>
+{% endblock %}

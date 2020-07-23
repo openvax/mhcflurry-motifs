@@ -3,3 +3,5 @@ mkdir versions/$NEW_VERSION
 cp -r "$(mhcflurry-downloads path analysis_predictor_info)" versions/$NEW_VERSION/analysis_predictor_info
 rm current
 ln -s versions/$NEW_VERSION current
+echo $NEW_VERSION > current/MHCFLURRY_VERSION.txt
+python generate.py

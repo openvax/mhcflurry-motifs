@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}MHC class I allele motifs: {{ allele }}{% endblock %}
+
+{% block content %}
+<h1>{{ allele }}</h1>
+<div class="container">
+<figure class="figure">
+    <img src="{{ logo_filename }}" class="img-fluid" alt="{{ allele }} motif" />
+    <figcaption class="figure-caption">Motifs for {{ allele }}</figcaption>
+</figure>
+</div>
+
+<div class="container">
+<figure class="figure">
+    <img src="{{ length_distribution_filename }}" class="img-fluid" alt="{{ allele }} length distribution" />
+    <figcaption class="figure-caption">Length distributions for {{ allele }}</figcaption>
+</figure>
+</div>
+{% endblock %}
