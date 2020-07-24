@@ -1,10 +1,5 @@
 # mhcflurry-motifs
-Motifs for MHC I alleles as predicted by MHCflurry
+Web site giving motifs and other information for MHC I alleles as predicted
+by MHCflurry.
 
-Work in progress.
-
-To test locally:
-```
-cd pages
-bundle exec jekyll serve
-```
+Hosted at: https://openvax.github.io/mhcflurry-motifs/
