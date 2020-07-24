@@ -1,5 +1,3 @@
-# Contact
-
 ## Issues
 For cases where motifs appear to be substantially wrong, please file an issue on the
 [mhcflurry-motifs](https://github.com/openvax/mhcflurry-motifs) GitHub

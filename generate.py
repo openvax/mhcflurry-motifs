@@ -129,7 +129,7 @@ def run():
             rendered_markdown[name] = html
 
     common_variables = {
-        'version': open(args.version_file, "r").read(),
+        'version': open(args.version_file, "r").read().strip(),
         'motif_artifacts_df': motif_artifacts_df,
         'equivalent_alleles': equivalent_alleles,
         'markdown': rendered_markdown,
