@@ -10,6 +10,9 @@ egregious mismatch, please let us know by filing an
 This will help us improve MHCflurry in the future.
 
 ## Result generation
+We are using the MHCflurry {{version}} binding affinity (BA) prediction to
+generate these, not the presentation scores. This may change in the future.
+
 For each allele, we took the top 1% predicted binders across a large set of random peptides.
 The peptides were sampled using the amino acid frequencies of the peptides in the
 MHCflurry training data.

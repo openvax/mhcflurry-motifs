@@ -4,23 +4,47 @@
 
 {% block content %}
 <h1>{{ allele }}</h1>
+
 <div class="container">
-<figure class="figure">
+    <p></p>
+    <p class="lead"><a href="index.html">Back</a> to allele selection.</p>
+</div>
+
+<div class="container">
+    <h2>Motif</h2>
+    <figure class="figure">
     <img src="{{ logo_filename }}" class="img-fluid" alt="{{ allele }} motif" />
     <figcaption class="figure-caption">Motifs for {{ allele }}</figcaption>
 </figure>
 </div>
 
 <div class="container">
-<figure class="figure">
+    <h2>Length distribution</h2>
+    <figure class="figure">
     <img src="{{ length_distribution_filename }}" class="img-fluid" alt="{{ allele }} length distribution" />
     <figcaption class="figure-caption">Length distributions for {{ allele }}</figcaption>
 </figure>
 </div>
 
 <div class="container">
-    <p></p>
-    <p class="lead"><a href="index.html">Back</a> to allele selection.</p>
+    <h2>Extracted MHC positions (pseudosequence)</h2>
+    <code>{{ sequence }}</code>
+</figure>
 </div>
+
+{% if equivalent_alleles[allele] %}
+<div class="container">
+    <h2>Alleles with identical predictions</h2>
+
+    <p>{{ allele }} has identical extracted MHC positions (pseudosequence) as
+        the following others. Predictions for these alleles are the same.</p>
+    <ul>
+        {% for allele2 in equivalent_alleles[allele] %}
+        <li>{{ allele2 }}</li>
+        {% endfor %}
+    </ul>
+</div>
+<p></p>
+{% endif %}
 
 {% endblock %}
