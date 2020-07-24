@@ -12,6 +12,12 @@
 ) </title>
     
 
+    <style>
+        .dataTables_filter {
+            float: left !important;
+        }
+    </style>
+
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -38,6 +44,8 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li class="active"><a href="index.html">Home</a></li>
+        <li class=""><a href="about.html">About</a></li>
+        <li class=""><a href="contact.html">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->
     </div>
@@ -47,7 +55,7 @@
 <h1>MHC class I motifs as learned by MHCflurry 2.0
 </h1>
 
-<p>Use the search field to find your allele.</p>
+<p>Find your allele below.</p>
 
 <table id="alleles" class="table display row-border">
     <thead>
@@ -25739,7 +25747,9 @@
     $(document).ready(function() {
         $('#alleles').DataTable({
             "bsort": false,
-             "aaSorting": []
+            "aaSorting": [],
+            "lengthChange": false,
+            "pageLength": 10,
         });
     });
 </script>

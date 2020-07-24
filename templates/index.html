@@ -5,7 +5,7 @@
 {% block content %}
 <h1>MHC class I motifs as learned by MHCflurry {{version}}</h1>
 
-<p>Use the search field to find your allele.</p>
+<p>Find your allele below.</p>
 
 <table id="alleles" class="table display row-border">
     <thead>
@@ -26,7 +26,9 @@
     $(document).ready(function() {
         $('#alleles').DataTable({
             "bsort": false,
-             "aaSorting": []
+            "aaSorting": [],
+            "lengthChange": false,
+            "pageLength": 10,
         });
     });
 </script>

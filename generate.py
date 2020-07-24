@@ -6,6 +6,8 @@ import sys
 import argparse
 import os
 import shutil
+import glob
+import markdown
 import jinja2
 
 import pandas
@@ -22,6 +24,11 @@ parser.add_argument(
     metavar="DIR",
     default="templates/",
     help="Templates dir. Default: %(default)s.")
+parser.add_argument(
+    "--markdown",
+    metavar="DIR",
+    default="markdown/",
+    help="Markdown dir. Default: %(default)s.")
 parser.add_argument(
     "--version-file",
     metavar="TXT",
@@ -44,6 +51,11 @@ def page_name(allele):
         allele.replace("*", "-").replace(":", "-"))
     return name
 
+PAGES = [
+    'index.html',
+    'about.html',
+    'contact.html',
+]
 
 def run():
     args = parser.parse_args(sys.argv[1:])
@@ -57,24 +69,36 @@ def run():
     motif_artifacts_df["page"] = motif_artifacts_df.allele.map(page_name)
     motif_artifacts_df["sort_key"] = ~motif_artifacts_df.allele.str.startswith("HLA")
     motif_artifacts_df = motif_artifacts_df.sort_values(["sort_key", "allele"])
-
-    version = open(args.version_file, "r").read()
-
     if args.max_alleles:
         motif_artifacts_df = motif_artifacts_df.head(args.max_alleles)
 
+    rendered_markdown = {}
+    if args.markdown:
+        for f in glob.glob(os.path.join(args.markdown, "*.md")):
+            with open(f, "r", encoding="utf-8") as fd:
+                text = fd.read()
+            html = markdown.markdown(text)
+            name = os.path.basename(f).replace(".md", "")
+            rendered_markdown[name] = html
+
+    common_variables = {
+        'version': open(args.version_file, "r").read(),
+        'motif_artifacts_df': motif_artifacts_df,
+        'markdown': rendered_markdown,
+    }
+
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(args.templates))
-    index_template = env.get_template('index.html')
 
-    out_filename = os.path.join(args.out, 'index.html')
-    with open(out_filename, 'w') as fh:
-        fh.write(
-            index_template.render(
-                page_name="home",
-                version=version,
-                motif_artifacts_df=motif_artifacts_df))
-
-    print("Wrote %s" % out_filename)
+    print("Writing main pages.")
+    for page in PAGES:
+        page_template = env.get_template(page)
+        out_filename = os.path.join(args.out, page)
+        with open(out_filename, 'w') as fh:
+            fh.write(
+                page_template.render(
+                    page_name=page.replace(".html", ""),
+                    **common_variables))
+        print("Wrote %s" % out_filename)
 
     print("Writing allele pages.")
     allele_template = env.get_template('allele.html')
@@ -82,12 +106,11 @@ def run():
             motif_artifacts_df.iterrows(), total=len(motif_artifacts_df)):
         out_filename = os.path.join(args.out, row.page)
         d = row.to_dict()
+        d.update(common_variables)
         with open(out_filename, 'w') as fh:
             fh.write(
                 allele_template.render(
                     page_name="allele",
-                    version=version,
-                    motif_artifacts_df=motif_artifacts_df,
                     **d))
 
         for item in ['logo_filename', 'length_distribution_filename']:
